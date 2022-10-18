@@ -1,0 +1,951 @@
+balls_per_over,team1,team2,gender,season,date,event,match_number,toss_winner,toss_decision,player_of_match,winner,win_by,match_id,winner_type,outcome,eliminator,method,date1,date2,venueID
+6,Kolkata Knight Riders,Chennai Super Kings,male,2015,2015/04/30,Indian Premier League,30.0,Kolkata Knight Riders,field,AD Russell,Kolkata Knight Riders,7.0,829723,wickets,,,,,,V023
+6,Chennai Super Kings,Mumbai Indians,male,2015,2015/05/08,Indian Premier League,43.0,Chennai Super Kings,bat,HH Pandya,Mumbai Indians,6.0,829789,wickets,,,,,,V028
+6,Royal Challengers Bangalore,Sunrisers Hyderabad,male,2015,2015/04/13,Indian Premier League,8.0,Sunrisers Hyderabad,field,DA Warner,Sunrisers Hyderabad,8.0,829719,wickets,,,,,,V029
+6,Rajasthan Royals,Delhi Daredevils,male,2015,2015/05/03,Indian Premier League,36.0,Delhi Daredevils,field,AM Rahane,Rajasthan Royals,14.0,829777,runs,,,,,,V016
+6,Kolkata Knight Riders,Kings XI Punjab,male,2015,2015/05/09,Indian Premier League,44.0,Kings XI Punjab,bat,AD Russell,Kolkata Knight Riders,1.0,829791,wickets,,,,,,V023
+6,Chennai Super Kings,Sunrisers Hyderabad,male,2015,2015/04/11,Indian Premier League,4.0,Chennai Super Kings,bat,BB McCullum,Chennai Super Kings,45.0,829711,runs,,,,,,V028
+6,Delhi Daredevils,Kings XI Punjab,male,2016,2016/04/15,Indian Premier League,7.0,Delhi Daredevils,field,A Mishra,Delhi Daredevils,8.0,980913,wickets,,,,,,V031
+6,Chennai Super Kings,Kings XI Punjab,male,2015,2015/04/25,Indian Premier League,24.0,Chennai Super Kings,bat,BB McCullum,Chennai Super Kings,97.0,829753,runs,,,,,,V028
+6,Kings XI Punjab,Delhi Daredevils,male,2014,2014/05/25,Indian Premier League,55.0,Kings XI Punjab,field,M Vohra,Kings XI Punjab,7.0,734039,wickets,,,,,,V030
+6,Mumbai Indians,Rajasthan Royals,male,2015,2015/05/01,Indian Premier League,32.0,Rajasthan Royals,field,AT Rayudu,Mumbai Indians,8.0,829769,runs,,,,,,V019
+6,Kings XI Punjab,Kolkata Knight Riders,male,2015,2015/04/18,Indian Premier League,14.0,Kolkata Knight Riders,field,AD Russell,Kolkata Knight Riders,4.0,829733,wickets,,,,,,V020
+6,Chennai Super Kings,Kings XI Punjab,male,2014,2014/05/30,Indian Premier League,,Chennai Super Kings,field,V Sehwag,Kings XI Punjab,24.0,734047,runs,,,,,,V019
+6,Chennai Super Kings,Royal Challengers Bangalore,male,2015,2015/05/04,Indian Premier League,37.0,Chennai Super Kings,bat,SK Raina,Chennai Super Kings,24.0,829779,runs,,,,,,V028
+6,Delhi Daredevils,Royal Challengers Bangalore,male,2015,2015/04/26,Indian Premier League,26.0,Royal Challengers Bangalore,field,VR Aaron,Royal Challengers Bangalore,10.0,829757,wickets,,,,,,V031
+6,Mumbai Indians,Chennai Super Kings,male,2015,2015/04/17,Indian Premier League,12.0,Mumbai Indians,bat,A Nehra,Chennai Super Kings,6.0,829729,wickets,,,,,,V019
+6,Rajasthan Royals,Mumbai Indians,male,2015,2015/04/14,Indian Premier League,9.0,Mumbai Indians,bat,SPD Smith,Rajasthan Royals,7.0,829721,wickets,,,,,,V021
+6,Kolkata Knight Riders,Sunrisers Hyderabad,male,2015,2015/05/04,Indian Premier League,38.0,Sunrisers Hyderabad,field,UT Yadav,Kolkata Knight Riders,35.0,829781,runs,,,,,,V023
+6,Sunrisers Hyderabad,Kings XI Punjab,male,2014,2014/05/14,Indian Premier League,39.0,Kings XI Punjab,field,WP Saha,Kings XI Punjab,6.0,734007,wickets,,,,,,V027
+6,Chennai Super Kings,Sunrisers Hyderabad,male,2014,2014/05/22,Indian Premier League,50.0,Sunrisers Hyderabad,field,DA Warner,Sunrisers Hyderabad,6.0,734029,wickets,,,,,,V001
+6,Mumbai Indians,Delhi Daredevils,male,2015,2015/05/05,Indian Premier League,39.0,Delhi Daredevils,bat,Harbhajan Singh,Mumbai Indians,5.0,829783,wickets,,,,,,V019
+6,Chennai Super Kings,Kolkata Knight Riders,male,2015,2015/04/28,Indian Premier League,28.0,Kolkata Knight Riders,field,DJ Bravo,Chennai Super Kings,2.0,829765,runs,,,,,,V028
+6,Kings XI Punjab,Mumbai Indians,male,2015,2015/05/03,Indian Premier League,35.0,Mumbai Indians,bat,LMP Simmons,Mumbai Indians,23.0,829775,runs,,,,,,V030
+6,Kings XI Punjab,Sunrisers Hyderabad,male,2015,2015/04/27,Indian Premier League,27.0,Kings XI Punjab,field,TA Boult,Sunrisers Hyderabad,20.0,829759,runs,,,,,,V030
+6,Royal Challengers Bangalore,Kings XI Punjab,male,2015,2015/05/06,Indian Premier League,40.0,Kings XI Punjab,field,CH Gayle,Royal Challengers Bangalore,138.0,829785,runs,,,,,,V029
+6,Delhi Daredevils,Sunrisers Hyderabad,male,2015,2015/05/09,Indian Premier League,45.0,Sunrisers Hyderabad,bat,MC Henriques,Sunrisers Hyderabad,6.0,829793,runs,,,,,,V002
+6,Delhi Daredevils,Mumbai Indians,male,2015,2015/04/23,Indian Premier League,21.0,Mumbai Indians,field,SS Iyer,Delhi Daredevils,37.0,829747,runs,,,,,,V031
+6,Rajasthan Royals,Delhi Daredevils,male,2014,2014/05/15,Indian Premier League,41.0,Delhi Daredevils,field,AM Rahane,Rajasthan Royals,62.0,734011,runs,,,,,,V021
+6,Chennai Super Kings,Rajasthan Royals,male,2014,2014/05/13,Indian Premier League,37.0,Rajasthan Royals,bat,RA Jadeja,Chennai Super Kings,5.0,734003,wickets,,,,,,V001
+6,Rajasthan Royals,Kolkata Knight Riders,male,2014,2014/05/05,Indian Premier League,25.0,Kolkata Knight Riders,field,PV Tambe,Rajasthan Royals,10.0,733979,runs,,,,,,V021
+6,Sunrisers Hyderabad,Rajasthan Royals,male,2015,2015/04/16,Indian Premier League,11.0,Rajasthan Royals,field,AM Rahane,Rajasthan Royals,6.0,829727,wickets,,,,,,V003
+6,Chennai Super Kings,Royal Challengers Bangalore,male,2014,2014/05/18,Indian Premier League,42.0,Chennai Super Kings,bat,AB de Villiers,Royal Challengers Bangalore,5.0,734013,wickets,,,,,,V001
+6,Kings XI Punjab,Kolkata Knight Riders,male,2014,2014/05/11,Indian Premier League,34.0,Kolkata Knight Riders,field,G Gambhir,Kolkata Knight Riders,9.0,733997,wickets,,,,,,V004
+6,Royal Challengers Bangalore,Delhi Daredevils,male,2014,2014/05/13,Indian Premier League,38.0,Delhi Daredevils,field,Yuvraj Singh,Royal Challengers Bangalore,16.0,734005,runs,,,,,,V029
+6,Royal Challengers Bangalore,Sunrisers Hyderabad,male,2014,2014/05/04,Indian Premier League,24.0,Royal Challengers Bangalore,field,AB de Villiers,Royal Challengers Bangalore,4.0,733977,wickets,,,,,,V029
+6,Mumbai Indians,Sunrisers Hyderabad,male,2014,2014/04/30,Indian Premier League,20.0,Mumbai Indians,field,B Kumar,Sunrisers Hyderabad,15.0,729317,runs,,,,,,V025
+6,Delhi Daredevils,Rajasthan Royals,male,2014,2014/05/03,Indian Premier League,23.0,Rajasthan Royals,field,KK Nair,Rajasthan Royals,7.0,733975,wickets,,,,,,V031
+6,Delhi Daredevils,Kolkata Knight Riders,male,2014,2014/05/07,Indian Premier League,28.0,Delhi Daredevils,bat,G Gambhir,Kolkata Knight Riders,8.0,733985,wickets,,,,,,V031
+6,Kolkata Knight Riders,Sunrisers Hyderabad,male,2014,2014/05/24,Indian Premier League,54.0,Kolkata Knight Riders,field,YK Pathan,Kolkata Knight Riders,4.0,734037,wickets,,,,,,V023
+6,Rajasthan Royals,Sunrisers Hyderabad,male,2015,2015/05/07,Indian Premier League,41.0,Rajasthan Royals,field,EJG Morgan,Sunrisers Hyderabad,7.0,829787,runs,,,,,,V016
+6,Delhi Daredevils,Kolkata Knight Riders,male,2015,2015/04/20,Indian Premier League,17.0,Kolkata Knight Riders,field,UT Yadav,Kolkata Knight Riders,6.0,829739,wickets,,,,,,V031
+6,Mumbai Indians,Chennai Super Kings,male,2014,2014/05/10,Indian Premier League,33.0,Chennai Super Kings,field,DR Smith,Chennai Super Kings,4.0,733995,wickets,,,,,,V019
+6,Delhi Daredevils,Chennai Super Kings,male,2014,2014/05/05,Indian Premier League,26.0,Chennai Super Kings,field,DR Smith,Chennai Super Kings,8.0,733981,wickets,,,,,,V031
+6,Kolkata Knight Riders,Rajasthan Royals,male,2014,2014/04/29,Indian Premier League,19.0,Rajasthan Royals,bat,JP Faulkner,,,729315,,tie,Rajasthan Royals,,,,V026
+6,Kolkata Knight Riders,Mumbai Indians,male,2014,2014/05/14,Indian Premier League,40.0,Kolkata Knight Riders,field,RV Uthappa,Kolkata Knight Riders,6.0,734009,wickets,,,,,,V004
+6,Mumbai Indians,Royal Challengers Bangalore,male,2014,2014/05/06,Indian Premier League,27.0,Royal Challengers Bangalore,field,RG Sharma,Mumbai Indians,19.0,733983,runs,,,,,,V019
+6,Sunrisers Hyderabad,Mumbai Indians,male,2014,2014/05/12,Indian Premier League,36.0,Sunrisers Hyderabad,bat,AT Rayudu,Mumbai Indians,7.0,734001,wickets,,,,,,V027
+6,Kings XI Punjab,Royal Challengers Bangalore,male,2014,2014/04/28,Indian Premier League,18.0,Kings XI Punjab,field,Sandeep Sharma,Kings XI Punjab,5.0,729313,wickets,,,,,,V025
+6,Kings XI Punjab,Chennai Super Kings,male,2014,2014/05/07,Indian Premier League,29.0,Chennai Super Kings,field,GJ Maxwell,Kings XI Punjab,44.0,733987,runs,,,,,,V004
+6,Rajasthan Royals,Mumbai Indians,male,2014,2014/05/19,Indian Premier League,44.0,Mumbai Indians,bat,MEK Hussey,Mumbai Indians,25.0,734017,runs,,,,,,V021
+6,Rajasthan Royals,Sunrisers Hyderabad,male,2013,2013/05/22,Indian Premier League,,Sunrisers Hyderabad,bat,BJ Hodge,Rajasthan Royals,4.0,598071,wickets,,,,,,V031
+6,Sunrisers Hyderabad,Kolkata Knight Riders,male,2013,2013/05/19,Indian Premier League,72.0,Kolkata Knight Riders,bat,PA Patel,Sunrisers Hyderabad,5.0,598069,wickets,,,,,,V027
+6,Chennai Super Kings,Mumbai Indians,male,2014,2014/04/25,Indian Premier League,13.0,Mumbai Indians,bat,MM Sharma,Chennai Super Kings,7.0,729303,wickets,,,,,,V025
+6,Kolkata Knight Riders,Kings XI Punjab,male,2014,2014/04/26,Indian Premier League,15.0,Kolkata Knight Riders,field,Sandeep Sharma,Kings XI Punjab,23.0,729307,runs,,,,,,V026
+6,Delhi Daredevils,Kings XI Punjab,male,2014,2014/05/19,Indian Premier League,45.0,Kings XI Punjab,field,AR Patel,Kings XI Punjab,4.0,734019,wickets,,,,,,V031
+6,Rajasthan Royals,Sunrisers Hyderabad,male,2014,2014/05/08,Indian Premier League,30.0,Rajasthan Royals,field,B Kumar,Sunrisers Hyderabad,32.0,733989,runs,,,,,,V021
+6,Sunrisers Hyderabad,Chennai Super Kings,male,2014,2014/04/27,Indian Premier League,17.0,Sunrisers Hyderabad,bat,DR Smith,Chennai Super Kings,5.0,729311,wickets,,,,,,V024
+6,Mumbai Indians,Kings XI Punjab,male,2014,2014/05/03,Indian Premier League,22.0,Kings XI Punjab,bat,CJ Anderson,Mumbai Indians,5.0,733973,wickets,,,,,,V019
+6,Royal Challengers Bangalore,Rajasthan Royals,male,2014,2014/05/11,Indian Premier League,35.0,Royal Challengers Bangalore,bat,JP Faulkner,Rajasthan Royals,5.0,733999,wickets,,,,,,V029
+6,Delhi Daredevils,Sunrisers Hyderabad,male,2014,2014/05/10,Indian Premier League,32.0,Sunrisers Hyderabad,field,DW Steyn,Sunrisers Hyderabad,8.0,733993,wickets,,,D/L,,,V031
+6,Chennai Super Kings,Kolkata Knight Riders,male,2014,2014/05/02,Indian Premier League,21.0,Chennai Super Kings,bat,RA Jadeja,Chennai Super Kings,34.0,733971,runs,,,,,,V001
+6,Kings XI Punjab,Sunrisers Hyderabad,male,2014,2014/04/22,Indian Premier League,9.0,Sunrisers Hyderabad,field,GJ Maxwell,Kings XI Punjab,72.0,729295,runs,,,,,,V024
+6,Chennai Super Kings,Mumbai Indians,male,2013,2013/05/21,Indian Premier League,,Chennai Super Kings,bat,MEK Hussey,Chennai Super Kings,48.0,598070,runs,,,,,,V031
+6,Chennai Super Kings,Delhi Daredevils,male,2014,2014/04/21,Indian Premier League,8.0,Chennai Super Kings,bat,SK Raina,Chennai Super Kings,93.0,729293,runs,,,,,,V026
+6,Delhi Daredevils,Rajasthan Royals,male,2015,2015/04/12,Indian Premier League,6.0,Rajasthan Royals,field,DJ Hooda,Rajasthan Royals,3.0,829715,wickets,,,,,,V031
+6,Rajasthan Royals,Kings XI Punjab,male,2014,2014/04/20,Indian Premier League,7.0,Kings XI Punjab,field,GJ Maxwell,Kings XI Punjab,7.0,729291,wickets,,,,,,V024
+6,Royal Challengers Bangalore,Kings XI Punjab,male,2014,2014/05/09,Indian Premier League,31.0,Royal Challengers Bangalore,field,Sandeep Sharma,Kings XI Punjab,32.0,733991,runs,,,,,,V029
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2014,2014/04/26,Indian Premier League,14.0,Rajasthan Royals,field,PV Tambe,Rajasthan Royals,6.0,729305,wickets,,,,,,V026
+6,Royal Challengers Bangalore,Mumbai Indians,male,2014,2014/04/19,Indian Premier League,5.0,Royal Challengers Bangalore,field,PA Patel,Royal Challengers Bangalore,7.0,729287,wickets,,,,,,V025
+6,Sunrisers Hyderabad,Rajasthan Royals,male,2014,2014/04/18,Indian Premier League,4.0,Rajasthan Royals,field,AM Rahane,Rajasthan Royals,4.0,729285,wickets,,,,,,V026
+6,Delhi Daredevils,Royal Challengers Bangalore,male,2014,2014/04/17,Indian Premier League,2.0,Royal Challengers Bangalore,field,YS Chahal,Royal Challengers Bangalore,8.0,729281,wickets,,,,,,V024
+6,Sunrisers Hyderabad,Kolkata Knight Riders,male,2014,2014/05/18,Indian Premier League,43.0,Sunrisers Hyderabad,bat,UT Yadav,Kolkata Knight Riders,7.0,734015,wickets,,,,,,V027
+6,Rajasthan Royals,Chennai Super Kings,male,2014,2014/04/23,Indian Premier League,10.0,Rajasthan Royals,field,RA Jadeja,Chennai Super Kings,7.0,729297,runs,,,,,,V025
+6,Chennai Super Kings,Kings XI Punjab,male,2014,2014/04/18,Indian Premier League,3.0,Chennai Super Kings,bat,GJ Maxwell,Kings XI Punjab,6.0,729283,wickets,,,,,,V026
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2014,2014/04/24,Indian Premier League,11.0,Royal Challengers Bangalore,field,CA Lynn,Kolkata Knight Riders,2.0,729299,runs,,,,,,V024
+6,Kolkata Knight Riders,Delhi Daredevils,male,2014,2014/04/19,Indian Premier League,6.0,Kolkata Knight Riders,bat,JP Duminy,Delhi Daredevils,4.0,729289,wickets,,,,,,V025
+6,Delhi Daredevils,Mumbai Indians,male,2014,2014/04/27,Indian Premier League,16.0,Mumbai Indians,bat,M Vijay,Delhi Daredevils,6.0,729309,wickets,,,,,,V024
+6,Sunrisers Hyderabad,Delhi Daredevils,male,2013,2013/05/04,Indian Premier League,48.0,Delhi Daredevils,bat,DJG Sammy,Sunrisers Hyderabad,6.0,598044,wickets,,,,,,V027
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2013,2013/05/18,Indian Premier League,70.0,Chennai Super Kings,field,V Kohli,Royal Challengers Bangalore,24.0,598068,runs,,,,,,V029
+6,Kings XI Punjab,Mumbai Indians,male,2013,2013/05/18,Indian Premier League,69.0,Mumbai Indians,field,Azhar Mahmood,Kings XI Punjab,50.0,598066,runs,,,,,,V005
+6,Sunrisers Hyderabad,Rajasthan Royals,male,2013,2013/05/17,Indian Premier League,68.0,Sunrisers Hyderabad,bat,A Mishra,Sunrisers Hyderabad,23.0,598065,runs,,,,,,V027
+6,Mumbai Indians,Kolkata Knight Riders,male,2014,2014/04/16,Indian Premier League,1.0,Kolkata Knight Riders,bat,JH Kallis,Kolkata Knight Riders,41.0,729279,runs,,,,,,V026
+6,Chennai Super Kings,Kings XI Punjab,male,2013,2013/05/02,Indian Premier League,45.0,Chennai Super Kings,bat,SK Raina,Chennai Super Kings,15.0,598041,runs,,,,,,V028
+6,Sunrisers Hyderabad,Mumbai Indians,male,2013,2013/05/01,Indian Premier League,43.0,Mumbai Indians,bat,I Sharma,Sunrisers Hyderabad,7.0,598039,wickets,,,,,,V027
+6,Sunrisers Hyderabad,Delhi Daredevils,male,2014,2014/04/25,Indian Premier League,12.0,Sunrisers Hyderabad,bat,AJ Finch,Sunrisers Hyderabad,4.0,729301,runs,,,,,,V025
+6,Rajasthan Royals,Delhi Daredevils,male,2013,2013/05/07,Indian Premier League,52.0,Delhi Daredevils,bat,AM Rahane,Rajasthan Royals,9.0,598049,wickets,,,,,,V006
+6,Chennai Super Kings,Mumbai Indians,male,2013,2013/05/26,Indian Premier League,,Mumbai Indians,bat,KA Pollard,Mumbai Indians,23.0,598073,runs,,,,,,V023
+6,Pune Warriors,Chennai Super Kings,male,2013,2013/04/30,Indian Premier League,42.0,Chennai Super Kings,bat,MS Dhoni,Chennai Super Kings,37.0,598038,runs,,,,,,V020
+6,Kings XI Punjab,Delhi Daredevils,male,2013,2013/05/16,Indian Premier League,67.0,Delhi Daredevils,field,DA Miller,Kings XI Punjab,7.0,598028,runs,,,,,,V005
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2013,2013/04/29,Indian Premier League,40.0,Rajasthan Royals,field,SV Samson,Rajasthan Royals,4.0,598036,wickets,,,,,,V006
+6,Kolkata Knight Riders,Pune Warriors,male,2013,2013/05/15,Indian Premier League,65.0,Kolkata Knight Riders,field,MK Pandey,Pune Warriors,7.0,598061,runs,,,,,,V001
+6,Delhi Daredevils,Kolkata Knight Riders,male,2013,2013/05/01,Indian Premier League,44.0,Kolkata Knight Riders,bat,DA Warner,Delhi Daredevils,7.0,598040,wickets,,,,,,V002
+6,Mumbai Indians,Sunrisers Hyderabad,male,2013,2013/05/13,Indian Premier League,62.0,Sunrisers Hyderabad,bat,KA Pollard,Mumbai Indians,7.0,598060,wickets,,,,,,V019
+6,Mumbai Indians,Chennai Super Kings,male,2013,2013/05/05,Indian Premier League,49.0,Mumbai Indians,bat,MG Johnson,Mumbai Indians,60.0,598046,runs,,,,,,V019
+6,Royal Challengers Bangalore,Kings XI Punjab,male,2013,2013/05/14,Indian Premier League,63.0,Kings XI Punjab,field,AC Gilchrist,Kings XI Punjab,7.0,598045,wickets,,,,,,V029
+6,Mumbai Indians,Rajasthan Royals,male,2013,2013/05/24,Indian Premier League,,Rajasthan Royals,bat,Harbhajan Singh,Mumbai Indians,4.0,598072,wickets,,,,,,V023
+6,Mumbai Indians,Sunrisers Hyderabad,male,2015,2015/04/25,Indian Premier League,23.0,Mumbai Indians,bat,SL Malinga,Mumbai Indians,20.0,829751,runs,,,,,,V019
+6,Sunrisers Hyderabad,Chennai Super Kings,male,2013,2013/05/08,Indian Premier League,54.0,Sunrisers Hyderabad,field,SK Raina,Chennai Super Kings,77.0,598051,runs,,,,,,V027
+6,Chennai Super Kings,Delhi Daredevils,male,2015,2015/04/09,Indian Premier League,2.0,Delhi Daredevils,field,A Nehra,Chennai Super Kings,1.0,829707,runs,,,,,,V028
+6,Kolkata Knight Riders,Rajasthan Royals,male,2013,2013/05/03,Indian Premier League,47.0,Rajasthan Royals,bat,YK Pathan,Kolkata Knight Riders,8.0,598043,wickets,,,,,,V023
+6,Chennai Super Kings,Kolkata Knight Riders,male,2013,2013/04/28,Indian Premier League,38.0,Kolkata Knight Riders,field,MEK Hussey,Chennai Super Kings,14.0,598034,runs,,,,,,V028
+6,Pune Warriors,Mumbai Indians,male,2013,2013/05/11,Indian Premier League,58.0,Pune Warriors,bat,MG Johnson,Mumbai Indians,5.0,598055,wickets,,,,,,V020
+6,Kolkata Knight Riders,Royal Challengers Bangalore,male,2014,2014/05/22,Indian Premier League,49.0,Royal Challengers Bangalore,field,RV Uthappa,Kolkata Knight Riders,30.0,734027,runs,,,,,,V023
+6,Rajasthan Royals,Chennai Super Kings,male,2013,2013/05/12,Indian Premier League,61.0,Rajasthan Royals,field,SR Watson,Rajasthan Royals,5.0,598058,wickets,,,,,,V006
+6,Mumbai Indians,Rajasthan Royals,male,2013,2013/05/15,Indian Premier League,66.0,Rajasthan Royals,field,AP Tare,Mumbai Indians,14.0,598063,runs,,,,,,V019
+6,Pune Warriors,Delhi Daredevils,male,2013,2013/05/19,Indian Premier League,71.0,Pune Warriors,bat,LJ Wright,Pune Warriors,38.0,598067,runs,,,,,,V020
+6,Kings XI Punjab,Royal Challengers Bangalore,male,2013,2013/05/06,Indian Premier League,51.0,Kings XI Punjab,field,DA Miller,Kings XI Punjab,6.0,598064,wickets,,,,,,V030
+6,Mumbai Indians,Delhi Daredevils,male,2014,2014/05/23,Indian Premier League,51.0,Delhi Daredevils,field,MEK Hussey,Mumbai Indians,15.0,734031,runs,,,,,,V019
+6,Mumbai Indians,Rajasthan Royals,male,2014,2014/05/25,Indian Premier League,56.0,Mumbai Indians,field,CJ Anderson,Mumbai Indians,5.0,734041,wickets,,,,,,V019
+6,Kings XI Punjab,Rajasthan Royals,male,2015,2015/04/10,Indian Premier League,3.0,Kings XI Punjab,field,JP Faulkner,Rajasthan Royals,26.0,829709,runs,,,,,,V020
+6,Mumbai Indians,Kings XI Punjab,male,2013,2013/04/29,Indian Premier League,41.0,Mumbai Indians,bat,RG Sharma,Mumbai Indians,4.0,598037,runs,,,,,,V019
+6,Pune Warriors,Kolkata Knight Riders,male,2013,2013/05/09,Indian Premier League,56.0,Kolkata Knight Riders,bat,G Gambhir,Kolkata Knight Riders,46.0,598053,runs,,,,,,V020
+6,Kolkata Knight Riders,Royal Challengers Bangalore,male,2013,2013/05/12,Indian Premier League,60.0,Kolkata Knight Riders,field,JH Kallis,Kolkata Knight Riders,5.0,598057,wickets,,,,,,V001
+6,Mumbai Indians,Kolkata Knight Riders,male,2013,2013/05/07,Indian Premier League,53.0,Mumbai Indians,bat,SR Tendulkar,Mumbai Indians,65.0,598050,runs,,,,,,V019
+6,Pune Warriors,Royal Challengers Bangalore,male,2013,2013/05/02,Indian Premier League,46.0,Royal Challengers Bangalore,bat,AB de Villiers,Royal Challengers Bangalore,17.0,598042,runs,,,,,,V020
+6,Chennai Super Kings,Delhi Daredevils,male,2013,2013/05/14,Indian Premier League,64.0,Chennai Super Kings,bat,MS Dhoni,Chennai Super Kings,33.0,598062,runs,,,,,,V028
+6,Rajasthan Royals,Pune Warriors,male,2013,2013/05/05,Indian Premier League,50.0,Pune Warriors,bat,AM Rahane,Rajasthan Royals,5.0,598047,wickets,,,,,,V006
+6,Kings XI Punjab,Mumbai Indians,male,2014,2014/05/21,Indian Premier League,48.0,Mumbai Indians,field,LMP Simmons,Mumbai Indians,7.0,734025,wickets,,,,,,V030
+6,Kings XI Punjab,Rajasthan Royals,male,2014,2014/05/23,Indian Premier League,52.0,Rajasthan Royals,field,SE Marsh,Kings XI Punjab,16.0,734033,runs,,,,,,V030
+6,Kolkata Knight Riders,Chennai Super Kings,male,2014,2014/05/20,Indian Premier League,47.0,Kolkata Knight Riders,field,RV Uthappa,Kolkata Knight Riders,8.0,734023,wickets,,,,,,V023
+6,Royal Challengers Bangalore,Rajasthan Royals,male,2013,2013/04/20,Indian Premier League,27.0,Royal Challengers Bangalore,field,R Vinay Kumar,Royal Challengers Bangalore,7.0,598023,wickets,,,,,,V029
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2014,2014/05/24,Indian Premier League,53.0,Chennai Super Kings,field,MS Dhoni,Chennai Super Kings,8.0,734035,wickets,,,,,,V029
+6,Kings XI Punjab,Rajasthan Royals,male,2013,2013/05/09,Indian Premier League,55.0,Rajasthan Royals,field,KK Cooper,Rajasthan Royals,8.0,598052,wickets,,,,,,V030
+6,Chennai Super Kings,Mumbai Indians,male,2014,2014/05/28,Indian Premier League,,Chennai Super Kings,field,SK Raina,Chennai Super Kings,7.0,734045,wickets,,,,,,V016
+6,Kolkata Knight Riders,Chennai Super Kings,male,2013,2013/04/20,Indian Premier League,26.0,Kolkata Knight Riders,bat,RA Jadeja,Chennai Super Kings,4.0,598022,wickets,,,,,,V023
+6,Kings XI Punjab,Sunrisers Hyderabad,male,2013,2013/05/11,Indian Premier League,59.0,Kings XI Punjab,field,PA Patel,Sunrisers Hyderabad,30.0,598056,runs,,,,,,V030
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2015,2015/04/22,Indian Premier League,20.0,Royal Challengers Bangalore,field,SK Raina,Chennai Super Kings,27.0,829745,runs,,,,,,V029
+6,Kolkata Knight Riders,Kings XI Punjab,male,2014,2014/06/01,Indian Premier League,,Kolkata Knight Riders,field,MK Pandey,Kolkata Knight Riders,3.0,734049,wickets,,,,,,V029
+6,Delhi Daredevils,Royal Challengers Bangalore,male,2013,2013/05/10,Indian Premier League,57.0,Delhi Daredevils,field,JD Unadkat,Royal Challengers Bangalore,4.0,598054,runs,,,,,,V031
+6,Delhi Daredevils,Kings XI Punjab,male,2013,2013/04/23,Indian Premier League,32.0,Kings XI Punjab,field,Harmeet Singh,Kings XI Punjab,5.0,598059,wickets,,,,,,V031
+6,Kolkata Knight Riders,Royal Challengers Bangalore,male,2015,2015/04/11,Indian Premier League,5.0,Royal Challengers Bangalore,field,CH Gayle,Royal Challengers Bangalore,3.0,829713,wickets,,,,,,V023
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2013,2013/04/11,Indian Premier League,12.0,Royal Challengers Bangalore,field,CH Gayle,Royal Challengers Bangalore,8.0,598008,wickets,,,,,,V029
+6,Sunrisers Hyderabad,Royal Challengers Bangalore,male,2014,2014/05/20,Indian Premier League,46.0,Royal Challengers Bangalore,bat,DA Warner,Sunrisers Hyderabad,7.0,734021,wickets,,,,,,V027
+6,Rajasthan Royals,Kings XI Punjab,male,2015,2015/04/21,Indian Premier League,18.0,Kings XI Punjab,field,SE Marsh,,,829741,,tie,Kings XI Punjab,,,,V021
+6,Sunrisers Hyderabad,Kolkata Knight Riders,male,2015,2015/04/22,Indian Premier League,19.0,Kolkata Knight Riders,field,DA Warner,Sunrisers Hyderabad,16.0,829743,runs,,,D/L,,,V003
+6,Royal Challengers Bangalore,Mumbai Indians,male,2015,2015/04/19,Indian Premier League,16.0,Royal Challengers Bangalore,field,Harbhajan Singh,Mumbai Indians,18.0,829737,runs,,,,,,V029
+6,Pune Warriors,Sunrisers Hyderabad,male,2013,2013/04/17,Indian Premier League,22.0,Pune Warriors,field,A Mishra,Sunrisers Hyderabad,11.0,598018,runs,,,,,,V020
+6,Delhi Daredevils,Chennai Super Kings,male,2013,2013/04/18,Indian Premier League,24.0,Chennai Super Kings,bat,MEK Hussey,Chennai Super Kings,86.0,598020,runs,,,,,,V031
+6,Kolkata Knight Riders,Sunrisers Hyderabad,male,2013,2013/04/14,Indian Premier League,17.0,Kolkata Knight Riders,bat,G Gambhir,Kolkata Knight Riders,48.0,598013,runs,,,,,,V023
+6,Rajasthan Royals,Chennai Super Kings,male,2015,2015/04/19,Indian Premier League,15.0,Chennai Super Kings,bat,AM Rahane,Rajasthan Royals,8.0,829735,wickets,,,,,,V021
+6,Royal Challengers Bangalore,Delhi Daredevils,male,2013,2013/04/16,Indian Premier League,21.0,Royal Challengers Bangalore,field,V Kohli,,,598017,,tie,Royal Challengers Bangalore,,,,V029
+6,Royal Challengers Bangalore,Pune Warriors,male,2013,2013/04/23,Indian Premier League,31.0,Pune Warriors,field,CH Gayle,Royal Challengers Bangalore,130.0,598027,runs,,,,,,V029
+6,Kings XI Punjab,Chennai Super Kings,male,2013,2013/04/10,Indian Premier League,11.0,Chennai Super Kings,field,MEK Hussey,Chennai Super Kings,10.0,598007,wickets,,,,,,V030
+6,Kings XI Punjab,Kolkata Knight Riders,male,2014,,Indian Premier League,,Kings XI Punjab,field,UT Yadav,Kolkata Knight Riders,28.0,734043,runs,,,,2014/05/27,2014/05/28,V023
+6,Kolkata Knight Riders,Kings XI Punjab,male,2013,2013/04/26,Indian Premier League,35.0,Kings XI Punjab,bat,JH Kallis,Kolkata Knight Riders,6.0,598031,wickets,,,,,,V023
+6,Chennai Super Kings,Sunrisers Hyderabad,male,2013,2013/04/25,Indian Premier League,34.0,Sunrisers Hyderabad,bat,MS Dhoni,Chennai Super Kings,5.0,598030,wickets,,,,,,V028
+6,Rajasthan Royals,Sunrisers Hyderabad,male,2013,2013/04/27,Indian Premier League,36.0,Sunrisers Hyderabad,bat,JP Faulkner,Rajasthan Royals,8.0,598032,wickets,,,,,,V006
+6,Rajasthan Royals,Kings XI Punjab,male,2013,2013/04/14,Indian Premier League,18.0,Rajasthan Royals,field,JP Faulkner,Rajasthan Royals,6.0,598014,wickets,,,,,,V006
+6,Rajasthan Royals,Mumbai Indians,male,2013,2013/04/17,Indian Premier League,23.0,Rajasthan Royals,bat,AM Rahane,Rajasthan Royals,87.0,598019,runs,,,,,,V006
+6,Kolkata Knight Riders,Chennai Super Kings,male,2012,2012/05/27,Indian Premier League,,Chennai Super Kings,bat,MS Bisla,Kolkata Knight Riders,5.0,548381,wickets,,,,,,V028
+6,Royal Challengers Bangalore,Mumbai Indians,male,2012,2012/05/14,Indian Premier League,62.0,Mumbai Indians,field,AT Rayudu,Mumbai Indians,5.0,548367,wickets,,,,,,V029
+6,Chennai Super Kings,Rajasthan Royals,male,2013,2013/04/22,Indian Premier League,30.0,Rajasthan Royals,bat,MEK Hussey,Chennai Super Kings,5.0,598026,wickets,,,,,,V028
+6,Delhi Daredevils,Sunrisers Hyderabad,male,2013,2013/04/12,Indian Premier League,14.0,Delhi Daredevils,bat,A Mishra,Sunrisers Hyderabad,3.0,598010,wickets,,,,,,V031
+6,Delhi Daredevils,Royal Challengers Bangalore,male,2012,2012/05/17,Indian Premier League,67.0,Delhi Daredevils,field,CH Gayle,Royal Challengers Bangalore,21.0,548372,runs,,,,,,V031
+6,Kings XI Punjab,Chennai Super Kings,male,2012,2012/05/17,Indian Premier League,66.0,Kings XI Punjab,field,AC Gilchrist,Kings XI Punjab,6.0,548371,wickets,,,,,,V005
+6,Delhi Daredevils,Chennai Super Kings,male,2012,2012/05/25,Indian Premier League,,Delhi Daredevils,field,M Vijay,Chennai Super Kings,86.0,548380,runs,,,,,,V028
+6,Mumbai Indians,Royal Challengers Bangalore,male,2013,2013/04/27,Indian Premier League,37.0,Mumbai Indians,bat,DR Smith,Mumbai Indians,58.0,598033,runs,,,,,,V019
+6,Kolkata Knight Riders,Mumbai Indians,male,2013,2013/04/24,Indian Premier League,33.0,Kolkata Knight Riders,bat,DR Smith,Mumbai Indians,5.0,598029,wickets,,,,,,V023
+6,Deccan Chargers,Royal Challengers Bangalore,male,2012,2012/05/20,Indian Premier League,71.0,Royal Challengers Bangalore,field,DW Steyn,Deccan Chargers,9.0,548376,runs,,,,,,V027
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2015,2015/04/24,Indian Premier League,22.0,Royal Challengers Bangalore,field,MA Starc,Royal Challengers Bangalore,9.0,829749,wickets,,,,,,V021
+6,Kolkata Knight Riders,Chennai Super Kings,male,2012,2012/05/14,Indian Premier League,63.0,Chennai Super Kings,field,MEK Hussey,Chennai Super Kings,5.0,548368,wickets,,,,,,V023
+6,Delhi Daredevils,Kolkata Knight Riders,male,2012,2012/05/22,Indian Premier League,,Kolkata Knight Riders,bat,YK Pathan,Kolkata Knight Riders,18.0,548378,runs,,,,,,V020
+6,Kings XI Punjab,Kolkata Knight Riders,male,2013,2013/04/16,Indian Premier League,20.0,Kolkata Knight Riders,field,MS Gony,Kings XI Punjab,4.0,598016,runs,,,,,,V030
+6,Chennai Super Kings,Pune Warriors,male,2013,2013/04/15,Indian Premier League,19.0,Pune Warriors,bat,SPD Smith,Pune Warriors,24.0,598015,runs,,,,,,V028
+6,Chennai Super Kings,Royal Challengers Bangalore,male,2013,2013/04/13,Indian Premier League,16.0,Chennai Super Kings,field,RA Jadeja,Chennai Super Kings,4.0,598012,wickets,,,,,,V028
+6,Kings XI Punjab,Pune Warriors,male,2013,2013/04/21,Indian Premier League,29.0,Kings XI Punjab,field,DA Miller,Kings XI Punjab,7.0,598025,wickets,,,,,,V030
+6,Rising Pune Supergiants,Delhi Daredevils,male,2016,2016/05/17,Indian Premier League,49.0,Rising Pune Supergiants,field,AB Dinda,Rising Pune Supergiants,19.0,980997,runs,,,D/L,,,V003
+6,Mumbai Indians,Pune Warriors,male,2013,2013/04/13,Indian Premier League,15.0,Mumbai Indians,bat,RG Sharma,Mumbai Indians,41.0,598011,runs,,,,,,V019
+6,Chennai Super Kings,Kolkata Knight Riders,male,2012,2012/04/30,Indian Premier League,41.0,Chennai Super Kings,bat,G Gambhir,Kolkata Knight Riders,5.0,548347,wickets,,,,,,V028
+6,Rajasthan Royals,Kolkata Knight Riders,male,2013,2013/04/08,Indian Premier League,8.0,Kolkata Knight Riders,field,SK Trivedi,Rajasthan Royals,19.0,598005,runs,,,,,,V006
+6,Pune Warriors,Deccan Chargers,male,2012,2012/04/26,Indian Premier League,35.0,Deccan Chargers,bat,CL White,Deccan Chargers,18.0,548341,runs,,,,,,V020
+6,Mumbai Indians,Kolkata Knight Riders,male,2012,2012/05/16,Indian Premier League,65.0,Mumbai Indians,field,SP Narine,Kolkata Knight Riders,32.0,548370,runs,,,,,,V019
+6,Chennai Super Kings,Mumbai Indians,male,2012,2012/05/23,Indian Premier League,,Mumbai Indians,field,MS Dhoni,Chennai Super Kings,38.0,548379,runs,,,,,,V029
+6,Deccan Chargers,Delhi Daredevils,male,2012,2012/05/10,Indian Premier League,55.0,Deccan Chargers,bat,DA Warner,Delhi Daredevils,9.0,548329,wickets,,,,,,V027
+6,Royal Challengers Bangalore,Deccan Chargers,male,2012,2012/05/06,Indian Premier League,50.0,Royal Challengers Bangalore,field,AB de Villiers,Royal Challengers Bangalore,5.0,548356,wickets,,,,,,V029
+6,Chennai Super Kings,Mumbai Indians,male,2013,2013/04/06,Indian Premier League,5.0,Mumbai Indians,bat,KA Pollard,Mumbai Indians,9.0,598002,runs,,,,,,V028
+6,Chennai Super Kings,Delhi Daredevils,male,2012,2012/05/12,Indian Premier League,59.0,Chennai Super Kings,field,BW Hilfenhaus,Chennai Super Kings,9.0,548364,wickets,,,,,,V028
+6,Chennai Super Kings,Deccan Chargers,male,2012,2012/05/04,Indian Premier League,46.0,Chennai Super Kings,bat,SK Raina,Chennai Super Kings,10.0,548352,runs,,,,,,V028
+6,Mumbai Indians,Deccan Chargers,male,2012,2012/04/29,Indian Premier League,40.0,Mumbai Indians,field,DW Steyn,Mumbai Indians,5.0,548346,wickets,,,,,,V019
+6,Deccan Chargers,Rajasthan Royals,male,2012,2012/05/18,Indian Premier League,68.0,Rajasthan Royals,bat,DW Steyn,Deccan Chargers,5.0,548373,wickets,,,,,,V027
+6,Rajasthan Royals,Pune Warriors,male,2012,2012/05/13,Indian Premier League,60.0,Rajasthan Royals,bat,A Chandila,Rajasthan Royals,45.0,548365,runs,,,,,,V006
+6,Kings XI Punjab,Sunrisers Hyderabad,male,2016,2016/05/15,Indian Premier League,46.0,Kings XI Punjab,bat,HM Amla,Sunrisers Hyderabad,7.0,980991,wickets,,,,,,V030
+6,Kings XI Punjab,Delhi Daredevils,male,2012,2012/05/19,Indian Premier League,69.0,Delhi Daredevils,field,UT Yadav,Delhi Daredevils,6.0,548374,wickets,,,,,,V005
+6,Delhi Daredevils,Rajasthan Royals,male,2012,2012/04/29,Indian Premier League,39.0,Delhi Daredevils,bat,V Sehwag,Delhi Daredevils,1.0,548345,runs,,,,,,V031
+6,Sunrisers Hyderabad,Royal Challengers Bangalore,male,2013,2013/04/07,Indian Premier League,7.0,Royal Challengers Bangalore,bat,GH Vihari,,,598004,,tie,Sunrisers Hyderabad,,,,V027
+6,Rajasthan Royals,Mumbai Indians,male,2012,2012/05/20,Indian Premier League,72.0,Rajasthan Royals,bat,DR Smith,Mumbai Indians,10.0,548377,wickets,,,,,,V006
+6,Kolkata Knight Riders,Mumbai Indians,male,2015,2015/04/08,Indian Premier League,1.0,Kolkata Knight Riders,field,M Morkel,Kolkata Knight Riders,7.0,829705,wickets,,,,,,V023
+6,Pune Warriors,Delhi Daredevils,male,2012,2012/04/24,Indian Premier League,31.0,Pune Warriors,bat,V Sehwag,Delhi Daredevils,8.0,548337,wickets,,,,,,V020
+6,Pune Warriors,Rajasthan Royals,male,2012,2012/05/08,Indian Premier League,52.0,Pune Warriors,bat,SR Watson,Rajasthan Royals,7.0,548358,wickets,,,,,,V020
+6,Pune Warriors,Kolkata Knight Riders,male,2012,2012/05/19,Indian Premier League,70.0,Kolkata Knight Riders,bat,Shakib Al Hasan,Kolkata Knight Riders,34.0,548375,runs,,,,,,V020
+6,Kings XI Punjab,Rajasthan Royals,male,2012,2012/05/05,Indian Premier League,48.0,Rajasthan Royals,bat,SR Watson,Rajasthan Royals,43.0,548354,runs,,,,,,V030
+6,Royal Challengers Bangalore,Sunrisers Hyderabad,male,2013,2013/04/09,Indian Premier League,9.0,Sunrisers Hyderabad,bat,V Kohli,Royal Challengers Bangalore,7.0,598048,wickets,,,,,,V029
+6,Mumbai Indians,Royal Challengers Bangalore,male,2012,2012/05/09,Indian Premier League,54.0,Royal Challengers Bangalore,field,CH Gayle,Royal Challengers Bangalore,9.0,548360,wickets,,,,,,V019
+6,Rajasthan Royals,Delhi Daredevils,male,2012,2012/05/01,Indian Premier League,43.0,Rajasthan Royals,bat,P Negi,Delhi Daredevils,6.0,548349,wickets,,,,,,V006
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2012,2012/04/23,Indian Premier League,30.0,Rajasthan Royals,field,AB de Villiers,Royal Challengers Bangalore,46.0,548336,runs,,,,,,V006
+6,Chennai Super Kings,Kings XI Punjab,male,2012,2012/04/28,Indian Premier League,37.0,Kings XI Punjab,bat,Mandeep Singh,Kings XI Punjab,7.0,548343,runs,,,,,,V028
+6,Mumbai Indians,Chennai Super Kings,male,2012,2012/05/06,Indian Premier League,49.0,Mumbai Indians,field,DR Smith,Mumbai Indians,2.0,548355,wickets,,,,,,V019
+6,Pune Warriors,Royal Challengers Bangalore,male,2012,2012/05/11,Indian Premier League,57.0,Pune Warriors,field,CH Gayle,Royal Challengers Bangalore,35.0,548362,runs,,,,,,V020
+6,Mumbai Indians,Rajasthan Royals,male,2012,2012/04/11,Indian Premier League,12.0,Rajasthan Royals,field,KA Pollard,Mumbai Indians,27.0,548317,runs,,,,,,V019
+6,Deccan Chargers,Kings XI Punjab,male,2012,2012/05/08,Indian Premier League,53.0,Deccan Chargers,field,Mandeep Singh,Kings XI Punjab,25.0,548359,runs,,,,,,V027
+6,Kings XI Punjab,Mumbai Indians,male,2012,2012/04/25,Indian Premier League,33.0,Kings XI Punjab,bat,AT Rayudu,Mumbai Indians,4.0,548339,wickets,,,,,,V030
+6,Delhi Daredevils,Kolkata Knight Riders,male,2012,2012/05/07,Indian Premier League,51.0,Delhi Daredevils,bat,JH Kallis,Kolkata Knight Riders,6.0,548357,wickets,,,,,,V031
+6,Delhi Daredevils,Mumbai Indians,male,2012,2012/04/27,Indian Premier League,36.0,Mumbai Indians,field,V Sehwag,Delhi Daredevils,37.0,548342,runs,,,,,,V031
+6,Pune Warriors,Chennai Super Kings,male,2012,2012/04/14,Indian Premier League,16.0,Chennai Super Kings,bat,JD Ryder,Pune Warriors,7.0,548322,wickets,,,,,,V020
+6,Chennai Super Kings,Rajasthan Royals,male,2012,2012/04/21,Indian Premier League,26.0,Rajasthan Royals,bat,F du Plessis,Chennai Super Kings,7.0,548332,wickets,,,,,,V028
+6,Rajasthan Royals,Kings XI Punjab,male,2012,2012/04/06,Indian Premier League,4.0,Kings XI Punjab,field,AM Rahane,Rajasthan Royals,31.0,548309,runs,,,,,,V006
+6,Mumbai Indians,Pune Warriors,male,2012,2012/04/06,Indian Premier League,3.0,Mumbai Indians,field,SPD Smith,Pune Warriors,28.0,548308,runs,,,,,,V019
+6,Pune Warriors,Kings XI Punjab,male,2012,2012/04/08,Indian Premier League,8.0,Pune Warriors,bat,MN Samuels,Pune Warriors,22.0,548313,runs,,,,,,V020
+6,Kings XI Punjab,Kolkata Knight Riders,male,2012,2012/04/18,Indian Premier League,22.0,Kings XI Punjab,bat,G Gambhir,Kolkata Knight Riders,8.0,548328,wickets,,,,,,V030
+6,Royal Challengers Bangalore,Pune Warriors,male,2012,2012/04/17,Indian Premier League,21.0,Pune Warriors,bat,CH Gayle,Royal Challengers Bangalore,6.0,548327,wickets,,,,,,V029
+6,Royal Challengers Bangalore,Kings XI Punjab,male,2012,2012/05/02,Indian Premier League,44.0,Kings XI Punjab,field,Azhar Mahmood,Kings XI Punjab,4.0,548350,wickets,,,,,,V029
+6,Chennai Super Kings,Mumbai Indians,male,2012,2012/04/04,Indian Premier League,1.0,Mumbai Indians,field,RE Levi,Mumbai Indians,8.0,548306,wickets,,,,,,V028
+6,Rajasthan Royals,Chennai Super Kings,male,2012,2012/05/10,Indian Premier League,56.0,Chennai Super Kings,field,BW Hilfenhaus,Chennai Super Kings,4.0,548361,wickets,,,,,,V006
+6,Royal Challengers Bangalore,Rajasthan Royals,male,2012,2012/04/15,Indian Premier League,18.0,Rajasthan Royals,bat,AM Rahane,Rajasthan Royals,59.0,548324,runs,,,,,,V029
+6,Mumbai Indians,Delhi Daredevils,male,2012,2012/04/16,Indian Premier League,19.0,Delhi Daredevils,field,S Nadeem,Delhi Daredevils,7.0,548325,wickets,,,,,,V019
+6,Deccan Chargers,Kolkata Knight Riders,male,2012,2012/04/22,Indian Premier League,29.0,Kolkata Knight Riders,field,B Lee,Kolkata Knight Riders,5.0,548335,wickets,,,,,,V004
+6,Kolkata Knight Riders,Rajasthan Royals,male,2012,2012/04/13,Indian Premier League,15.0,Rajasthan Royals,bat,Shakib Al Hasan,Kolkata Knight Riders,5.0,548320,wickets,,,,,,V023
+6,Royal Challengers Bangalore,Delhi Daredevils,male,2012,2012/04/07,Indian Premier League,5.0,Delhi Daredevils,field,AB de Villiers,Royal Challengers Bangalore,20.0,548310,runs,,,,,,V029
+6,Kolkata Knight Riders,Pune Warriors,male,2012,2012/05/05,Indian Premier League,47.0,Kolkata Knight Riders,bat,SP Narine,Kolkata Knight Riders,7.0,548353,runs,,,,,,V023
+6,Rajasthan Royals,Kolkata Knight Riders,male,2012,2012/04/08,Indian Premier League,7.0,Kolkata Knight Riders,field,BJ Hodge,Rajasthan Royals,22.0,548312,runs,,,,,,V006
+6,Pune Warriors,Deccan Chargers,male,2011,2011/05/16,Indian Premier League,62.0,Deccan Chargers,field,A Mishra,Deccan Chargers,6.0,501259,wickets,,,,,,V022
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2012,2012/04/10,Indian Premier League,10.0,Royal Challengers Bangalore,field,L Balaji,Kolkata Knight Riders,42.0,548315,runs,,,,,,V029
+6,Rajasthan Royals,Deccan Chargers,male,2012,2012/04/17,Indian Premier League,20.0,Deccan Chargers,bat,BJ Hodge,Rajasthan Royals,5.0,548326,wickets,,,,,,V006
+6,Kolkata Knight Riders,Delhi Daredevils,male,2012,2012/04/05,Indian Premier League,2.0,Delhi Daredevils,field,IK Pathan,Delhi Daredevils,8.0,548307,wickets,,,,,,V023
+6,Chennai Super Kings,Royal Challengers Bangalore,male,2012,2012/04/12,Indian Premier League,13.0,Royal Challengers Bangalore,bat,F du Plessis,Chennai Super Kings,5.0,548318,wickets,,,,,,V028
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2011,2011/05/22,Indian Premier League,69.0,Royal Challengers Bangalore,field,CH Gayle,Royal Challengers Bangalore,8.0,501266,wickets,,,,,,V029
+6,Pune Warriors,Kolkata Knight Riders,male,2011,2011/05/19,Indian Premier League,65.0,Kolkata Knight Riders,field,YK Pathan,Kolkata Knight Riders,7.0,501262,wickets,,,,,,V022
+6,Chennai Super Kings,Royal Challengers Bangalore,male,2011,2011/05/28,Indian Premier League,,Chennai Super Kings,bat,M Vijay,Chennai Super Kings,58.0,501271,runs,,,,,,V028
+6,Deccan Chargers,Mumbai Indians,male,2012,2012/04/09,Indian Premier League,9.0,Deccan Chargers,bat,RG Sharma,Mumbai Indians,5.0,548314,wickets,,,,,,V003
+6,Kings XI Punjab,Delhi Daredevils,male,2011,2011/05/15,Indian Premier League,60.0,Delhi Daredevils,field,PP Chawla,Kings XI Punjab,29.0,501257,runs,,,,,,V005
+6,Pune Warriors,Mumbai Indians,male,2012,2012/05/03,Indian Premier League,45.0,Mumbai Indians,bat,SL Malinga,Mumbai Indians,1.0,548351,runs,,,,,,V020
+6,Kolkata Knight Riders,Kings XI Punjab,male,2012,2012/04/15,Indian Premier League,17.0,Kolkata Knight Riders,field,SP Narine,Kings XI Punjab,2.0,548323,runs,,,,,,V023
+6,Kings XI Punjab,Pune Warriors,male,2012,2012/04/12,Indian Premier League,14.0,Kings XI Punjab,field,AD Mascarenhas,Kings XI Punjab,7.0,548319,wickets,,,,,,V030
+6,Kochi Tuskers Kerala,Rajasthan Royals,male,2011,2011/05/15,Indian Premier League,61.0,Kochi Tuskers Kerala,field,BJ Hodge,Kochi Tuskers Kerala,8.0,501258,wickets,,,,,,V007
+6,Kings XI Punjab,Deccan Chargers,male,2011,2011/05/21,Indian Premier League,67.0,Kings XI Punjab,field,S Dhawan,Deccan Chargers,82.0,501264,runs,,,,,,V005
+6,Kochi Tuskers Kerala,Kings XI Punjab,male,2011,2011/05/13,Indian Premier League,57.0,Kings XI Punjab,field,KD Karthik,Kings XI Punjab,6.0,501254,wickets,,,,,,V007
+6,Delhi Daredevils,Deccan Chargers,male,2012,2012/04/19,Indian Premier League,23.0,Deccan Chargers,bat,KP Pietersen,Delhi Daredevils,5.0,548321,wickets,,,,,,V031
+6,Deccan Chargers,Pune Warriors,male,2011,2011/05/10,Indian Premier League,53.0,Deccan Chargers,bat,MR Marsh,Pune Warriors,6.0,501250,wickets,,,,,,V027
+6,Chennai Super Kings,Pune Warriors,male,2012,2012/04/19,Indian Premier League,24.0,Pune Warriors,field,KMDN Kulasekara,Chennai Super Kings,13.0,548330,runs,,,,,,V028
+6,Delhi Daredevils,Chennai Super Kings,male,2012,2012/04/10,Indian Premier League,11.0,Delhi Daredevils,field,M Morkel,Delhi Daredevils,8.0,548316,wickets,,,,,,V031
+6,Mumbai Indians,Deccan Chargers,male,2011,2011/05/14,Indian Premier League,59.0,Deccan Chargers,bat,A Mishra,Deccan Chargers,10.0,501256,runs,,,,,,V019
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2011,2011/05/11,Indian Premier League,55.0,Royal Challengers Bangalore,field,S Aravind,Royal Challengers Bangalore,9.0,501252,wickets,,,,,,V006
+6,Rajasthan Royals,Chennai Super Kings,male,2011,2011/05/09,Indian Premier League,52.0,Rajasthan Royals,field,M Vijay,Chennai Super Kings,63.0,501249,runs,,,,,,V006
+6,Deccan Chargers,Chennai Super Kings,male,2012,2012/04/07,Indian Premier League,6.0,Deccan Chargers,field,RA Jadeja,Chennai Super Kings,74.0,548311,runs,,,,,,V003
+6,Delhi Daredevils,Royal Challengers Bangalore,male,2011,2011/04/26,Indian Premier League,30.0,Royal Challengers Bangalore,field,V Kohli,Royal Challengers Bangalore,3.0,501227,wickets,,,,,,V031
+6,Royal Challengers Bangalore,Kochi Tuskers Kerala,male,2011,2011/05/08,Indian Premier League,50.0,Kochi Tuskers Kerala,bat,CH Gayle,Royal Challengers Bangalore,9.0,501247,wickets,,,,,,V029
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2011,2011/05/14,Indian Premier League,58.0,Royal Challengers Bangalore,field,CH Gayle,Royal Challengers Bangalore,4.0,501255,wickets,,,D/L,,,V029
+6,Royal Challengers Bangalore,Mumbai Indians,male,2011,2011/05/27,Indian Premier League,,Mumbai Indians,field,CH Gayle,Royal Challengers Bangalore,43.0,501270,runs,,,,,,V028
+6,Mumbai Indians,Kolkata Knight Riders,male,2011,2011/05/25,Indian Premier League,,Mumbai Indians,field,MM Patel,Mumbai Indians,4.0,501269,wickets,,,,,,V019
+6,Mumbai Indians,Rajasthan Royals,male,2011,2011/05/20,Indian Premier League,66.0,Mumbai Indians,bat,SR Watson,Rajasthan Royals,10.0,501263,wickets,,,,,,V019
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2011,2011/05/24,Indian Premier League,,Chennai Super Kings,field,SK Raina,Chennai Super Kings,6.0,501268,wickets,,,,,,V019
+6,Delhi Daredevils,Pune Warriors,male,2011,2011/05/21,Indian Premier League,68.0,Delhi Daredevils,bat,,,,501265,,no result,,,,,V031
+6,Kings XI Punjab,Royal Challengers Bangalore,male,2011,2011/05/17,Indian Premier League,63.0,Kings XI Punjab,bat,AC Gilchrist,Kings XI Punjab,111.0,501260,runs,,,,,,V005
+6,Kolkata Knight Riders,Kings XI Punjab,male,2011,2011/04/30,Indian Premier League,37.0,Kolkata Knight Riders,field,Iqbal Abdulla,Kolkata Knight Riders,8.0,501234,wickets,,,,,,V023
+6,Kings XI Punjab,Mumbai Indians,male,2011,2011/05/10,Indian Premier League,54.0,Mumbai Indians,field,BA Bhatt,Kings XI Punjab,76.0,501251,runs,,,,,,V030
+6,Chennai Super Kings,Delhi Daredevils,male,2011,2011/05/12,Indian Premier League,56.0,Chennai Super Kings,bat,MS Dhoni,Chennai Super Kings,18.0,501253,runs,,,,,,V028
+6,Kochi Tuskers Kerala,Delhi Daredevils,male,2011,2011/04/30,Indian Premier League,36.0,Delhi Daredevils,bat,V Sehwag,Delhi Daredevils,38.0,501233,runs,,,,,,V008
+6,Chennai Super Kings,Kochi Tuskers Kerala,male,2011,2011/05/18,Indian Premier League,64.0,Chennai Super Kings,bat,WP Saha,Chennai Super Kings,11.0,501261,runs,,,,,,V028
+6,Deccan Chargers,Mumbai Indians,male,2011,2011/04/24,Indian Premier League,27.0,Deccan Chargers,field,SL Malinga,Mumbai Indians,37.0,501224,runs,,,,,,V027
+6,Mumbai Indians,Kings XI Punjab,male,2011,2011/05/02,Indian Premier League,40.0,Kings XI Punjab,field,KA Pollard,Mumbai Indians,23.0,501237,runs,,,,,,V019
+6,Chennai Super Kings,Rajasthan Royals,male,2011,2011/05/04,Indian Premier League,43.0,Rajasthan Royals,bat,MEK Hussey,Chennai Super Kings,8.0,501240,wickets,,,,,,V028
+6,Rajasthan Royals,Mumbai Indians,male,2011,2011/04/29,Indian Premier League,34.0,Rajasthan Royals,field,J Botha,Rajasthan Royals,7.0,501231,wickets,,,,,,V006
+6,Delhi Daredevils,Kolkata Knight Riders,male,2011,2011/04/28,Indian Premier League,33.0,Delhi Daredevils,field,MK Tiwary,Kolkata Knight Riders,17.0,501230,runs,,,,,,V031
+6,Royal Challengers Bangalore,Kings XI Punjab,male,2011,2011/05/06,Indian Premier League,47.0,Kings XI Punjab,field,CH Gayle,Royal Challengers Bangalore,85.0,501244,runs,,,,,,V029
+6,Pune Warriors,Mumbai Indians,male,2011,2011/05/04,Indian Premier League,44.0,Pune Warriors,field,R Sharma,Mumbai Indians,21.0,501241,runs,,,,,,V022
+6,Delhi Daredevils,Kochi Tuskers Kerala,male,2011,2011/05/02,Indian Premier League,41.0,Kochi Tuskers Kerala,field,P Parameswaran,Kochi Tuskers Kerala,7.0,501238,wickets,,,,,,V031
+6,Mumbai Indians,Delhi Daredevils,male,2011,2011/05/07,Indian Premier League,49.0,Delhi Daredevils,field,AT Rayudu,Mumbai Indians,32.0,501246,runs,,,,,,V019
+6,Mumbai Indians,Pune Warriors,male,2011,2011/04/20,Indian Premier League,21.0,Pune Warriors,bat,MM Patel,Mumbai Indians,7.0,501218,wickets,,,,,,V019
+6,Kochi Tuskers Kerala,Kolkata Knight Riders,male,2011,2011/05/05,Indian Premier League,45.0,Kolkata Knight Riders,field,BJ Hodge,Kochi Tuskers Kerala,17.0,501242,runs,,,,,,V008
+6,Deccan Chargers,Delhi Daredevils,male,2011,2011/05/05,Indian Premier League,46.0,Delhi Daredevils,field,V Sehwag,Delhi Daredevils,4.0,501243,wickets,,,,,,V027
+6,Kolkata Knight Riders,Mumbai Indians,male,2011,2011/05/22,Indian Premier League,70.0,Mumbai Indians,field,JEC Franklin,Mumbai Indians,5.0,501267,wickets,,,,,,V023
+6,Delhi Daredevils,Kings XI Punjab,male,2011,2011/04/23,Indian Premier League,26.0,Kings XI Punjab,field,DA Warner,Delhi Daredevils,29.0,501223,runs,,,,,,V031
+6,Chennai Super Kings,Royal Challengers Bangalore,male,2011,2011/04/16,Indian Premier League,14.0,Chennai Super Kings,bat,MEK Hussey,Chennai Super Kings,21.0,501211,runs,,,,,,V028
+6,Chennai Super Kings,Pune Warriors,male,2011,2011/04/25,Indian Premier League,29.0,Pune Warriors,field,MEK Hussey,Chennai Super Kings,25.0,501226,runs,,,,,,V028
+6,Kochi Tuskers Kerala,Deccan Chargers,male,2011,2011/04/27,Indian Premier League,32.0,Kochi Tuskers Kerala,field,I Sharma,Deccan Chargers,55.0,501229,runs,,,,,,V008
+6,Rajasthan Royals,Pune Warriors,male,2011,2011/05/01,Indian Premier League,38.0,Rajasthan Royals,field,LRPL Taylor,Rajasthan Royals,6.0,501235,wickets,,,,,,V006
+6,Kolkata Knight Riders,Kochi Tuskers Kerala,male,2011,2011/04/20,Indian Premier League,22.0,Kolkata Knight Riders,field,DPMD Jayawardene,Kochi Tuskers Kerala,6.0,501219,runs,,,,,,V023
+6,Pune Warriors,Delhi Daredevils,male,2011,2011/04/17,Indian Premier League,16.0,Delhi Daredevils,field,Yuvraj Singh,Delhi Daredevils,3.0,501213,wickets,,,,,,V022
+6,Deccan Chargers,Pune Warriors,male,2012,2012/05/01,Indian Premier League,42.0,Deccan Chargers,bat,KC Sangakkara,Deccan Chargers,13.0,548348,runs,,,,,,V004
+6,Delhi Daredevils,Deccan Chargers,male,2009/10,2010/04/18,Indian Premier League,55.0,Deccan Chargers,bat,A Symonds,Deccan Chargers,11.0,419160,runs,,,,,,V031
+6,Mumbai Indians,Kochi Tuskers Kerala,male,2011,2011/04/15,Indian Premier League,13.0,Kochi Tuskers Kerala,field,BB McCullum,Kochi Tuskers Kerala,8.0,501210,wickets,,,,,,V019
+6,Kolkata Knight Riders,Deccan Chargers,male,2011,2011/04/11,Indian Premier League,6.0,Kolkata Knight Riders,bat,JH Kallis,Kolkata Knight Riders,9.0,501203,runs,,,,,,V023
+6,Mumbai Indians,Chennai Super Kings,male,2011,2011/04/22,Indian Premier League,25.0,Chennai Super Kings,field,Harbhajan Singh,Mumbai Indians,8.0,501221,runs,,,,,,V019
+6,Kings XI Punjab,Chennai Super Kings,male,2011,2011/04/13,Indian Premier League,9.0,Kings XI Punjab,field,PC Valthaty,Kings XI Punjab,6.0,501206,wickets,,,,,,V030
+6,Kings XI Punjab,Chennai Super Kings,male,2009/10,2010/04/18,Indian Premier League,54.0,Chennai Super Kings,field,MS Dhoni,Chennai Super Kings,6.0,419159,wickets,,,,,,V005
+6,Chennai Super Kings,Deccan Chargers,male,2009/10,2010/04/22,Indian Premier League,,Chennai Super Kings,bat,DE Bollinger,Chennai Super Kings,38.0,419163,runs,,,,,,V022
+6,Delhi Daredevils,Deccan Chargers,male,2011,2011/04/19,Indian Premier League,19.0,Deccan Chargers,bat,S Sohal,Deccan Chargers,16.0,501216,runs,,,,,,V031
+6,Royal Challengers Bangalore,Mumbai Indians,male,2009/10,2010/04/21,Indian Premier League,,Mumbai Indians,bat,KA Pollard,Mumbai Indians,35.0,419162,runs,,,,,,V022
+6,Kolkata Knight Riders,Rajasthan Royals,male,2011,2011/04/17,Indian Premier League,17.0,Kolkata Knight Riders,field,L Balaji,Kolkata Knight Riders,8.0,501214,wickets,,,,,,V023
+6,Mumbai Indians,Kings XI Punjab,male,2012,2012/04/22,Indian Premier League,28.0,Mumbai Indians,bat,SE Marsh,Kings XI Punjab,6.0,548334,wickets,,,,,,V019
+6,Kolkata Knight Riders,Royal Challengers Bangalore,male,2011,2011/04/22,Indian Premier League,24.0,Royal Challengers Bangalore,field,CH Gayle,Royal Challengers Bangalore,9.0,501222,wickets,,,,,,V023
+6,Deccan Chargers,Kings XI Punjab,male,2011,2011/04/16,Indian Premier League,15.0,Kings XI Punjab,field,PC Valthaty,Kings XI Punjab,8.0,501212,wickets,,,,,,V027
+6,Pune Warriors,Kings XI Punjab,male,2011,2011/04/10,Indian Premier League,5.0,Kings XI Punjab,bat,SB Wagh,Pune Warriors,7.0,501202,wickets,,,,,,V022
+6,Delhi Daredevils,Pune Warriors,male,2012,2012/04/21,Indian Premier League,27.0,Delhi Daredevils,field,SC Ganguly,Pune Warriors,20.0,548333,runs,,,,,,V031
+6,Kochi Tuskers Kerala,Royal Challengers Bangalore,male,2011,2011/04/09,Indian Premier League,3.0,Kochi Tuskers Kerala,bat,AB de Villiers,Royal Challengers Bangalore,6.0,501200,wickets,,,,,,V008
+6,Rajasthan Royals,Delhi Daredevils,male,2011,2011/04/12,Indian Premier League,7.0,Delhi Daredevils,bat,SK Warne,Rajasthan Royals,6.0,501204,wickets,,,,,,V006
+6,Chennai Super Kings,Mumbai Indians,male,2009/10,2010/04/25,Indian Premier League,,Chennai Super Kings,bat,SK Raina,Chennai Super Kings,22.0,419165,runs,,,,,,V022
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2009/10,2010/04/10,Indian Premier League,43.0,Royal Challengers Bangalore,field,R Vinay Kumar,Royal Challengers Bangalore,7.0,419148,wickets,,,,,,V029
+6,Delhi Daredevils,Mumbai Indians,male,2011,2011/04/10,Indian Premier League,4.0,Delhi Daredevils,bat,SL Malinga,Mumbai Indians,8.0,501201,wickets,,,,,,V031
+6,Royal Challengers Bangalore,Mumbai Indians,male,2011,2011/04/12,Indian Premier League,8.0,Mumbai Indians,field,SR Tendulkar,Mumbai Indians,9.0,501205,wickets,,,,,,V029
+6,Deccan Chargers,Rajasthan Royals,male,2011,2011/04/09,Indian Premier League,2.0,Rajasthan Royals,field,SK Trivedi,Rajasthan Royals,8.0,501199,wickets,,,,,,V027
+6,Pune Warriors,Kochi Tuskers Kerala,male,2011,2011/04/13,Indian Premier League,10.0,Kochi Tuskers Kerala,bat,MD Mishra,Pune Warriors,4.0,501207,wickets,,,,,,V022
+6,Kochi Tuskers Kerala,Chennai Super Kings,male,2011,2011/04/18,Indian Premier League,18.0,Kochi Tuskers Kerala,field,BB McCullum,Kochi Tuskers Kerala,7.0,501215,wickets,,,D/L,,,V008
+6,Kolkata Knight Riders,Mumbai Indians,male,2009/10,2010/04/19,Indian Premier League,56.0,Mumbai Indians,bat,M Kartik,Kolkata Knight Riders,9.0,419161,wickets,,,,,,V023
+6,Deccan Chargers,Royal Challengers Bangalore,male,2011,2011/04/14,Indian Premier League,11.0,Royal Challengers Bangalore,field,DW Steyn,Deccan Chargers,33.0,501208,runs,,,,,,V027
+6,Royal Challengers Bangalore,Deccan Chargers,male,2009/10,2010/04/08,Indian Premier League,40.0,Deccan Chargers,field,TL Suman,Deccan Chargers,7.0,419145,wickets,,,,,,V029
+6,Mumbai Indians,Deccan Chargers,male,2009/10,2010/04/03,Indian Premier League,33.0,Mumbai Indians,bat,AT Rayudu,Mumbai Indians,63.0,419138,runs,,,,,,V016
+6,Rajasthan Royals,Kolkata Knight Riders,male,2011,2011/04/15,Indian Premier League,12.0,Kolkata Knight Riders,field,G Gambhir,Kolkata Knight Riders,9.0,501209,wickets,,,,,,V006
+6,Kolkata Knight Riders,Rajasthan Royals,male,2009/10,2010/04/17,Indian Premier League,53.0,Rajasthan Royals,bat,JD Unadkat,Kolkata Knight Riders,8.0,419158,wickets,,,,,,V023
+6,Delhi Daredevils,Rajasthan Royals,male,2009/10,2010/03/31,Indian Premier League,29.0,Delhi Daredevils,bat,KD Karthik,Delhi Daredevils,67.0,419134,runs,,,,,,V031
+6,Chennai Super Kings,Royal Challengers Bangalore,male,2009/10,2010/03/31,Indian Premier League,28.0,Royal Challengers Bangalore,bat,M Vijay,Chennai Super Kings,5.0,419133,wickets,,,,,,V028
+6,Royal Challengers Bangalore,Mumbai Indians,male,2009/10,2010/04/17,Indian Premier League,52.0,Royal Challengers Bangalore,field,R McLaren,Mumbai Indians,57.0,419157,runs,,,,,,V029
+6,Delhi Daredevils,Kings XI Punjab,male,2009/10,2010/04/11,Indian Premier League,44.0,Delhi Daredevils,bat,PP Chawla,Kings XI Punjab,7.0,419149,wickets,,,,,,V031
+6,Royal Challengers Bangalore,Deccan Chargers,male,2009/10,2010/04/24,Indian Premier League,,Deccan Chargers,bat,A Kumble,Royal Challengers Bangalore,9.0,419164,wickets,,,,,,V022
+6,Kolkata Knight Riders,Delhi Daredevils,male,2009/10,2010/04/07,Indian Premier League,39.0,Kolkata Knight Riders,bat,SC Ganguly,Kolkata Knight Riders,14.0,419144,runs,,,,,,V023
+6,Chennai Super Kings,Rajasthan Royals,male,2009/10,2010/04/03,Indian Premier League,32.0,Chennai Super Kings,bat,M Vijay,Chennai Super Kings,23.0,419137,runs,,,,,,V028
+6,Kings XI Punjab,Deccan Chargers,male,2009/10,2010/04/16,Indian Premier League,51.0,Deccan Chargers,field,RG Sharma,Deccan Chargers,5.0,419156,wickets,,,,,,V005
+6,Deccan Chargers,Chennai Super Kings,male,2009/10,2010/04/10,Indian Premier League,42.0,Chennai Super Kings,bat,RJ Harris,Deccan Chargers,6.0,419147,wickets,,,,,,V009
+6,Chennai Super Kings,Kolkata Knight Riders,male,2011,2011/04/08,Indian Premier League,1.0,Chennai Super Kings,bat,S Anirudha,Chennai Super Kings,2.0,501198,runs,,,,,,V028
+6,Kings XI Punjab,Royal Challengers Bangalore,male,2009/10,2010/04/02,Indian Premier League,31.0,Kings XI Punjab,bat,KP Pietersen,Royal Challengers Bangalore,6.0,419136,wickets,,,,,,V030
+6,Chennai Super Kings,Kolkata Knight Riders,male,2009/10,2010/04/13,Indian Premier League,48.0,Kolkata Knight Riders,bat,R Ashwin,Chennai Super Kings,9.0,419153,wickets,,,,,,V028
+6,Kings XI Punjab,Mumbai Indians,male,2009/10,2010/04/09,Indian Premier League,41.0,Mumbai Indians,bat,KC Sangakkara,Kings XI Punjab,6.0,419146,wickets,,,,,,V030
+6,Royal Challengers Bangalore,Deccan Chargers,male,2009,2009/05/24,Indian Premier League,,Royal Challengers Bangalore,field,A Kumble,Deccan Chargers,6.0,392239,runs,,,,,,V010
+6,Royal Challengers Bangalore,Kings XI Punjab,male,2009/10,2010/03/16,Indian Premier League,7.0,Kings XI Punjab,bat,JH Kallis,Royal Challengers Bangalore,8.0,419112,wickets,,,,,,V029
+6,Kolkata Knight Riders,Kings XI Punjab,male,2009/10,2010/04/04,Indian Premier League,34.0,Kolkata Knight Riders,bat,DPMD Jayawardene,Kings XI Punjab,8.0,419139,wickets,,,,,,V023
+6,Chennai Super Kings,Mumbai Indians,male,2009/10,2010/04/06,Indian Premier League,37.0,Chennai Super Kings,bat,SK Raina,Chennai Super Kings,24.0,419142,runs,,,,,,V028
+6,Deccan Chargers,Royal Challengers Bangalore,male,2009/10,2010/04/12,Indian Premier League,46.0,Royal Challengers Bangalore,field,Harmeet Singh,Deccan Chargers,13.0,419151,runs,,,,,,V009
+6,Kings XI Punjab,Delhi Daredevils,male,2009/10,2010/03/13,Indian Premier League,3.0,Delhi Daredevils,field,G Gambhir,Delhi Daredevils,5.0,419108,wickets,,,,,,V030
+6,Chennai Super Kings,Delhi Daredevils,male,2009/10,2010/04/15,Indian Premier League,50.0,Chennai Super Kings,bat,G Gambhir,Delhi Daredevils,6.0,419155,wickets,,,,,,V028
+6,Rajasthan Royals,Mumbai Indians,male,2009/10,2010/04/11,Indian Premier League,45.0,Rajasthan Royals,field,SR Tendulkar,Mumbai Indians,37.0,419150,runs,,,,,,V006
+6,Mumbai Indians,Delhi Daredevils,male,2009/10,2010/04/13,Indian Premier League,47.0,Mumbai Indians,bat,KA Pollard,Mumbai Indians,39.0,419152,runs,,,,,,V016
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2009/10,2010/04/14,Indian Premier League,49.0,Rajasthan Royals,bat,KP Pietersen,Royal Challengers Bangalore,5.0,419154,wickets,,,,,,V006
+6,Rajasthan Royals,Kolkata Knight Riders,male,2009/10,2010/03/20,Indian Premier League,13.0,Rajasthan Royals,bat,AA Jhunjhunwala,Rajasthan Royals,34.0,419118,runs,,,,,,V021
+6,Delhi Daredevils,Royal Challengers Bangalore,male,2009/10,2010/04/04,Indian Premier League,35.0,Delhi Daredevils,bat,PD Collingwood,Delhi Daredevils,37.0,419140,runs,,,,,,V031
+6,Kolkata Knight Riders,Deccan Chargers,male,2009/10,2010/04/01,Indian Premier League,30.0,Kolkata Knight Riders,bat,SC Ganguly,Kolkata Knight Riders,24.0,419135,runs,,,,,,V023
+6,Deccan Chargers,Rajasthan Royals,male,2009/10,2010/04/05,Indian Premier League,36.0,Rajasthan Royals,bat,SK Warne,Rajasthan Royals,2.0,419141,runs,,,,,,V009
+6,Delhi Daredevils,Kolkata Knight Riders,male,2009/10,2010/03/29,Indian Premier League,26.0,Delhi Daredevils,bat,DA Warner,Delhi Daredevils,40.0,419131,runs,,,,,,V031
+6,Mumbai Indians,Kings XI Punjab,male,2009/10,2010/03/30,Indian Premier League,27.0,Mumbai Indians,field,SL Malinga,Mumbai Indians,4.0,419132,wickets,,,,,,V016
+6,Royal Challengers Bangalore,Delhi Daredevils,male,2009/10,2010/03/25,Indian Premier League,20.0,Royal Challengers Bangalore,field,KM Jadhav,Delhi Daredevils,17.0,419128,runs,,,,,,V029
+6,Delhi Daredevils,Mumbai Indians,male,2009/10,2010/03/17,Indian Premier League,9.0,Delhi Daredevils,field,SR Tendulkar,Mumbai Indians,98.0,419114,runs,,,,,,V031
+6,Deccan Chargers,Rajasthan Royals,male,2009,2009/05/02,Indian Premier League,25.0,Deccan Chargers,bat,YK Pathan,Rajasthan Royals,3.0,392205,wickets,,,,,,V011
+6,Chennai Super Kings,Deccan Chargers,male,2009,2009/05/04,Indian Premier League,29.0,Chennai Super Kings,bat,MS Dhoni,Chennai Super Kings,78.0,392209,runs,,,,,,V012
+6,Kings XI Punjab,Kolkata Knight Riders,male,2009/10,2010/03/27,Indian Premier League,23.0,Kolkata Knight Riders,bat,MK Tiwary,Kolkata Knight Riders,39.0,419127,runs,,,,,,V030
+6,Deccan Chargers,Mumbai Indians,male,2009,2009/04/25,Indian Premier League,12.0,Deccan Chargers,bat,PP Ojha,Deccan Chargers,12.0,392192,runs,,,,,,V013
+6,Kings XI Punjab,Mumbai Indians,male,2009,2009/04/29,Indian Premier League,20.0,Kings XI Punjab,bat,KC Sangakkara,Kings XI Punjab,3.0,392200,runs,,,,,,V013
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2009,2009/05/23,Indian Premier League,,Royal Challengers Bangalore,field,MK Pandey,Royal Challengers Bangalore,6.0,392238,wickets,,,,,,V010
+6,Mumbai Indians,Kolkata Knight Riders,male,2009/10,2010/03/22,Indian Premier League,17.0,Kolkata Knight Riders,bat,SR Tendulkar,Mumbai Indians,7.0,419122,wickets,,,,,,V016
+6,Chennai Super Kings,Deccan Chargers,male,2009/10,2010/03/14,Indian Premier League,5.0,Deccan Chargers,bat,WPUJC Vaas,Deccan Chargers,31.0,419110,runs,,,,,,V028
+6,Kolkata Knight Riders,Mumbai Indians,male,2009,2009/05/01,Indian Premier League,23.0,Mumbai Indians,bat,JP Duminy,Mumbai Indians,9.0,392203,runs,,,,,,V012
+6,Mumbai Indians,Rajasthan Royals,male,2009/10,2010/03/13,Indian Premier League,2.0,Mumbai Indians,bat,YK Pathan,Mumbai Indians,4.0,419107,runs,,,,,,V016
+6,Kings XI Punjab,Rajasthan Royals,male,2009,2009/05/05,Indian Premier League,30.0,Kings XI Punjab,field,GC Smith,Rajasthan Royals,78.0,392210,runs,,,,,,V013
+6,Royal Challengers Bangalore,Deccan Chargers,male,2009,2009/04/22,Indian Premier League,8.0,Deccan Chargers,bat,AC Gilchrist,Deccan Chargers,24.0,392188,runs,,,,,,V014
+6,Kings XI Punjab,Rajasthan Royals,male,2009,2009/04/26,Indian Premier League,15.0,Kings XI Punjab,bat,KC Sangakkara,Kings XI Punjab,27.0,392195,runs,,,,,,V014
+6,Deccan Chargers,Kings XI Punjab,male,2009/10,2010/03/19,Indian Premier League,12.0,Kings XI Punjab,field,A Symonds,Deccan Chargers,6.0,419117,runs,,,,,,V004
+6,Rajasthan Royals,Kings XI Punjab,male,2009/10,2010/04/07,Indian Premier League,38.0,Kings XI Punjab,bat,MJ Lumb,Rajasthan Royals,9.0,419143,wickets,,,,,,V006
+6,Deccan Chargers,Mumbai Indians,male,2009,2009/05/06,Indian Premier League,32.0,Deccan Chargers,bat,RG Sharma,Deccan Chargers,19.0,392212,runs,,,,,,V015
+6,Chennai Super Kings,Kings XI Punjab,male,2009/10,2010/03/21,Indian Premier League,16.0,Chennai Super Kings,field,J Theron,,,419121,,tie,Kings XI Punjab,,,,V028
+6,Royal Challengers Bangalore,Delhi Daredevils,male,2009,2009/04/26,Indian Premier League,14.0,Royal Challengers Bangalore,bat,TM Dilshan,Delhi Daredevils,6.0,392194,wickets,,,,,,V011
+6,Deccan Chargers,Mumbai Indians,male,2007/08,2008/05/18,Indian Premier League,42.0,Deccan Chargers,field,DJ Bravo,Mumbai Indians,25.0,336024,runs,,,,,,V027
+6,Kolkata Knight Riders,Rajasthan Royals,male,2007/08,2008/05/20,Indian Premier League,44.0,Rajasthan Royals,field,YK Pathan,Rajasthan Royals,6.0,336027,wickets,,,,,,V023
+6,Deccan Chargers,Royal Challengers Bangalore,male,2007/08,2008/05/25,Indian Premier League,51.0,Deccan Chargers,bat,R Vinay Kumar,Royal Challengers Bangalore,5.0,336002,wickets,,,,,,V027
+6,Chennai Super Kings,Delhi Daredevils,male,2009,2009/04/23,Indian Premier League,9.0,Delhi Daredevils,bat,AB de Villiers,Delhi Daredevils,9.0,392189,runs,,,,,,V013
+6,Delhi Daredevils,Chennai Super Kings,male,2009/10,2010/03/19,Indian Premier League,11.0,Delhi Daredevils,bat,ML Hayden,Chennai Super Kings,5.0,419116,wickets,,,,,,V031
+6,Rajasthan Royals,Chennai Super Kings,male,2009/10,2010/03/28,Indian Premier League,24.0,Rajasthan Royals,bat,NV Ojha,Rajasthan Royals,17.0,419129,runs,,,,,,V021
+6,Mumbai Indians,Royal Challengers Bangalore,male,2009/10,2010/03/20,Indian Premier League,14.0,Mumbai Indians,bat,JH Kallis,Royal Challengers Bangalore,7.0,419119,wickets,,,,,,V016
+6,Delhi Daredevils,Kings XI Punjab,male,2007/08,2008/05/17,Indian Premier League,40.0,Delhi Daredevils,bat,DPMD Jayawardene,Kings XI Punjab,6.0,336022,runs,,,D/L,,,V031
+6,Deccan Chargers,Mumbai Indians,male,2009/10,2010/03/28,Indian Premier League,25.0,Deccan Chargers,field,Harbhajan Singh,Mumbai Indians,41.0,419130,runs,,,,,,V022
+6,Chennai Super Kings,Kings XI Punjab,male,2007/08,2008/05/31,Indian Premier League,,Kings XI Punjab,bat,M Ntini,Chennai Super Kings,9.0,336039,wickets,,,,,,V019
+6,Chennai Super Kings,Mumbai Indians,male,2009,2009/04/18,Indian Premier League,1.0,Chennai Super Kings,field,SR Tendulkar,Mumbai Indians,19.0,392181,runs,,,,,,V014
+6,Deccan Chargers,Chennai Super Kings,male,2007/08,2008/05/27,Indian Premier League,54.0,Deccan Chargers,bat,SK Raina,Chennai Super Kings,7.0,336037,wickets,,,,,,V027
+6,Chennai Super Kings,Royal Challengers Bangalore,male,2007/08,2008/05/21,Indian Premier League,46.0,Royal Challengers Bangalore,bat,A Kumble,Royal Challengers Bangalore,14.0,336029,runs,,,,,,V028
+6,Kolkata Knight Riders,Chennai Super Kings,male,2009/10,2010/03/16,Indian Premier League,8.0,Chennai Super Kings,bat,MS Dhoni,Chennai Super Kings,55.0,419113,runs,,,,,,V023
+6,Kolkata Knight Riders,Mumbai Indians,male,2009,2009/04/27,Indian Premier League,17.0,Mumbai Indians,bat,SR Tendulkar,Mumbai Indians,92.0,392197,runs,,,,,,V011
+6,Delhi Daredevils,Deccan Chargers,male,2007/08,2008/05/15,Indian Premier League,37.0,Deccan Chargers,field,A Mishra,Delhi Daredevils,12.0,336020,runs,,,,,,V031
+6,Royal Challengers Bangalore,Rajasthan Royals,male,2009,2009/04/18,Indian Premier League,2.0,Royal Challengers Bangalore,bat,R Dravid,Royal Challengers Bangalore,75.0,392182,runs,,,,,,V014
+6,Rajasthan Royals,Mumbai Indians,male,2007/08,2008/05/26,Indian Premier League,53.0,Rajasthan Royals,field,Sohail Tanvir,Rajasthan Royals,5.0,336036,wickets,,,,,,V006
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2007/08,2008/05/17,Indian Premier League,39.0,Royal Challengers Bangalore,field,GC Smith,Rajasthan Royals,65.0,336023,runs,,,,,,V006
+6,Mumbai Indians,Chennai Super Kings,male,2007/08,2008/05/14,Indian Premier League,36.0,Mumbai Indians,field,ST Jayasuriya,Mumbai Indians,9.0,336018,wickets,,,,,,V019
+6,Mumbai Indians,Kolkata Knight Riders,male,2007/08,2008/05/16,Indian Premier League,38.0,Mumbai Indians,field,SM Pollock,Mumbai Indians,8.0,336021,wickets,,,,,,V019
+6,Delhi Daredevils,Rajasthan Royals,male,2007/08,2008/05/30,Indian Premier League,,Delhi Daredevils,field,SR Watson,Rajasthan Royals,105.0,336038,runs,,,,,,V019
+6,Deccan Chargers,Delhi Daredevils,male,2009/10,2010/03/21,Indian Premier League,15.0,Deccan Chargers,bat,A Symonds,Deccan Chargers,10.0,419120,runs,,,,,,V004
+6,Chennai Super Kings,Rajasthan Royals,male,2007/08,2008/06/01,Indian Premier League,,Rajasthan Royals,field,YK Pathan,Rajasthan Royals,3.0,336040,wickets,,,,,,V022
+6,Rajasthan Royals,Deccan Chargers,male,2009/10,2010/03/26,Indian Premier League,22.0,Deccan Chargers,bat,YK Pathan,Rajasthan Royals,8.0,419126,wickets,,,,,,V021
+6,Chennai Super Kings,Mumbai Indians,male,2009/10,2010/03/25,Indian Premier League,21.0,Mumbai Indians,field,SR Tendulkar,Mumbai Indians,5.0,419125,wickets,,,,,,V016
+6,Kings XI Punjab,Rajasthan Royals,male,2009/10,2010/03/24,Indian Premier League,19.0,Kings XI Punjab,field,AC Voges,Rajasthan Royals,31.0,419124,runs,,,,,,V030
+6,Kolkata Knight Riders,Chennai Super Kings,male,2007/08,2008/05/18,Indian Premier League,41.0,Kolkata Knight Riders,bat,M Ntini,Chennai Super Kings,3.0,336025,runs,,,D/L,,,V023
+6,Royal Challengers Bangalore,Rajasthan Royals,male,2009/10,2010/03/18,Indian Premier League,10.0,Royal Challengers Bangalore,field,JH Kallis,Royal Challengers Bangalore,10.0,419115,wickets,,,,,,V029
+6,Delhi Daredevils,Mumbai Indians,male,2007/08,2008/05/24,Indian Premier League,50.0,Delhi Daredevils,field,KD Karthik,Delhi Daredevils,5.0,336032,wickets,,,,,,V031
+6,Deccan Chargers,Kolkata Knight Riders,male,2009/10,2010/03/12,Indian Premier League,1.0,Deccan Chargers,field,AD Mathews,Kolkata Knight Riders,11.0,419106,runs,,,,,,V022
+6,Rajasthan Royals,Delhi Daredevils,male,2009/10,2010/03/15,Indian Premier League,6.0,Delhi Daredevils,field,V Sehwag,Delhi Daredevils,6.0,419111,wickets,,,,,,V021
+6,Mumbai Indians,Kings XI Punjab,male,2007/08,2008/05/21,Indian Premier League,45.0,Mumbai Indians,field,SE Marsh,Kings XI Punjab,1.0,336028,runs,,,,,,V019
+6,Deccan Chargers,Rajasthan Royals,male,2007/08,2008/04/24,Indian Premier League,9.0,Rajasthan Royals,field,YK Pathan,Rajasthan Royals,3.0,335990,wickets,,,,,,V027
+6,Delhi Daredevils,Kings XI Punjab,male,2009,2009/05/15,Indian Premier League,46.0,Kings XI Punjab,field,B Lee,Kings XI Punjab,6.0,392226,wickets,,,,,,V017
+6,Royal Challengers Bangalore,Mumbai Indians,male,2007/08,2008/05/28,Indian Premier League,55.0,Mumbai Indians,field,CRD Fernando,Mumbai Indians,9.0,336012,wickets,,,,,,V029
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2009,2009/05/14,Indian Premier League,44.0,Chennai Super Kings,bat,LRPL Taylor,Royal Challengers Bangalore,2.0,392224,wickets,,,,,,V013
+6,Kings XI Punjab,Rajasthan Royals,male,2007/08,2008/05/28,Indian Premier League,56.0,Rajasthan Royals,field,SE Marsh,Kings XI Punjab,41.0,336019,runs,,,,,,V030
+6,Kolkata Knight Riders,Royal Challengers Bangalore,male,2009/10,2010/03/14,Indian Premier League,4.0,Kolkata Knight Riders,field,MK Tiwary,Kolkata Knight Riders,7.0,419109,wickets,,,,,,V023
+6,Kolkata Knight Riders,Kings XI Punjab,male,2007/08,2008/05/25,Indian Premier League,52.0,Kings XI Punjab,bat,Umar Gul,Kolkata Knight Riders,3.0,336035,wickets,,,,,,V023
+6,Chennai Super Kings,Mumbai Indians,male,2007/08,2008/04/23,Indian Premier League,8.0,Mumbai Indians,field,ML Hayden,Chennai Super Kings,6.0,335989,runs,,,,,,V028
+6,Deccan Chargers,Delhi Daredevils,male,2009,2009/05/13,Indian Premier League,43.0,Deccan Chargers,field,R Bhatia,Delhi Daredevils,12.0,392223,runs,,,,,,V013
+6,Royal Challengers Bangalore,Delhi Daredevils,male,2007/08,2008/05/19,Indian Premier League,43.0,Delhi Daredevils,field,SP Goswami,Delhi Daredevils,5.0,336026,wickets,,,,,,V029
+6,Chennai Super Kings,Rajasthan Royals,male,2007/08,2008/05/24,Indian Premier League,49.0,Rajasthan Royals,bat,JA Morkel,Rajasthan Royals,10.0,336033,runs,,,,,,V028
+6,Delhi Daredevils,Mumbai Indians,male,2009,2009/05/08,Indian Premier League,35.0,Mumbai Indians,bat,A Nehra,Delhi Daredevils,7.0,392215,wickets,,,,,,V012
+6,Kings XI Punjab,Deccan Chargers,male,2007/08,2008/05/23,Indian Premier League,48.0,Kings XI Punjab,field,SE Marsh,Kings XI Punjab,6.0,336031,wickets,,,,,,V030
+6,Deccan Chargers,Kings XI Punjab,male,2009,2009/05/17,Indian Premier League,49.0,Deccan Chargers,field,Yuvraj Singh,Kings XI Punjab,1.0,392229,runs,,,,,,V010
+6,Deccan Chargers,Rajasthan Royals,male,2009,2009/05/11,Indian Premier League,40.0,Deccan Chargers,bat,DR Smith,Deccan Chargers,53.0,392220,runs,,,,,,V018
+6,Deccan Chargers,Kolkata Knight Riders,male,2009,2009/04/19,Indian Premier League,4.0,Kolkata Knight Riders,bat,RP Singh,Deccan Chargers,8.0,392184,wickets,,,,,,V014
+6,Royal Challengers Bangalore,Deccan Chargers,male,2009,2009/05/21,Indian Premier League,56.0,Royal Challengers Bangalore,bat,MK Pandey,Royal Challengers Bangalore,12.0,392236,runs,,,,,,V015
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2009/10,2010/03/23,Indian Premier League,18.0,Chennai Super Kings,field,RV Uthappa,Royal Challengers Bangalore,36.0,419123,runs,,,,,,V029
+6,Delhi Daredevils,Mumbai Indians,male,2009,2009/05/21,Indian Premier League,55.0,Delhi Daredevils,field,V Sehwag,Delhi Daredevils,4.0,392235,wickets,,,,,,V015
+6,Rajasthan Royals,Chennai Super Kings,male,2007/08,2008/05/04,Indian Premier League,24.0,Chennai Super Kings,bat,Sohail Tanvir,Rajasthan Royals,8.0,336005,wickets,,,,,,V006
+6,Delhi Daredevils,Kings XI Punjab,male,2009,2009/04/19,Indian Premier League,3.0,Delhi Daredevils,field,DL Vettori,Delhi Daredevils,10.0,392183,wickets,,,D/L,,,V014
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2009,2009/04/20,Indian Premier League,5.0,Chennai Super Kings,bat,M Muralitharan,Chennai Super Kings,92.0,392185,runs,,,,,,V011
+6,Rajasthan Royals,Delhi Daredevils,male,2007/08,2008/05/11,Indian Premier League,33.0,Rajasthan Royals,field,SR Watson,Rajasthan Royals,3.0,336015,wickets,,,,,,V006
+6,Kings XI Punjab,Kolkata Knight Riders,male,2007/08,2008/05/03,Indian Premier League,22.0,Kings XI Punjab,bat,IK Pathan,Kings XI Punjab,9.0,336003,runs,,,,,,V030
+6,Deccan Chargers,Kings XI Punjab,male,2009,2009/05/09,Indian Premier League,36.0,Kings XI Punjab,field,DPMD Jayawardene,Kings XI Punjab,3.0,392216,wickets,,,,,,V018
+6,Delhi Daredevils,Deccan Chargers,male,2009,2009/05/22,Indian Premier League,,Deccan Chargers,field,AC Gilchrist,Deccan Chargers,6.0,392237,wickets,,,,,,V015
+6,Chennai Super Kings,Mumbai Indians,male,2009,2009/05/16,Indian Premier League,47.0,Mumbai Indians,bat,ML Hayden,Chennai Super Kings,7.0,392227,wickets,,,,,,V011
+6,Royal Challengers Bangalore,Delhi Daredevils,male,2009,2009/05/19,Indian Premier League,52.0,Delhi Daredevils,bat,JH Kallis,Royal Challengers Bangalore,7.0,392232,wickets,,,,,,V010
+6,Chennai Super Kings,Kings XI Punjab,male,2007/08,2008/05/10,Indian Premier League,31.0,Kings XI Punjab,field,L Balaji,Chennai Super Kings,18.0,336013,runs,,,,,,V028
+6,Chennai Super Kings,Kings XI Punjab,male,2009,2009/05/20,Indian Premier League,54.0,Chennai Super Kings,bat,M Muralitharan,Chennai Super Kings,24.0,392234,runs,,,,,,V013
+6,Rajasthan Royals,Deccan Chargers,male,2007/08,2008/05/09,Indian Premier League,30.0,Rajasthan Royals,field,YK Pathan,Rajasthan Royals,8.0,336011,wickets,,,,,,V006
+6,Kolkata Knight Riders,Royal Challengers Bangalore,male,2007/08,2008/05/08,Indian Premier League,29.0,Kolkata Knight Riders,bat,SC Ganguly,Kolkata Knight Riders,5.0,336010,runs,,,,,,V023
+6,Chennai Super Kings,Kings XI Punjab,male,2009,2009/05/07,Indian Premier League,34.0,Chennai Super Kings,bat,ML Hayden,Chennai Super Kings,12.0,392214,runs,,,D/L,,,V015
+6,Kolkata Knight Riders,Mumbai Indians,male,2007/08,2008/04/29,Indian Premier League,16.0,Kolkata Knight Riders,bat,ST Jayasuriya,Mumbai Indians,7.0,335997,wickets,,,,,,V023
+6,Deccan Chargers,Kolkata Knight Riders,male,2009,2009/05/16,Indian Premier League,48.0,Deccan Chargers,field,RG Sharma,Deccan Chargers,6.0,392228,wickets,,,,,,V010
+6,Royal Challengers Bangalore,Rajasthan Royals,male,2009,2009/05/07,Indian Premier League,33.0,Rajasthan Royals,field,A Singh,Rajasthan Royals,7.0,392213,wickets,,,,,,V015
+6,Rajasthan Royals,Kolkata Knight Riders,male,2007/08,2008/05/01,Indian Premier League,18.0,Rajasthan Royals,bat,SA Asnodkar,Rajasthan Royals,45.0,336000,runs,,,,,,V006
+6,Chennai Super Kings,Rajasthan Royals,male,2009,2009/05/09,Indian Premier League,37.0,Rajasthan Royals,bat,S Badrinath,Chennai Super Kings,7.0,392217,wickets,,,,,,V018
+6,Kings XI Punjab,Mumbai Indians,male,2007/08,2008/04/25,Indian Premier League,10.0,Mumbai Indians,field,KC Sangakkara,Kings XI Punjab,66.0,335991,runs,,,,,,V030
+6,Chennai Super Kings,Delhi Daredevils,male,2007/08,2008/05/02,Indian Premier League,20.0,Chennai Super Kings,bat,V Sehwag,Delhi Daredevils,8.0,336001,wickets,,,,,,V028
+6,Mumbai Indians,Rajasthan Royals,male,2009,2009/05/14,Indian Premier League,45.0,Rajasthan Royals,bat,SK Warne,Rajasthan Royals,2.0,392225,runs,,,,,,V013
+6,Chennai Super Kings,Kolkata Knight Riders,male,2009,2009/05/18,Indian Premier League,51.0,Chennai Super Kings,bat,BJ Hodge,Kolkata Knight Riders,7.0,392231,wickets,,,,,,V015
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2007/08,2008/04/28,Indian Premier League,15.0,Chennai Super Kings,bat,MS Dhoni,Chennai Super Kings,13.0,335996,runs,,,,,,V029
+6,Delhi Daredevils,Kolkata Knight Riders,male,2009,2009/05/10,Indian Premier League,39.0,Delhi Daredevils,field,A Mishra,Delhi Daredevils,7.0,392219,wickets,,,,,,V010
+6,Delhi Daredevils,Rajasthan Royals,male,2009,2009/05/17,Indian Premier League,50.0,Delhi Daredevils,bat,AB de Villiers,Delhi Daredevils,14.0,392230,runs,,,,,,V017
+6,Royal Challengers Bangalore,Rajasthan Royals,male,2007/08,2008/04/26,Indian Premier League,12.0,Rajasthan Royals,field,SR Watson,Rajasthan Royals,7.0,335992,wickets,,,,,,V029
+6,Chennai Super Kings,Kolkata Knight Riders,male,2007/08,2008/04/26,Indian Premier League,11.0,Kolkata Knight Riders,bat,JDP Oram,Chennai Super Kings,9.0,335993,wickets,,,,,,V028
+6,Kings XI Punjab,Delhi Daredevils,male,2007/08,2008/04/27,Indian Premier League,13.0,Delhi Daredevils,bat,SM Katich,Kings XI Punjab,4.0,335995,wickets,,,,,,V030
+6,Deccan Chargers,Kings XI Punjab,male,2007/08,2008/05/01,Indian Premier League,19.0,Kings XI Punjab,field,SE Marsh,Kings XI Punjab,7.0,335999,wickets,,,,,,V027
+6,Delhi Daredevils,Rajasthan Royals,male,2009,2009/04/28,Indian Premier League,18.0,Delhi Daredevils,bat,YK Pathan,Rajasthan Royals,5.0,392198,wickets,,,,,,V015
+6,Mumbai Indians,Delhi Daredevils,male,2007/08,2008/05/04,Indian Premier League,23.0,Delhi Daredevils,field,SM Pollock,Mumbai Indians,29.0,336004,runs,,,,,,V022
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2009,2009/05/12,Indian Premier League,41.0,Royal Challengers Bangalore,field,LRPL Taylor,Royal Challengers Bangalore,6.0,392221,wickets,,,,,,V015
+6,Deccan Chargers,Delhi Daredevils,male,2009,2009/04/30,Indian Premier League,21.0,Delhi Daredevils,field,DP Nannes,Delhi Daredevils,6.0,392201,wickets,,,,,,V015
+6,Kolkata Knight Riders,Rajasthan Royals,male,2009,2009/05/20,Indian Premier League,53.0,Kolkata Knight Riders,field,LR Shukla,Kolkata Knight Riders,4.0,392233,wickets,,,,,,V013
+6,Kings XI Punjab,Pune Warriors,male,2011,2011/05/08,Indian Premier League,51.0,Kings XI Punjab,bat,R Sharma,Pune Warriors,5.0,501248,wickets,,,,,,V030
+6,Deccan Chargers,Kolkata Knight Riders,male,2007/08,2008/05/11,Indian Premier League,32.0,Kolkata Knight Riders,bat,SC Ganguly,Kolkata Knight Riders,23.0,336014,runs,,,,,,V027
+6,Chennai Super Kings,Deccan Chargers,male,2011,2011/05/01,Indian Premier League,39.0,Chennai Super Kings,bat,JA Morkel,Chennai Super Kings,19.0,501236,runs,,,,,,V028
+6,Mumbai Indians,Deccan Chargers,male,2007/08,2008/04/27,Indian Premier League,14.0,Deccan Chargers,field,AC Gilchrist,Deccan Chargers,10.0,335994,wickets,,,,,,V022
+6,Kolkata Knight Riders,Chennai Super Kings,male,2011,2011/05/07,Indian Premier League,48.0,Chennai Super Kings,bat,Iqbal Abdulla,Kolkata Knight Riders,10.0,501245,runs,,,D/L,,,V023
+6,Kings XI Punjab,Kolkata Knight Riders,male,2009,2009/04/21,Indian Premier League,6.0,Kolkata Knight Riders,field,CH Gayle,Kolkata Knight Riders,11.0,392186,runs,,,D/L,,,V013
+6,Kings XI Punjab,Mumbai Indians,male,2009,2009/05/12,Indian Premier League,42.0,Kings XI Punjab,bat,Harbhajan Singh,Mumbai Indians,8.0,392222,wickets,,,,,,V015
+6,Deccan Chargers,Delhi Daredevils,male,2007/08,2008/04/22,Indian Premier League,7.0,Deccan Chargers,bat,V Sehwag,Delhi Daredevils,9.0,335988,wickets,,,,,,V027
+6,Pune Warriors,Chennai Super Kings,male,2011,2011/04/27,Indian Premier League,31.0,Pune Warriors,bat,DE Bollinger,Chennai Super Kings,8.0,501228,wickets,,,,,,V022
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2009,2009/04/29,Indian Premier League,19.0,Kolkata Knight Riders,bat,MV Boucher,Royal Challengers Bangalore,5.0,392199,wickets,,,,,,V013
+6,Rajasthan Royals,Kochi Tuskers Kerala,male,2011,2011/04/24,Indian Premier League,28.0,Rajasthan Royals,field,SK Warne,Rajasthan Royals,8.0,501225,wickets,,,,,,V006
+6,Royal Challengers Bangalore,Kings XI Punjab,male,2009,2009/05/01,Indian Premier League,24.0,Royal Challengers Bangalore,bat,Yuvraj Singh,Royal Challengers Bangalore,8.0,392204,runs,,,,,,V013
+6,Royal Challengers Bangalore,Deccan Chargers,male,2007/08,2008/05/03,Indian Premier League,21.0,Deccan Chargers,field,P Kumar,Royal Challengers Bangalore,3.0,336034,runs,,,,,,V029
+6,Royal Challengers Bangalore,Pune Warriors,male,2011,2011/04/29,Indian Premier League,35.0,Pune Warriors,field,V Kohli,Royal Challengers Bangalore,26.0,501232,runs,,,,,,V029
+6,Kings XI Punjab,Royal Challengers Bangalore,male,2012,2012/04/20,Indian Premier League,25.0,Royal Challengers Bangalore,field,CH Gayle,Royal Challengers Bangalore,5.0,548331,wickets,,,,,,V030
+6,Chennai Super Kings,Deccan Chargers,male,2007/08,2008/05/06,Indian Premier League,26.0,Deccan Chargers,field,AC Gilchrist,Deccan Chargers,7.0,336007,wickets,,,,,,V028
+6,Delhi Daredevils,Royal Challengers Bangalore,male,2007/08,2008/04/30,Indian Premier League,17.0,Royal Challengers Bangalore,field,GD McGrath,Delhi Daredevils,10.0,335998,runs,,,,,,V031
+6,Kings XI Punjab,Royal Challengers Bangalore,male,2007/08,2008/05/12,Indian Premier League,34.0,Royal Challengers Bangalore,bat,SE Marsh,Kings XI Punjab,9.0,336016,wickets,,,,,,V030
+6,Royal Challengers Bangalore,Mumbai Indians,male,2009,2009/05/03,Indian Premier League,28.0,Mumbai Indians,bat,JH Kallis,Royal Challengers Bangalore,9.0,392208,wickets,,,,,,V010
+6,Kings XI Punjab,Rajasthan Royals,male,2011,2011/04/21,Indian Premier League,23.0,Rajasthan Royals,field,SE Marsh,Kings XI Punjab,48.0,501220,runs,,,,,,V030
+6,Kolkata Knight Riders,Delhi Daredevils,male,2007/08,2008/05/13,Indian Premier League,35.0,Kolkata Knight Riders,bat,Shoaib Akhtar,Kolkata Knight Riders,23.0,336017,runs,,,,,,V023
+6,Chennai Super Kings,Rajasthan Royals,male,2009,2009/04/30,Indian Premier League,22.0,Rajasthan Royals,field,SK Raina,Chennai Super Kings,38.0,392202,runs,,,,,,V015
+6,Royal Challengers Bangalore,Kings XI Punjab,male,2009,2009/04/24,Indian Premier League,11.0,Royal Challengers Bangalore,bat,RS Bopara,Kings XI Punjab,7.0,392191,wickets,,,,,,V013
+6,Delhi Daredevils,Chennai Super Kings,male,2007/08,2008/05/08,Indian Premier League,28.0,Chennai Super Kings,field,MS Dhoni,Chennai Super Kings,4.0,336009,wickets,,,,,,V031
+6,Royal Challengers Bangalore,Kings XI Punjab,male,2007/08,2008/05/05,Indian Premier League,25.0,Kings XI Punjab,field,S Sreesanth,Kings XI Punjab,6.0,336006,wickets,,,,,,V029
+6,Kings XI Punjab,Kolkata Knight Riders,male,2009,2009/05/03,Indian Premier League,27.0,Kolkata Knight Riders,bat,DPMD Jayawardene,Kings XI Punjab,6.0,392207,wickets,,,,,,V011
+6,Chennai Super Kings,Deccan Chargers,male,2009,2009/04/27,Indian Premier League,16.0,Deccan Chargers,field,HH Gibbs,Deccan Chargers,6.0,392196,wickets,,,,,,V013
+6,Royal Challengers Bangalore,Mumbai Indians,male,2009,2009/05/10,Indian Premier League,38.0,Mumbai Indians,bat,JP Duminy,Mumbai Indians,16.0,392218,runs,,,,,,V011
+6,Deccan Chargers,Kolkata Knight Riders,male,2011,2011/05/03,Indian Premier League,42.0,Deccan Chargers,field,YK Pathan,Kolkata Knight Riders,20.0,501239,runs,,,,,,V027
+6,Delhi Daredevils,Rajasthan Royals,male,2013,2013/04/06,Indian Premier League,4.0,Rajasthan Royals,bat,R Dravid,Rajasthan Royals,5.0,598001,runs,,,,,,V031
+6,Delhi Daredevils,Pune Warriors,male,2013,2013/04/28,Indian Premier League,39.0,Pune Warriors,field,DA Warner,Delhi Daredevils,15.0,598035,runs,,,,,,V002
+6,Sunrisers Hyderabad,Kings XI Punjab,male,2013,2013/04/19,Indian Premier League,25.0,Kings XI Punjab,bat,GH Vihari,Sunrisers Hyderabad,5.0,598021,wickets,,,,,,V027
+6,Kings XI Punjab,Deccan Chargers,male,2012,2012/05/13,Indian Premier League,61.0,Deccan Chargers,bat,DJ Hussey,Kings XI Punjab,4.0,548366,wickets,,,,,,V030
+6,Pune Warriors,Rajasthan Royals,male,2013,2013/04/11,Indian Premier League,13.0,Rajasthan Royals,bat,AJ Finch,Pune Warriors,7.0,598009,wickets,,,,,,V020
+6,Sunrisers Hyderabad,Pune Warriors,male,2013,2013/04/05,Indian Premier League,3.0,Pune Warriors,field,A Mishra,Sunrisers Hyderabad,22.0,598000,runs,,,,,,V027
+6,Rajasthan Royals,Kings XI Punjab,male,2007/08,2008/04/21,Indian Premier League,6.0,Kings XI Punjab,bat,SR Watson,Rajasthan Royals,6.0,335987,wickets,,,,,,V006
+6,Mumbai Indians,Delhi Daredevils,male,2013,2013/04/09,Indian Premier League,10.0,Mumbai Indians,bat,KD Karthik,Mumbai Indians,44.0,598006,runs,,,,,,V019
+6,Kings XI Punjab,Chennai Super Kings,male,2007/08,2008/04/19,Indian Premier League,2.0,Chennai Super Kings,bat,MEK Hussey,Chennai Super Kings,33.0,335983,runs,,,,,,V030
+6,Kolkata Knight Riders,Rajasthan Royals,male,2009,2009/04/23,Indian Premier League,10.0,Kolkata Knight Riders,field,YK Pathan,,,392190,,tie,Rajasthan Royals,,,,V014
+6,Delhi Daredevils,Kings XI Punjab,male,2012,2012/05/15,Indian Premier League,64.0,Kings XI Punjab,bat,UT Yadav,Delhi Daredevils,5.0,548369,wickets,,,,,,V031
+6,Royal Challengers Bangalore,Mumbai Indians,male,2013,2013/04/04,Indian Premier League,2.0,Mumbai Indians,field,CH Gayle,Royal Challengers Bangalore,2.0,597999,runs,,,,,,V029
+6,Chennai Super Kings,Delhi Daredevils,male,2009,2009/05/02,Indian Premier League,26.0,Delhi Daredevils,field,SB Jakati,Chennai Super Kings,18.0,392206,runs,,,,,,V010
+6,Delhi Daredevils,Rajasthan Royals,male,2007/08,2008/04/19,Indian Premier League,3.0,Rajasthan Royals,bat,MF Maharoof,Delhi Daredevils,9.0,335984,wickets,,,,,,V031
+6,Kolkata Knight Riders,Mumbai Indians,male,2012,2012/05/12,Indian Premier League,58.0,Mumbai Indians,bat,RG Sharma,Mumbai Indians,27.0,548363,runs,,,,,,V023
+6,Kolkata Knight Riders,Delhi Daredevils,male,2013,2013/04/03,Indian Premier League,1.0,Kolkata Knight Riders,field,SP Narine,Kolkata Knight Riders,6.0,597998,wickets,,,,,,V023
+6,Kolkata Knight Riders,Deccan Chargers,male,2007/08,2008/04/20,Indian Premier League,4.0,Deccan Chargers,bat,DJ Hussey,Kolkata Knight Riders,5.0,335986,wickets,,,,,,V023
+6,Mumbai Indians,Royal Challengers Bangalore,male,2007/08,2008/04/20,Indian Premier League,5.0,Mumbai Indians,bat,MV Boucher,Royal Challengers Bangalore,5.0,335985,wickets,,,,,,V019
+6,Delhi Daredevils,Mumbai Indians,male,2013,2013/04/21,Indian Premier League,28.0,Mumbai Indians,bat,V Sehwag,Delhi Daredevils,9.0,598024,wickets,,,,,,V031
+6,Mumbai Indians,Rajasthan Royals,male,2007/08,2008/05/07,Indian Premier League,27.0,Mumbai Indians,field,A Nehra,Mumbai Indians,7.0,336008,wickets,,,,,,V022
+6,Pune Warriors,Kings XI Punjab,male,2013,2013/04/07,Indian Premier League,6.0,Pune Warriors,bat,M Vohra,Kings XI Punjab,8.0,598003,wickets,,,,,,V020
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2007/08,2008/04/18,Indian Premier League,1.0,Royal Challengers Bangalore,field,BB McCullum,Kolkata Knight Riders,140.0,335982,runs,,,,,,V029
+6,Delhi Daredevils,Kolkata Knight Riders,male,2009,2009/05/05,Indian Premier League,31.0,Kolkata Knight Riders,bat,G Gambhir,Delhi Daredevils,9.0,392211,wickets,,,,,,V013
+6,Kolkata Knight Riders,Royal Challengers Bangalore,male,2012,2012/04/28,Indian Premier League,38.0,Kolkata Knight Riders,bat,G Gambhir,Kolkata Knight Riders,47.0,548344,runs,,,,,,V023
+6,Delhi Capitals,Mumbai Indians,male,2022,2022/05/21,Indian Premier League,69.0,Mumbai Indians,field,JJ Bumrah,Mumbai Indians,5.0,1304115,wickets,,,,,,V019
+6,Delhi Capitals,Sunrisers Hyderabad,male,2022,2022/05/05,Indian Premier League,50.0,Sunrisers Hyderabad,field,DA Warner,Delhi Capitals,21.0,1304096,runs,,,,,,V016
+6,Rajasthan Royals,Lucknow Super Giants,male,2022,2022/05/15,Indian Premier League,63.0,Rajasthan Royals,bat,TA Boult,Rajasthan Royals,24.0,1304109,runs,,,,,,V016
+6,Sunrisers Hyderabad,Punjab Kings,male,2022,2022/05/22,Indian Premier League,70.0,Sunrisers Hyderabad,bat,Harpreet Brar,Punjab Kings,5.0,1304116,wickets,,,,,,V019
+6,Gujarat Titans,Lucknow Super Giants,male,2022,2022/05/10,Indian Premier League,57.0,Gujarat Titans,bat,Shubman Gill,Gujarat Titans,62.0,1304103,runs,,,,,,V020
+6,Lucknow Super Giants,Kolkata Knight Riders,male,2022,2022/05/18,Indian Premier League,66.0,Lucknow Super Giants,bat,Q de Kock,Lucknow Super Giants,2.0,1304112,runs,,,,,,V022
+6,Kolkata Knight Riders,Sunrisers Hyderabad,male,2022,2022/05/14,Indian Premier League,61.0,Kolkata Knight Riders,bat,AD Russell,Kolkata Knight Riders,54.0,1304107,runs,,,,,,V020
+6,Chennai Super Kings,Delhi Capitals,male,2022,2022/05/08,Indian Premier League,55.0,Delhi Capitals,field,DP Conway,Chennai Super Kings,91.0,1304101,runs,,,,,,V022
+6,Chennai Super Kings,Gujarat Titans,male,2022,2022/05/15,Indian Premier League,62.0,Chennai Super Kings,bat,WP Saha,Gujarat Titans,7.0,1304108,wickets,,,,,,V019
+6,Punjab Kings,Royal Challengers Bangalore,male,2022,2022/05/13,Indian Premier League,60.0,Royal Challengers Bangalore,field,JM Bairstow,Punjab Kings,54.0,1304106,runs,,,,,,V016
+6,Rajasthan Royals,Gujarat Titans,male,2022,2022/05/29,Indian Premier League,,Rajasthan Royals,bat,HH Pandya,Gujarat Titans,7.0,1312200,wickets,,,,,,V021
+6,Sunrisers Hyderabad,Mumbai Indians,male,2022,2022/05/17,Indian Premier League,65.0,Mumbai Indians,field,RA Tripathi,Sunrisers Hyderabad,3.0,1304111,runs,,,,,,V019
+6,Delhi Capitals,Punjab Kings,male,2022,2022/05/16,Indian Premier League,64.0,Punjab Kings,field,SN Thakur,Delhi Capitals,17.0,1304110,runs,,,,,,V022
+6,Gujarat Titans,Royal Challengers Bangalore,male,2022,2022/05/19,Indian Premier League,67.0,Gujarat Titans,bat,V Kohli,Royal Challengers Bangalore,8.0,1304113,wickets,,,,,,V019
+6,Chennai Super Kings,Rajasthan Royals,male,2022,2022/05/20,Indian Premier League,68.0,Chennai Super Kings,bat,R Ashwin,Rajasthan Royals,5.0,1304114,wickets,,,,,,V016
+6,Lucknow Super Giants,Kolkata Knight Riders,male,2022,2022/05/07,Indian Premier League,53.0,Kolkata Knight Riders,field,Avesh Khan,Lucknow Super Giants,75.0,1304099,runs,,,,,,V020
+6,Royal Challengers Bangalore,Rajasthan Royals,male,2022,2022/05/27,Indian Premier League,,Rajasthan Royals,field,JC Buttler,Rajasthan Royals,7.0,1312199,wickets,,,,,,V021
+6,Royal Challengers Bangalore,Sunrisers Hyderabad,male,2022,2022/05/08,Indian Premier League,54.0,Royal Challengers Bangalore,bat,PWH de Silva,Royal Challengers Bangalore,67.0,1304100,runs,,,,,,V019
+6,Mumbai Indians,Gujarat Titans,male,2022,2022/05/06,Indian Premier League,51.0,Gujarat Titans,field,TH David,Mumbai Indians,5.0,1304097,runs,,,,,,V016
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2022,2022/05/04,Indian Premier League,49.0,Chennai Super Kings,field,HV Patel,Royal Challengers Bangalore,13.0,1304095,runs,,,,,,V020
+6,Royal Challengers Bangalore,Sunrisers Hyderabad,male,2022,2022/04/23,Indian Premier League,36.0,Sunrisers Hyderabad,field,M Jansen,Sunrisers Hyderabad,9.0,1304082,wickets,,,,,,V016
+6,Punjab Kings,Rajasthan Royals,male,2022,2022/05/07,Indian Premier League,52.0,Punjab Kings,bat,YBK Jaiswal,Rajasthan Royals,6.0,1304098,wickets,,,,,,V019
+6,Rajasthan Royals,Lucknow Super Giants,male,2022,2022/04/10,Indian Premier League,20.0,Lucknow Super Giants,field,YS Chahal,Rajasthan Royals,3.0,1304066,runs,,,,,,V019
+6,Sunrisers Hyderabad,Gujarat Titans,male,2022,2022/04/27,Indian Premier League,40.0,Gujarat Titans,field,Umran Malik,Gujarat Titans,5.0,1304086,wickets,,,,,,V019
+6,Punjab Kings,Sunrisers Hyderabad,male,2022,2022/04/17,Indian Premier League,28.0,Sunrisers Hyderabad,field,Umran Malik,Sunrisers Hyderabad,7.0,1304074,wickets,,,,,,V022
+6,Chennai Super Kings,Mumbai Indians,male,2022,2022/05/12,Indian Premier League,59.0,Mumbai Indians,field,DR Sams,Mumbai Indians,5.0,1304105,wickets,,,,,,V019
+6,Gujarat Titans,Punjab Kings,male,2022,2022/05/03,Indian Premier League,48.0,Gujarat Titans,bat,K Rabada,Punjab Kings,8.0,1304094,wickets,,,,,,V022
+6,Punjab Kings,Delhi Capitals,male,2022,2022/04/20,Indian Premier League,32.0,Delhi Capitals,field,Kuldeep Yadav,Delhi Capitals,9.0,1304078,wickets,,,,,,V016
+6,Punjab Kings,Mumbai Indians,male,2022,2022/04/13,Indian Premier League,23.0,Mumbai Indians,field,MA Agarwal,Punjab Kings,12.0,1304069,runs,,,,,,V020
+6,Rajasthan Royals,Gujarat Titans,male,2022,2022/05/24,Indian Premier League,,Gujarat Titans,field,DA Miller,Gujarat Titans,7.0,1312197,wickets,,,,,,V023
+6,Royal Challengers Bangalore,Gujarat Titans,male,2022,2022/04/30,Indian Premier League,43.0,Royal Challengers Bangalore,bat,R Tewatia,Gujarat Titans,6.0,1304089,wickets,,,,,,V016
+6,Kolkata Knight Riders,Sunrisers Hyderabad,male,2022,2022/04/15,Indian Premier League,25.0,Sunrisers Hyderabad,field,RA Tripathi,Sunrisers Hyderabad,7.0,1304071,wickets,,,,,,V016
+6,Rajasthan Royals,Kolkata Knight Riders,male,2022,2022/04/18,Indian Premier League,30.0,Kolkata Knight Riders,field,YS Chahal,Rajasthan Royals,7.0,1304076,runs,,,,,,V016
+6,Rajasthan Royals,Delhi Capitals,male,2022,2022/05/11,Indian Premier League,58.0,Delhi Capitals,field,MR Marsh,Delhi Capitals,8.0,1304104,wickets,,,,,,V022
+6,Chennai Super Kings,Royal Challengers Bangalore,male,2022,2022/04/12,Indian Premier League,22.0,Royal Challengers Bangalore,field,S Dube,Chennai Super Kings,23.0,1304068,runs,,,,,,V022
+6,Chennai Super Kings,Sunrisers Hyderabad,male,2022,2022/05/01,Indian Premier League,46.0,Sunrisers Hyderabad,field,RD Gaikwad,Chennai Super Kings,13.0,1304092,runs,,,,,,V020
+6,Rajasthan Royals,Kolkata Knight Riders,male,2022,2022/05/02,Indian Premier League,47.0,Kolkata Knight Riders,field,RK Singh,Kolkata Knight Riders,7.0,1304093,wickets,,,,,,V019
+6,Mumbai Indians,Chennai Super Kings,male,2022,2022/04/21,Indian Premier League,33.0,Chennai Super Kings,field,Mukesh Choudhary,Chennai Super Kings,3.0,1304079,wickets,,,,,,V022
+6,Kolkata Knight Riders,Delhi Capitals,male,2022,2022/04/28,Indian Premier League,41.0,Delhi Capitals,field,Kuldeep Yadav,Delhi Capitals,4.0,1304087,wickets,,,,,,V019
+6,Chennai Super Kings,Gujarat Titans,male,2022,2022/04/17,Indian Premier League,29.0,Gujarat Titans,field,DA Miller,Gujarat Titans,3.0,1304075,wickets,,,,,,V020
+6,Punjab Kings,Chennai Super Kings,male,2022,2022/04/25,Indian Premier League,38.0,Chennai Super Kings,field,S Dhawan,Punjab Kings,11.0,1304084,runs,,,,,,V019
+6,Lucknow Super Giants,Delhi Capitals,male,2022,2022/05/01,Indian Premier League,45.0,Lucknow Super Giants,bat,Mohsin Khan (2),Lucknow Super Giants,6.0,1304091,runs,,,,,,V019
+6,Kolkata Knight Riders,Mumbai Indians,male,2022,2022/05/09,Indian Premier League,56.0,Mumbai Indians,field,JJ Bumrah,Kolkata Knight Riders,52.0,1304102,runs,,,,,,V022
+6,Royal Challengers Bangalore,Lucknow Super Giants,male,2022,2022/05/25,Indian Premier League,,Lucknow Super Giants,field,RM Patidar,Royal Challengers Bangalore,14.0,1312198,runs,,,,,,V023
+6,Lucknow Super Giants,Mumbai Indians,male,2022,2022/04/16,Indian Premier League,26.0,Mumbai Indians,field,KL Rahul,Lucknow Super Giants,18.0,1304072,runs,,,,,,V016
+6,Lucknow Super Giants,Punjab Kings,male,2022,2022/04/29,Indian Premier League,42.0,Punjab Kings,field,KH Pandya,Lucknow Super Giants,20.0,1304088,runs,,,,,,V020
+6,Chennai Super Kings,Sunrisers Hyderabad,male,2022,2022/04/09,Indian Premier League,17.0,Sunrisers Hyderabad,field,Abhishek Sharma,Sunrisers Hyderabad,8.0,1304063,wickets,,,,,,V022
+6,Gujarat Titans,Kolkata Knight Riders,male,2022,2022/04/23,Indian Premier League,35.0,Gujarat Titans,bat,Rashid Khan,Gujarat Titans,8.0,1304081,runs,,,,,,V022
+6,Mumbai Indians,Delhi Capitals,male,2021,2021/10/02,Indian Premier League,46.0,Delhi Capitals,field,AR Patel,Delhi Capitals,4.0,1254112,wickets,,,,,,V024
+6,Punjab Kings,Gujarat Titans,male,2022,2022/04/08,Indian Premier League,16.0,Gujarat Titans,field,Shubman Gill,Gujarat Titans,6.0,1304062,wickets,,,,,,V016
+6,Sunrisers Hyderabad,Delhi Capitals,male,2021,2021/09/22,Indian Premier League,33.0,Sunrisers Hyderabad,bat,A Nortje,Delhi Capitals,8.0,1254105,wickets,,,,,,V025
+6,Kolkata Knight Riders,Rajasthan Royals,male,2021,2021/10/07,Indian Premier League,54.0,Rajasthan Royals,field,Shivam Mavi,Kolkata Knight Riders,86.0,1254106,runs,,,,,,V024
+6,Rajasthan Royals,Mumbai Indians,male,2022,2022/04/02,Indian Premier League,9.0,Mumbai Indians,field,JC Buttler,Rajasthan Royals,23.0,1304055,runs,,,,,,V022
+6,Gujarat Titans,Rajasthan Royals,male,2022,2022/04/14,Indian Premier League,24.0,Rajasthan Royals,field,HH Pandya,Gujarat Titans,37.0,1304070,runs,,,,,,V022
+6,Rajasthan Royals,Mumbai Indians,male,2022,2022/04/30,Indian Premier League,44.0,Mumbai Indians,field,SA Yadav,Mumbai Indians,5.0,1304090,wickets,,,,,,V022
+6,Royal Challengers Bangalore,Delhi Capitals,male,2022,2022/04/16,Indian Premier League,27.0,Delhi Capitals,field,KD Karthik,Royal Challengers Bangalore,16.0,1304073,runs,,,,,,V019
+6,Chennai Super Kings,Kolkata Knight Riders,male,2022,2022/03/26,Indian Premier League,1.0,Kolkata Knight Riders,field,UT Yadav,Kolkata Knight Riders,6.0,1304047,wickets,,,,,,V019
+6,Chennai Super Kings,Lucknow Super Giants,male,2022,2022/03/31,Indian Premier League,7.0,Lucknow Super Giants,field,E Lewis,Lucknow Super Giants,6.0,1304053,wickets,,,,,,V016
+6,Rajasthan Royals,Delhi Capitals,male,2022,2022/04/22,Indian Premier League,34.0,Delhi Capitals,field,JC Buttler,Rajasthan Royals,15.0,1304080,runs,,,,,,V019
+6,Punjab Kings,Kolkata Knight Riders,male,2022,2022/04/01,Indian Premier League,8.0,Kolkata Knight Riders,field,UT Yadav,Kolkata Knight Riders,6.0,1304054,wickets,,,,,,V019
+6,Delhi Capitals,Kolkata Knight Riders,male,2021,2021/10/13,Indian Premier League,,Kolkata Knight Riders,field,VR Iyer,Kolkata Knight Riders,3.0,1254116,wickets,,,,,,V024
+6,Gujarat Titans,Sunrisers Hyderabad,male,2022,2022/04/11,Indian Premier League,21.0,Sunrisers Hyderabad,field,KS Williamson,Sunrisers Hyderabad,8.0,1304067,wickets,,,,,,V022
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2022,2022/04/26,Indian Premier League,39.0,Royal Challengers Bangalore,field,R Parag,Rajasthan Royals,29.0,1304085,runs,,,,,,V020
+6,Lucknow Super Giants,Mumbai Indians,male,2022,2022/04/24,Indian Premier League,37.0,Mumbai Indians,field,KL Rahul,Lucknow Super Giants,36.0,1304083,runs,,,,,,V019
+6,Royal Challengers Bangalore,Lucknow Super Giants,male,2022,2022/04/19,Indian Premier League,31.0,Lucknow Super Giants,field,F du Plessis,Royal Challengers Bangalore,18.0,1304077,runs,,,,,,V022
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2022,2022/04/05,Indian Premier League,13.0,Royal Challengers Bangalore,field,KD Karthik,Royal Challengers Bangalore,4.0,1304059,wickets,,,,,,V019
+6,Gujarat Titans,Delhi Capitals,male,2022,2022/04/02,Indian Premier League,10.0,Delhi Capitals,field,LH Ferguson,Gujarat Titans,14.0,1304056,runs,,,,,,V020
+6,Lucknow Super Giants,Sunrisers Hyderabad,male,2022,2022/04/04,Indian Premier League,12.0,Sunrisers Hyderabad,field,Avesh Khan,Lucknow Super Giants,12.0,1304058,runs,,,,,,V022
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2021,2021/10/11,Indian Premier League,,Royal Challengers Bangalore,bat,SP Narine,Kolkata Knight Riders,4.0,1254115,wickets,,,,,,V024
+6,Kolkata Knight Riders,Royal Challengers Bangalore,male,2022,2022/03/30,Indian Premier League,6.0,Royal Challengers Bangalore,field,PWH de Silva,Royal Challengers Bangalore,3.0,1304052,wickets,,,,,,V022
+6,Royal Challengers Bangalore,Punjab Kings,male,2022,2022/03/27,Indian Premier League,3.0,Punjab Kings,field,OF Smith,Punjab Kings,5.0,1304049,wickets,,,,,,V022
+6,Rajasthan Royals,Sunrisers Hyderabad,male,2022,2022/03/29,Indian Premier League,5.0,Sunrisers Hyderabad,field,SV Samson,Rajasthan Royals,61.0,1304051,runs,,,,,,V020
+6,Lucknow Super Giants,Gujarat Titans,male,2022,2022/03/28,Indian Premier League,4.0,Gujarat Titans,field,Mohammed Shami,Gujarat Titans,5.0,1304050,wickets,,,,,,V019
+6,Delhi Capitals,Kolkata Knight Riders,male,2022,2022/04/10,Indian Premier League,19.0,Kolkata Knight Riders,field,Kuldeep Yadav,Delhi Capitals,44.0,1304065,runs,,,,,,V016
+6,Mumbai Indians,Royal Challengers Bangalore,male,2022,2022/04/09,Indian Premier League,18.0,Royal Challengers Bangalore,field,Anuj Rawat,Royal Challengers Bangalore,7.0,1304064,wickets,,,,,,V020
+6,Sunrisers Hyderabad,Kolkata Knight Riders,male,2021,2021/10/03,Indian Premier League,49.0,Sunrisers Hyderabad,bat,Shubman Gill,Kolkata Knight Riders,6.0,1254109,wickets,,,,,,V025
+6,Kolkata Knight Riders,Delhi Capitals,male,2021,2021/04/29,Indian Premier League,25.0,Delhi Capitals,field,PP Shaw,Delhi Capitals,7.0,1254082,wickets,,,,,,V021
+6,Delhi Capitals,Lucknow Super Giants,male,2022,2022/04/07,Indian Premier League,15.0,Lucknow Super Giants,field,Q de Kock,Lucknow Super Giants,6.0,1304061,wickets,,,,,,V022
+6,Mumbai Indians,Kolkata Knight Riders,male,2022,2022/04/06,Indian Premier League,14.0,Kolkata Knight Riders,field,PJ Cummins,Kolkata Knight Riders,5.0,1304060,wickets,,,,,,V020
+6,Chennai Super Kings,Kolkata Knight Riders,male,2021,2021/10/15,Indian Premier League,,Kolkata Knight Riders,field,F du Plessis,Chennai Super Kings,27.0,1254117,runs,,,,,,V025
+6,Delhi Capitals,Chennai Super Kings,male,2021,2021/10/10,Indian Premier League,,Chennai Super Kings,field,RD Gaikwad,Chennai Super Kings,4.0,1254114,wickets,,,,,,V025
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2021,2021/09/20,Indian Premier League,31.0,Royal Challengers Bangalore,bat,CV Varun,Kolkata Knight Riders,9.0,1254087,wickets,,,,,,V026
+6,Chennai Super Kings,Mumbai Indians,male,2021,2021/05/01,Indian Premier League,27.0,Mumbai Indians,field,KA Pollard,Mumbai Indians,4.0,1254084,wickets,,,,,,V031
+6,Sunrisers Hyderabad,Royal Challengers Bangalore,male,2021,2021/10/06,Indian Premier League,52.0,Royal Challengers Bangalore,field,KS Williamson,Sunrisers Hyderabad,4.0,1254095,runs,,,,,,V026
+6,Rajasthan Royals,Mumbai Indians,male,2021,2021/04/29,Indian Premier League,24.0,Mumbai Indians,field,Q de Kock,Mumbai Indians,7.0,1254081,wickets,,,,,,V031
+6,Royal Challengers Bangalore,Punjab Kings,male,2021,2021/10/03,Indian Premier League,48.0,Royal Challengers Bangalore,bat,GJ Maxwell,Royal Challengers Bangalore,6.0,1254090,runs,,,,,,V024
+6,Sunrisers Hyderabad,Chennai Super Kings,male,2021,2021/09/30,Indian Premier League,44.0,Chennai Super Kings,field,JR Hazlewood,Chennai Super Kings,6.0,1254091,wickets,,,,,,V024
+6,Punjab Kings,Sunrisers Hyderabad,male,2021,2021/09/25,Indian Premier League,37.0,Sunrisers Hyderabad,field,JO Holder,Punjab Kings,5.0,1254107,runs,,,,,,V024
+6,Delhi Capitals,Kolkata Knight Riders,male,2021,2021/09/28,Indian Premier League,41.0,Kolkata Knight Riders,field,SP Narine,Kolkata Knight Riders,3.0,1254092,wickets,,,,,,V024
+6,Mumbai Indians,Delhi Capitals,male,2022,2022/03/27,Indian Premier League,2.0,Delhi Capitals,field,Kuldeep Yadav,Delhi Capitals,4.0,1304048,wickets,,,,,,V016
+6,Chennai Super Kings,Mumbai Indians,male,2021,2021/09/19,Indian Premier League,30.0,Chennai Super Kings,bat,RD Gaikwad,Chennai Super Kings,20.0,1254104,runs,,,,,,V025
+6,Punjab Kings,Delhi Capitals,male,2021,2021/05/02,Indian Premier League,29.0,Delhi Capitals,field,MA Agarwal,Delhi Capitals,7.0,1254086,wickets,,,,,,V021
+6,Kolkata Knight Riders,Chennai Super Kings,male,2021,2021/09/26,Indian Premier League,38.0,Kolkata Knight Riders,bat,RA Jadeja,Chennai Super Kings,2.0,1254098,wickets,,,,,,V026
+6,Chennai Super Kings,Rajasthan Royals,male,2021,2021/10/02,Indian Premier League,47.0,Rajasthan Royals,field,RD Gaikwad,Rajasthan Royals,7.0,1254089,wickets,,,,,,V026
+6,Kolkata Knight Riders,Punjab Kings,male,2021,2021/10/01,Indian Premier League,45.0,Punjab Kings,field,KL Rahul,Punjab Kings,5.0,1254102,wickets,,,,,,V025
+6,Delhi Capitals,Royal Challengers Bangalore,male,2021,2021/10/08,Indian Premier League,56.0,Royal Challengers Bangalore,field,KS Bharat,Royal Challengers Bangalore,7.0,1254101,wickets,,,,,,V025
+6,Punjab Kings,Royal Challengers Bangalore,male,2021,2021/04/30,Indian Premier League,26.0,Royal Challengers Bangalore,field,Harpreet Brar,Punjab Kings,34.0,1254083,runs,,,,,,V021
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2021,2021/09/29,Indian Premier League,43.0,Royal Challengers Bangalore,field,YS Chahal,Royal Challengers Bangalore,7.0,1254103,wickets,,,,,,V025
+6,Mumbai Indians,Sunrisers Hyderabad,male,2021,2021/10/08,Indian Premier League,55.0,Mumbai Indians,bat,Ishan Kishan,Mumbai Indians,42.0,1254088,runs,,,,,,V026
+6,Rajasthan Royals,Sunrisers Hyderabad,male,2021,2021/09/27,Indian Premier League,40.0,Rajasthan Royals,bat,JJ Roy,Sunrisers Hyderabad,7.0,1254100,wickets,,,,,,V025
+6,Chennai Super Kings,Delhi Capitals,male,2021,2021/10/04,Indian Premier League,50.0,Delhi Capitals,field,AR Patel,Delhi Capitals,3.0,1254110,wickets,,,,,,V025
+6,Chennai Super Kings,Punjab Kings,male,2021,2021/10/07,Indian Premier League,53.0,Punjab Kings,field,KL Rahul,Punjab Kings,6.0,1254094,wickets,,,,,,V025
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2021,2021/09/24,Indian Premier League,35.0,Chennai Super Kings,field,DJ Bravo,Chennai Super Kings,6.0,1254113,wickets,,,,,,V024
+6,Rajasthan Royals,Sunrisers Hyderabad,male,2021,2021/05/02,Indian Premier League,28.0,Sunrisers Hyderabad,field,JC Buttler,Rajasthan Royals,55.0,1254085,runs,,,,,,V031
+6,Delhi Capitals,Rajasthan Royals,male,2021,2021/09/25,Indian Premier League,36.0,Rajasthan Royals,field,SS Iyer,Delhi Capitals,33.0,1254097,runs,,,,,,V026
+6,Royal Challengers Bangalore,Sunrisers Hyderabad,male,2021,2021/04/14,Indian Premier League,6.0,Sunrisers Hyderabad,field,GJ Maxwell,Royal Challengers Bangalore,6.0,1254063,runs,,,,,,V028
+6,Delhi Capitals,Sunrisers Hyderabad,male,2021,2021/04/25,Indian Premier League,20.0,Delhi Capitals,bat,PP Shaw,,,1254077,,tie,Delhi Capitals,,,,V028
+6,Rajasthan Royals,Mumbai Indians,male,2021,2021/10/05,Indian Premier League,51.0,Mumbai Indians,field,NM Coulter-Nile,Mumbai Indians,8.0,1254093,wickets,,,,,,V024
+6,Punjab Kings,Chennai Super Kings,male,2022,2022/04/03,Indian Premier League,11.0,Chennai Super Kings,field,LS Livingstone,Punjab Kings,54.0,1304057,runs,,,,,,V016
+6,Chennai Super Kings,Rajasthan Royals,male,2021,2021/04/19,Indian Premier League,12.0,Rajasthan Royals,field,MM Ali,Chennai Super Kings,45.0,1254069,runs,,,,,,V019
+6,Royal Challengers Bangalore,Mumbai Indians,male,2021,2021/09/26,Indian Premier League,39.0,Mumbai Indians,field,GJ Maxwell,Royal Challengers Bangalore,54.0,1254108,runs,,,,,,V025
+6,Mumbai Indians,Punjab Kings,male,2021,2021/04/23,Indian Premier League,17.0,Punjab Kings,field,KL Rahul,Punjab Kings,9.0,1254074,wickets,,,,,,V028
+6,Mumbai Indians,Delhi Capitals,male,2021,2021/04/20,Indian Premier League,13.0,Mumbai Indians,bat,A Mishra,Delhi Capitals,6.0,1254070,wickets,,,,,,V028
+6,Mumbai Indians,Sunrisers Hyderabad,male,2020/21,2020/11/03,Indian Premier League,56.0,Sunrisers Hyderabad,field,S Nadeem,Sunrisers Hyderabad,10.0,1216495,wickets,,,,,,V024
+6,Mumbai Indians,Royal Challengers Bangalore,male,2021,2021/04/09,Indian Premier League,1.0,Royal Challengers Bangalore,field,HV Patel,Royal Challengers Bangalore,2.0,1254058,wickets,,,,,,V028
+6,Chennai Super Kings,Kolkata Knight Riders,male,2021,2021/04/21,Indian Premier League,15.0,Kolkata Knight Riders,field,F du Plessis,Chennai Super Kings,18.0,1254072,runs,,,,,,V019
+6,Mumbai Indians,Kolkata Knight Riders,male,2021,2021/09/23,Indian Premier League,34.0,Kolkata Knight Riders,field,SP Narine,Kolkata Knight Riders,7.0,1254096,wickets,,,,,,V026
+6,Mumbai Indians,Kolkata Knight Riders,male,2021,2021/04/13,Indian Premier League,5.0,Kolkata Knight Riders,field,RD Chahar,Mumbai Indians,10.0,1254062,runs,,,,,,V028
+6,Kolkata Knight Riders,Sunrisers Hyderabad,male,2021,2021/04/11,Indian Premier League,3.0,Sunrisers Hyderabad,field,N Rana,Kolkata Knight Riders,10.0,1254060,runs,,,,,,V028
+6,Rajasthan Royals,Punjab Kings,male,2021,2021/09/21,Indian Premier League,32.0,Punjab Kings,field,Kartik Tyagi,Rajasthan Royals,2.0,1254111,runs,,,,,,V025
+6,Mumbai Indians,Delhi Capitals,male,2020/21,2020/11/05,Indian Premier League,,Delhi Capitals,field,JJ Bumrah,Mumbai Indians,57.0,1237177,runs,,,,,,V025
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2021,2021/04/18,Indian Premier League,10.0,Royal Challengers Bangalore,bat,AB de Villiers,Royal Challengers Bangalore,38.0,1254067,runs,,,,,,V028
+6,Mumbai Indians,Sunrisers Hyderabad,male,2021,2021/04/17,Indian Premier League,9.0,Mumbai Indians,bat,KA Pollard,Mumbai Indians,13.0,1254066,runs,,,,,,V028
+6,Punjab Kings,Mumbai Indians,male,2021,2021/09/28,Indian Premier League,42.0,Mumbai Indians,field,KA Pollard,Mumbai Indians,6.0,1254099,wickets,,,,,,V026
+6,Sunrisers Hyderabad,Chennai Super Kings,male,2021,2021/04/28,Indian Premier League,23.0,Sunrisers Hyderabad,bat,RD Gaikwad,Chennai Super Kings,7.0,1254080,wickets,,,,,,V031
+6,Punjab Kings,Sunrisers Hyderabad,male,2021,2021/04/21,Indian Premier League,14.0,Punjab Kings,bat,JM Bairstow,Sunrisers Hyderabad,9.0,1254071,wickets,,,,,,V028
+6,Royal Challengers Bangalore,Kings XI Punjab,male,2020/21,2020/10/15,Indian Premier League,31.0,Royal Challengers Bangalore,bat,KL Rahul,Kings XI Punjab,8.0,1216531,wickets,,,,,,V024
+6,Delhi Capitals,Mumbai Indians,male,2020/21,2020/11/10,Indian Premier League,,Delhi Capitals,bat,TA Boult,Mumbai Indians,5.0,1237181,wickets,,,,,,V025
+6,Delhi Capitals,Kings XI Punjab,male,2020/21,2020/10/20,Indian Premier League,38.0,Delhi Capitals,bat,S Dhawan,Kings XI Punjab,5.0,1216546,wickets,,,,,,V025
+6,Royal Challengers Bangalore,Delhi Capitals,male,2020/21,2020/11/02,Indian Premier League,55.0,Delhi Capitals,field,A Nortje,Delhi Capitals,6.0,1216505,wickets,,,,,,V026
+6,Chennai Super Kings,Royal Challengers Bangalore,male,2021,2021/04/25,Indian Premier League,19.0,Chennai Super Kings,bat,RA Jadeja,Chennai Super Kings,69.0,1254076,runs,,,,,,V019
+6,Kolkata Knight Riders,Chennai Super Kings,male,2020/21,2020/10/29,Indian Premier League,49.0,Chennai Super Kings,field,RD Gaikwad,Chennai Super Kings,6.0,1216536,wickets,,,,,,V025
+6,Chennai Super Kings,Sunrisers Hyderabad,male,2020/21,2020/10/13,Indian Premier League,29.0,Chennai Super Kings,bat,RA Jadeja,Chennai Super Kings,20.0,1216528,runs,,,,,,V025
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2020/21,2020/10/25,Indian Premier League,44.0,Royal Challengers Bangalore,bat,RD Gaikwad,Chennai Super Kings,8.0,1216544,wickets,,,,,,V025
+6,Punjab Kings,Delhi Capitals,male,2021,2021/04/18,Indian Premier League,11.0,Delhi Capitals,field,S Dhawan,Delhi Capitals,6.0,1254068,wickets,,,,,,V019
+6,Royal Challengers Bangalore,Sunrisers Hyderabad,male,2020/21,2020/11/06,Indian Premier League,,Sunrisers Hyderabad,field,KS Williamson,Sunrisers Hyderabad,6.0,1237178,wickets,,,,,,V026
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2021,2021/04/22,Indian Premier League,16.0,Royal Challengers Bangalore,field,D Padikkal,Royal Challengers Bangalore,10.0,1254073,wickets,,,,,,V019
+6,Punjab Kings,Kolkata Knight Riders,male,2021,2021/04/26,Indian Premier League,21.0,Kolkata Knight Riders,field,EJG Morgan,Kolkata Knight Riders,5.0,1254078,wickets,,,,,,V021
+6,Punjab Kings,Rajasthan Royals,male,2021,2021/04/12,Indian Premier League,4.0,Rajasthan Royals,field,SV Samson,Punjab Kings,4.0,1254061,runs,,,,,,V019
+6,Delhi Capitals,Sunrisers Hyderabad,male,2020/21,2020/11/08,Indian Premier League,,Delhi Capitals,bat,MP Stoinis,Delhi Capitals,17.0,1237180,runs,,,,,,V026
+6,Kolkata Knight Riders,Rajasthan Royals,male,2020/21,2020/11/01,Indian Premier League,54.0,Rajasthan Royals,field,PJ Cummins,Kolkata Knight Riders,60.0,1216530,runs,,,,,,V025
+6,Delhi Capitals,Rajasthan Royals,male,2021,2021/04/15,Indian Premier League,7.0,Rajasthan Royals,field,JD Unadkat,Rajasthan Royals,3.0,1254064,wickets,,,,,,V019
+6,Punjab Kings,Chennai Super Kings,male,2021,2021/04/16,Indian Premier League,8.0,Chennai Super Kings,field,DL Chahar,Chennai Super Kings,6.0,1254065,wickets,,,,,,V019
+6,Kings XI Punjab,Sunrisers Hyderabad,male,2020/21,2020/10/24,Indian Premier League,43.0,Sunrisers Hyderabad,field,CJ Jordan,Kings XI Punjab,12.0,1216498,runs,,,,,,V025
+6,Kings XI Punjab,Rajasthan Royals,male,2020/21,2020/10/30,Indian Premier League,50.0,Rajasthan Royals,field,BA Stokes,Rajasthan Royals,7.0,1216537,wickets,,,,,,V026
+6,Delhi Capitals,Rajasthan Royals,male,2020/21,2020/10/14,Indian Premier League,30.0,Delhi Capitals,bat,A Nortje,Delhi Capitals,13.0,1216543,runs,,,,,,V025
+6,Kings XI Punjab,Chennai Super Kings,male,2020/21,2020/11/01,Indian Premier League,53.0,Chennai Super Kings,field,RD Gaikwad,Chennai Super Kings,9.0,1216506,wickets,,,,,,V026
+6,Kolkata Knight Riders,Royal Challengers Bangalore,male,2020/21,2020/10/21,Indian Premier League,39.0,Kolkata Knight Riders,bat,Mohammed Siraj,Royal Challengers Bangalore,8.0,1216494,wickets,,,,,,V026
+6,Chennai Super Kings,Mumbai Indians,male,2020/21,2020/10/23,Indian Premier League,41.0,Mumbai Indians,field,TA Boult,Mumbai Indians,10.0,1216521,wickets,,,,,,V024
+6,Mumbai Indians,Rajasthan Royals,male,2020/21,2020/10/25,Indian Premier League,45.0,Mumbai Indians,bat,BA Stokes,Rajasthan Royals,8.0,1216541,wickets,,,,,,V026
+6,Chennai Super Kings,Delhi Capitals,male,2021,2021/04/10,Indian Premier League,2.0,Delhi Capitals,field,S Dhawan,Delhi Capitals,7.0,1254059,wickets,,,,,,V019
+6,Sunrisers Hyderabad,Delhi Capitals,male,2020/21,2020/10/27,Indian Premier League,47.0,Delhi Capitals,field,WP Saha,Sunrisers Hyderabad,88.0,1216524,runs,,,,,,V025
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2020/21,2020/10/12,Indian Premier League,28.0,Royal Challengers Bangalore,bat,AB de Villiers,Royal Challengers Bangalore,82.0,1216540,runs,,,,,,V024
+6,Mumbai Indians,Kings XI Punjab,male,2020/21,2020/10/18,Indian Premier League,36.0,Mumbai Indians,bat,KL Rahul,,,1216517,,tie,Kings XI Punjab,,,,V025
+6,Royal Challengers Bangalore,Sunrisers Hyderabad,male,2020/21,2020/10/31,Indian Premier League,52.0,Sunrisers Hyderabad,field,Sandeep Sharma,Sunrisers Hyderabad,5.0,1216502,wickets,,,,,,V024
+6,Royal Challengers Bangalore,Delhi Capitals,male,2021,2021/04/27,Indian Premier League,22.0,Delhi Capitals,field,AB de Villiers,Royal Challengers Bangalore,1.0,1254079,runs,,,,,,V021
+6,Kolkata Knight Riders,Sunrisers Hyderabad,male,2020/21,2020/10/18,Indian Premier League,35.0,Sunrisers Hyderabad,field,LH Ferguson,,,1216512,,tie,Kolkata Knight Riders,,,,V026
+6,Rajasthan Royals,Sunrisers Hyderabad,male,2020/21,2020/10/22,Indian Premier League,40.0,Sunrisers Hyderabad,field,MK Pandey,Sunrisers Hyderabad,8.0,1216518,wickets,,,,,,V025
+6,Kolkata Knight Riders,Mumbai Indians,male,2020/21,2020/10/16,Indian Premier League,32.0,Kolkata Knight Riders,bat,Q de Kock,Mumbai Indians,8.0,1216526,wickets,,,,,,V026
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2020/21,2020/10/17,Indian Premier League,33.0,Rajasthan Royals,bat,AB de Villiers,Royal Challengers Bangalore,7.0,1216522,wickets,,,,,,V025
+6,Kolkata Knight Riders,Rajasthan Royals,male,2021,2021/04/24,Indian Premier League,18.0,Rajasthan Royals,field,CH Morris,Rajasthan Royals,6.0,1254075,wickets,,,,,,V019
+6,Delhi Capitals,Rajasthan Royals,male,2020/21,2020/10/09,Indian Premier League,23.0,Rajasthan Royals,field,R Ashwin,Delhi Capitals,46.0,1216500,runs,,,,,,V024
+6,Sunrisers Hyderabad,Kolkata Knight Riders,male,2020/21,2020/09/26,Indian Premier League,8.0,Sunrisers Hyderabad,bat,Shubman Gill,Kolkata Knight Riders,7.0,1216545,wickets,,,,,,V026
+6,Kolkata Knight Riders,Delhi Capitals,male,2020/21,2020/10/24,Indian Premier League,42.0,Delhi Capitals,field,CV Varun,Kolkata Knight Riders,59.0,1216497,runs,,,,,,V026
+6,Mumbai Indians,Kolkata Knight Riders,male,2020/21,2020/09/23,Indian Premier League,5.0,Kolkata Knight Riders,field,RG Sharma,Mumbai Indians,49.0,1216508,runs,,,,,,V026
+6,Sunrisers Hyderabad,Chennai Super Kings,male,2020/21,2020/10/02,Indian Premier League,14.0,Sunrisers Hyderabad,bat,PK Garg,Sunrisers Hyderabad,7.0,1216516,runs,,,,,,V025
+6,Delhi Capitals,Mumbai Indians,male,2020/21,2020/10/11,Indian Premier League,27.0,Delhi Capitals,bat,Q de Kock,Mumbai Indians,5.0,1216529,wickets,,,,,,V026
+6,Delhi Capitals,Mumbai Indians,male,2020/21,2020/10/31,Indian Premier League,51.0,Mumbai Indians,field,Ishan Kishan,Mumbai Indians,9.0,1216535,wickets,,,,,,V025
+6,Royal Challengers Bangalore,Mumbai Indians,male,2020/21,2020/10/28,Indian Premier League,48.0,Mumbai Indians,field,SA Yadav,Mumbai Indians,5.0,1216499,wickets,,,,,,V026
+6,Delhi Capitals,Kings XI Punjab,male,2020/21,2020/09/20,Indian Premier League,2.0,Kings XI Punjab,field,MP Stoinis,,,1216493,,tie,Delhi Capitals,,,,V025
+6,Sunrisers Hyderabad,Rajasthan Royals,male,2020/21,2020/10/11,Indian Premier League,26.0,Sunrisers Hyderabad,bat,R Tewatia,Rajasthan Royals,5.0,1216507,wickets,,,,,,V025
+6,Delhi Capitals,Kolkata Knight Riders,male,2020/21,2020/10/03,Indian Premier League,16.0,Kolkata Knight Riders,field,SS Iyer,Delhi Capitals,18.0,1216515,runs,,,,,,V024
+6,Delhi Capitals,Chennai Super Kings,male,2019,2019/05/10,Indian Premier League,,Chennai Super Kings,field,F du Plessis,Chennai Super Kings,6.0,1181767,wickets,,,,,,V003
+6,Royal Challengers Bangalore,Sunrisers Hyderabad,male,2020/21,2020/09/21,Indian Premier League,3.0,Sunrisers Hyderabad,field,YS Chahal,Royal Challengers Bangalore,10.0,1216534,runs,,,,,,V025
+6,Mumbai Indians,Chennai Super Kings,male,2020/21,2020/09/19,Indian Premier League,1.0,Chennai Super Kings,field,AT Rayudu,Chennai Super Kings,5.0,1216492,wickets,,,,,,V026
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2020/21,2020/10/10,Indian Premier League,25.0,Royal Challengers Bangalore,bat,V Kohli,Royal Challengers Bangalore,37.0,1216525,runs,,,,,,V025
+6,Chennai Super Kings,Delhi Capitals,male,2020/21,2020/10/17,Indian Premier League,34.0,Chennai Super Kings,bat,S Dhawan,Delhi Capitals,5.0,1216509,wickets,,,,,,V024
+6,Sunrisers Hyderabad,Kings XI Punjab,male,2020/21,2020/10/08,Indian Premier League,22.0,Sunrisers Hyderabad,bat,JM Bairstow,Sunrisers Hyderabad,69.0,1216542,runs,,,,,,V025
+6,Kolkata Knight Riders,Kings XI Punjab,male,2020/21,2020/10/26,Indian Premier League,46.0,Kings XI Punjab,field,CH Gayle,Kings XI Punjab,8.0,1216520,wickets,,,,,,V024
+6,Chennai Super Kings,Rajasthan Royals,male,2020/21,2020/10/19,Indian Premier League,37.0,Chennai Super Kings,bat,JC Buttler,Rajasthan Royals,7.0,1216533,wickets,,,,,,V026
+6,Kings XI Punjab,Chennai Super Kings,male,2020/21,2020/10/04,Indian Premier League,18.0,Kings XI Punjab,bat,SR Watson,Chennai Super Kings,10.0,1216513,wickets,,,,,,V025
+6,Rajasthan Royals,Delhi Capitals,male,2019,2019/04/22,Indian Premier League,40.0,Delhi Capitals,field,RR Pant,Delhi Capitals,6.0,1178415,wickets,,,,,,V006
+6,Mumbai Indians,Rajasthan Royals,male,2020/21,2020/10/06,Indian Premier League,20.0,Mumbai Indians,bat,SA Yadav,Mumbai Indians,57.0,1216511,runs,,,,,,V026
+6,Mumbai Indians,Rajasthan Royals,male,2019,2019/04/20,Indian Premier League,36.0,Rajasthan Royals,field,SPD Smith,Rajasthan Royals,5.0,1178411,wickets,,,,,,V006
+6,Delhi Capitals,Chennai Super Kings,male,2020/21,2020/09/25,Indian Premier League,7.0,Chennai Super Kings,field,PP Shaw,Delhi Capitals,44.0,1216539,runs,,,,,,V025
+6,Kolkata Knight Riders,Rajasthan Royals,male,2020/21,2020/09/30,Indian Premier League,12.0,Rajasthan Royals,field,Shivam Mavi,Kolkata Knight Riders,37.0,1216504,runs,,,,,,V025
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2019,2019/04/19,Indian Premier League,35.0,Kolkata Knight Riders,field,V Kohli,Royal Challengers Bangalore,10.0,1178410,runs,,,,,,V023
+6,Mumbai Indians,Sunrisers Hyderabad,male,2020/21,2020/10/04,Indian Premier League,17.0,Mumbai Indians,bat,TA Boult,Mumbai Indians,34.0,1216538,runs,,,,,,V024
+6,Mumbai Indians,Chennai Super Kings,male,2019,2019/05/12,Indian Premier League,,Mumbai Indians,bat,JJ Bumrah,Mumbai Indians,1.0,1181768,runs,,,,,,V027
+6,Sunrisers Hyderabad,Chennai Super Kings,male,2019,2019/04/23,Indian Premier League,41.0,Chennai Super Kings,field,SR Watson,Chennai Super Kings,6.0,1178416,wickets,,,,,,V028
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2020/21,2020/10/03,Indian Premier League,15.0,Rajasthan Royals,bat,YS Chahal,Royal Challengers Bangalore,8.0,1216514,wickets,,,,,,V026
+6,Royal Challengers Bangalore,Rajasthan Royals,male,2019,2019/04/30,Indian Premier League,49.0,Rajasthan Royals,field,,,,1178424,,no result,,,,,V029
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2019,2019/04/21,Indian Premier League,39.0,Chennai Super Kings,field,PA Patel,Royal Challengers Bangalore,1.0,1178414,runs,,,,,,V029
+6,Sunrisers Hyderabad,Chennai Super Kings,male,2018,2018/05/22,Indian Premier League,,Chennai Super Kings,field,F du Plessis,Chennai Super Kings,2.0,1136617,wickets,,,,,,V019
+6,Delhi Capitals,Royal Challengers Bangalore,male,2020/21,2020/10/05,Indian Premier League,19.0,Royal Challengers Bangalore,field,AR Patel,Delhi Capitals,59.0,1216519,runs,,,,,,V025
+6,Kolkata Knight Riders,Chennai Super Kings,male,2020/21,2020/10/07,Indian Premier League,21.0,Kolkata Knight Riders,bat,RA Tripathi,Kolkata Knight Riders,10.0,1216501,runs,,,,,,V026
+6,Kolkata Knight Riders,Kings XI Punjab,male,2020/21,2020/10/10,Indian Premier League,24.0,Kolkata Knight Riders,bat,KD Karthik,Kolkata Knight Riders,2.0,1216523,runs,,,,,,V026
+6,Rajasthan Royals,Chennai Super Kings,male,2020/21,2020/09/22,Indian Premier League,4.0,Chennai Super Kings,field,SV Samson,Rajasthan Royals,16.0,1216496,runs,,,,,,V024
+6,Chennai Super Kings,Delhi Capitals,male,2019,2019/05/01,Indian Premier League,50.0,Delhi Capitals,field,MS Dhoni,Chennai Super Kings,80.0,1178425,runs,,,,,,V028
+6,Kings XI Punjab,Rajasthan Royals,male,2020/21,2020/09/27,Indian Premier League,9.0,Rajasthan Royals,field,SV Samson,Rajasthan Royals,4.0,1216527,wickets,,,,,,V024
+6,Kolkata Knight Riders,Rajasthan Royals,male,2018,2018/05/23,Indian Premier League,,Rajasthan Royals,field,AD Russell,Kolkata Knight Riders,25.0,1136618,runs,,,,,,V023
+6,Royal Challengers Bangalore,Mumbai Indians,male,2020/21,2020/09/28,Indian Premier League,10.0,Mumbai Indians,field,AB de Villiers,,,1216547,,tie,Royal Challengers Bangalore,,,,V025
+6,Kings XI Punjab,Royal Challengers Bangalore,male,2020/21,2020/09/24,Indian Premier League,6.0,Royal Challengers Bangalore,field,KL Rahul,Kings XI Punjab,97.0,1216510,runs,,,,,,V025
+6,Sunrisers Hyderabad,Delhi Capitals,male,2020/21,2020/09/29,Indian Premier League,11.0,Delhi Capitals,field,Rashid Khan,Sunrisers Hyderabad,15.0,1216532,runs,,,,,,V026
+6,Mumbai Indians,Kings XI Punjab,male,2020/21,2020/10/01,Indian Premier League,13.0,Kings XI Punjab,field,KA Pollard,Mumbai Indians,48.0,1216503,runs,,,,,,V026
+6,Kings XI Punjab,Kolkata Knight Riders,male,2019,2019/05/03,Indian Premier League,52.0,Kolkata Knight Riders,field,Shubman Gill,Kolkata Knight Riders,7.0,1178427,wickets,,,,,,V030
+6,Sunrisers Hyderabad,Royal Challengers Bangalore,male,2019,2019/05/04,Indian Premier League,54.0,Royal Challengers Bangalore,field,SO Hetmyer,Royal Challengers Bangalore,4.0,1178429,wickets,,,,,,V029
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2018,2018/05/05,Indian Premier League,35.0,Chennai Super Kings,field,RA Jadeja,Chennai Super Kings,6.0,1136595,wickets,,,,,,V020
+6,Rajasthan Royals,Kings XI Punjab,male,2018,2018/05/08,Indian Premier League,40.0,Rajasthan Royals,bat,JC Buttler,Rajasthan Royals,15.0,1136600,runs,,,,,,V006
+6,Mumbai Indians,Sunrisers Hyderabad,male,2019,2019/05/02,Indian Premier League,51.0,Mumbai Indians,bat,JJ Bumrah,,,1178426,,tie,Mumbai Indians,,,,V019
+6,Rajasthan Royals,Kolkata Knight Riders,male,2018,2018/05/15,Indian Premier League,49.0,Kolkata Knight Riders,field,Kuldeep Yadav,Kolkata Knight Riders,6.0,1136609,wickets,,,,,,V023
+6,Kolkata Knight Riders,Mumbai Indians,male,2019,2019/05/05,Indian Premier League,56.0,Mumbai Indians,field,HH Pandya,Mumbai Indians,9.0,1178431,wickets,,,,,,V019
+6,Sunrisers Hyderabad,Chennai Super Kings,male,2018,2018/05/27,Indian Premier League,,Chennai Super Kings,field,SR Watson,Chennai Super Kings,8.0,1136620,wickets,,,,,,V019
+6,Mumbai Indians,Delhi Capitals,male,2019,2019/04/18,Indian Premier League,34.0,Mumbai Indians,bat,HH Pandya,Mumbai Indians,40.0,1178409,runs,,,,,,V031
+6,Kolkata Knight Riders,Rajasthan Royals,male,2019,2019/04/25,Indian Premier League,43.0,Rajasthan Royals,field,VR Aaron,Rajasthan Royals,3.0,1178418,wickets,,,,,,V023
+6,Mumbai Indians,Rajasthan Royals,male,2018,2018/05/13,Indian Premier League,47.0,Rajasthan Royals,field,JC Buttler,Rajasthan Royals,7.0,1136607,wickets,,,,,,V019
+6,Delhi Capitals,Royal Challengers Bangalore,male,2019,2019/04/28,Indian Premier League,46.0,Delhi Capitals,bat,S Dhawan,Delhi Capitals,16.0,1178421,runs,,,,,,V031
+6,Sunrisers Hyderabad,Rajasthan Royals,male,2019,2019/04/27,Indian Premier League,45.0,Rajasthan Royals,field,JD Unadkat,Rajasthan Royals,7.0,1178420,wickets,,,,,,V006
+6,Mumbai Indians,Kings XI Punjab,male,2018,2018/05/16,Indian Premier League,50.0,Kings XI Punjab,field,JJ Bumrah,Mumbai Indians,3.0,1136610,runs,,,,,,V019
+6,Kolkata Knight Riders,Sunrisers Hyderabad,male,2019,2019/04/21,Indian Premier League,38.0,Sunrisers Hyderabad,field,KK Ahmed,Sunrisers Hyderabad,9.0,1178413,wickets,,,,,,V027
+6,Mumbai Indians,Chennai Super Kings,male,2019,2019/04/26,Indian Premier League,44.0,Chennai Super Kings,field,RG Sharma,Mumbai Indians,46.0,1178419,runs,,,,,,V028
+6,Delhi Daredevils,Rajasthan Royals,male,2018,2018/05/02,Indian Premier League,32.0,Rajasthan Royals,field,RR Pant,Delhi Daredevils,4.0,1136592,runs,,,D/L,,,V031
+6,Chennai Super Kings,Kolkata Knight Riders,male,2018,2018/05/03,Indian Premier League,33.0,Kolkata Knight Riders,field,SP Narine,Kolkata Knight Riders,6.0,1136593,wickets,,,,,,V023
+6,Rajasthan Royals,Delhi Capitals,male,2019,2019/05/04,Indian Premier League,53.0,Rajasthan Royals,bat,A Mishra,Delhi Capitals,5.0,1178428,wickets,,,,,,V031
+6,Chennai Super Kings,Mumbai Indians,male,2019,2019/05/07,Indian Premier League,,Chennai Super Kings,bat,SA Yadav,Mumbai Indians,6.0,1181764,wickets,,,,,,V028
+6,Sunrisers Hyderabad,Kolkata Knight Riders,male,2018,2018/05/25,Indian Premier League,,Kolkata Knight Riders,field,Rashid Khan,Sunrisers Hyderabad,14.0,1136619,runs,,,,,,V023
+6,Chennai Super Kings,Delhi Daredevils,male,2018,2018/04/30,Indian Premier League,30.0,Delhi Daredevils,field,SR Watson,Chennai Super Kings,13.0,1136590,runs,,,,,,V020
+6,Sunrisers Hyderabad,Delhi Capitals,male,2019,2019/05/08,Indian Premier League,,Delhi Capitals,field,RR Pant,Delhi Capitals,2.0,1181766,wickets,,,,,,V003
+6,Kolkata Knight Riders,Mumbai Indians,male,2019,2019/04/28,Indian Premier League,47.0,Mumbai Indians,field,AD Russell,Kolkata Knight Riders,34.0,1178422,runs,,,,,,V023
+6,Chennai Super Kings,Kings XI Punjab,male,2019,2019/05/05,Indian Premier League,55.0,Kings XI Punjab,field,KL Rahul,Kings XI Punjab,6.0,1178430,wickets,,,,,,V030
+6,Kings XI Punjab,Delhi Capitals,male,2019,2019/04/20,Indian Premier League,37.0,Delhi Capitals,field,SS Iyer,Delhi Capitals,5.0,1178412,wickets,,,,,,V031
+6,Royal Challengers Bangalore,Kings XI Punjab,male,2019,2019/04/24,Indian Premier League,42.0,Kings XI Punjab,field,AB de Villiers,Royal Challengers Bangalore,17.0,1178417,runs,,,,,,V029
+6,Rajasthan Royals,Kings XI Punjab,male,2018,2018/05/06,Indian Premier League,38.0,Kings XI Punjab,field,Mujeeb Ur Rahman,Kings XI Punjab,6.0,1136598,wickets,,,,,,V007
+6,Royal Challengers Bangalore,Sunrisers Hyderabad,male,2018,2018/05/17,Indian Premier League,51.0,Sunrisers Hyderabad,field,AB de Villiers,Royal Challengers Bangalore,14.0,1136611,runs,,,,,,V029
+6,Sunrisers Hyderabad,Royal Challengers Bangalore,male,2018,2018/05/07,Indian Premier League,39.0,Royal Challengers Bangalore,field,KS Williamson,Sunrisers Hyderabad,5.0,1136599,runs,,,,,,V027
+6,Sunrisers Hyderabad,Chennai Super Kings,male,2018,2018/05/13,Indian Premier League,46.0,Chennai Super Kings,field,AT Rayudu,Chennai Super Kings,8.0,1136606,wickets,,,,,,V020
+6,Kings XI Punjab,Royal Challengers Bangalore,male,2018,2018/05/14,Indian Premier League,48.0,Royal Challengers Bangalore,field,UT Yadav,Royal Challengers Bangalore,10.0,1136608,wickets,,,,,,V007
+6,Chennai Super Kings,Sunrisers Hyderabad,male,2018,2018/04/22,Indian Premier League,20.0,Sunrisers Hyderabad,field,AT Rayudu,Chennai Super Kings,4.0,1136580,runs,,,,,,V027
+6,Mumbai Indians,Kolkata Knight Riders,male,2018,2018/05/09,Indian Premier League,41.0,Kolkata Knight Riders,field,Ishan Kishan,Mumbai Indians,102.0,1136601,runs,,,,,,V023
+6,Kings XI Punjab,Sunrisers Hyderabad,male,2018,2018/04/19,Indian Premier League,16.0,Kings XI Punjab,bat,CH Gayle,Kings XI Punjab,15.0,1136576,runs,,,,,,V030
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2018,2018/05/19,Indian Premier League,53.0,Rajasthan Royals,bat,S Gopal,Rajasthan Royals,30.0,1136613,runs,,,,,,V006
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2018,2018/04/29,Indian Premier League,29.0,Kolkata Knight Riders,field,CA Lynn,Kolkata Knight Riders,6.0,1136589,wickets,,,,,,V029
+6,Sunrisers Hyderabad,Kings XI Punjab,male,2019,2019/04/29,Indian Premier League,48.0,Kings XI Punjab,field,DA Warner,Sunrisers Hyderabad,45.0,1178423,runs,,,,,,V027
+6,Kolkata Knight Riders,Kings XI Punjab,male,2018,2018/05/12,Indian Premier League,44.0,Kings XI Punjab,field,SP Narine,Kolkata Knight Riders,31.0,1136604,runs,,,,,,V007
+6,Delhi Daredevils,Sunrisers Hyderabad,male,2018,2018/05/05,Indian Premier League,36.0,Delhi Daredevils,bat,Rashid Khan,Sunrisers Hyderabad,7.0,1136596,wickets,,,,,,V027
+6,Kings XI Punjab,Mumbai Indians,male,2018,2018/05/04,Indian Premier League,34.0,Mumbai Indians,field,SA Yadav,Mumbai Indians,6.0,1136594,wickets,,,,,,V007
+6,Kings XI Punjab,Chennai Super Kings,male,2018,2018/05/20,Indian Premier League,56.0,Chennai Super Kings,field,L Ngidi,Chennai Super Kings,5.0,1136616,wickets,,,,,,V020
+6,Delhi Daredevils,Chennai Super Kings,male,2018,2018/05/18,Indian Premier League,52.0,Chennai Super Kings,field,HV Patel,Delhi Daredevils,34.0,1136612,runs,,,,,,V031
+6,Royal Challengers Bangalore,Mumbai Indians,male,2018,2018/05/01,Indian Premier League,31.0,Mumbai Indians,field,TG Southee,Royal Challengers Bangalore,14.0,1136591,runs,,,,,,V029
+6,Sunrisers Hyderabad,Kolkata Knight Riders,male,2018,2018/05/19,Indian Premier League,54.0,Sunrisers Hyderabad,bat,CA Lynn,Kolkata Knight Riders,5.0,1136614,wickets,,,,,,V027
+6,Mumbai Indians,Kolkata Knight Riders,male,2018,2018/05/06,Indian Premier League,37.0,Kolkata Knight Riders,field,HH Pandya,Mumbai Indians,13.0,1136597,runs,,,,,,V019
+6,Delhi Daredevils,Mumbai Indians,male,2018,2018/05/20,Indian Premier League,55.0,Delhi Daredevils,bat,A Mishra,Delhi Daredevils,11.0,1136615,runs,,,,,,V031
+6,Kolkata Knight Riders,Delhi Daredevils,male,2018,2018/04/16,Indian Premier League,13.0,Delhi Daredevils,field,N Rana,Kolkata Knight Riders,71.0,1136573,runs,,,,,,V023
+6,Mumbai Indians,Delhi Daredevils,male,2018,2018/04/14,Indian Premier League,9.0,Delhi Daredevils,field,JJ Roy,Delhi Daredevils,7.0,1136569,wickets,,,,,,V019
+6,Chennai Super Kings,Rajasthan Royals,male,2018,2018/05/11,Indian Premier League,43.0,Chennai Super Kings,bat,JC Buttler,Rajasthan Royals,4.0,1136603,wickets,,,,,,V006
+6,Rajasthan Royals,Royal Challengers Bangalore,male,2018,2018/04/15,Indian Premier League,11.0,Royal Challengers Bangalore,field,SV Samson,Rajasthan Royals,19.0,1136571,runs,,,,,,V029
+6,Sunrisers Hyderabad,Mumbai Indians,male,2018,2018/04/24,Indian Premier League,23.0,Mumbai Indians,field,Rashid Khan,Sunrisers Hyderabad,31.0,1136583,runs,,,,,,V019
+6,Delhi Daredevils,Royal Challengers Bangalore,male,2018,2018/04/21,Indian Premier League,19.0,Royal Challengers Bangalore,field,AB de Villiers,Royal Challengers Bangalore,6.0,1136579,wickets,,,,,,V029
+6,Mumbai Indians,Rajasthan Royals,male,2018,2018/04/22,Indian Premier League,21.0,Mumbai Indians,bat,JC Archer,Rajasthan Royals,3.0,1136581,wickets,,,,,,V006
+6,Chennai Super Kings,Mumbai Indians,male,2018,2018/04/28,Indian Premier League,27.0,Mumbai Indians,field,RG Sharma,Mumbai Indians,8.0,1136587,wickets,,,,,,V020
+6,Delhi Daredevils,Sunrisers Hyderabad,male,2018,2018/05/10,Indian Premier League,42.0,Delhi Daredevils,bat,S Dhawan,Sunrisers Hyderabad,9.0,1136602,wickets,,,,,,V031
+6,Rajasthan Royals,Kolkata Knight Riders,male,2018,2018/04/18,Indian Premier League,15.0,Kolkata Knight Riders,field,N Rana,Kolkata Knight Riders,7.0,1136575,wickets,,,,,,V006
+6,Sunrisers Hyderabad,Rajasthan Royals,male,2018,2018/04/29,Indian Premier League,28.0,Sunrisers Hyderabad,bat,KS Williamson,Sunrisers Hyderabad,11.0,1136588,runs,,,,,,V006
+6,Delhi Daredevils,Royal Challengers Bangalore,male,2018,2018/05/12,Indian Premier League,45.0,Royal Challengers Bangalore,field,AB de Villiers,Royal Challengers Bangalore,5.0,1136605,wickets,,,,,,V031
+6,Delhi Daredevils,Kings XI Punjab,male,2018,2018/04/08,Indian Premier League,2.0,Kings XI Punjab,field,KL Rahul,Kings XI Punjab,6.0,1136562,wickets,,,,,,V030
+6,Sunrisers Hyderabad,Kings XI Punjab,male,2018,2018/04/26,Indian Premier League,25.0,Kings XI Punjab,field,AS Rajpoot,Sunrisers Hyderabad,13.0,1136585,runs,,,,,,V027
+6,Chennai Super Kings,Sunrisers Hyderabad,male,2019,2019/04/17,Indian Premier League,33.0,Chennai Super Kings,bat,DA Warner,Sunrisers Hyderabad,6.0,1178408,wickets,,,,,,V027
+6,Mumbai Indians,Sunrisers Hyderabad,male,2018,2018/04/12,Indian Premier League,7.0,Sunrisers Hyderabad,field,Rashid Khan,Sunrisers Hyderabad,1.0,1136567,wickets,,,,,,V027
+6,Mumbai Indians,Royal Challengers Bangalore,male,2018,2018/04/17,Indian Premier League,14.0,Royal Challengers Bangalore,field,RG Sharma,Mumbai Indians,46.0,1136574,runs,,,,,,V019
+6,Kings XI Punjab,Chennai Super Kings,male,2018,2018/04/15,Indian Premier League,12.0,Chennai Super Kings,field,CH Gayle,Kings XI Punjab,4.0,1136572,runs,,,,,,V030
+6,Mumbai Indians,Chennai Super Kings,male,2018,2018/04/07,Indian Premier League,1.0,Chennai Super Kings,field,DJ Bravo,Chennai Super Kings,1.0,1136561,wickets,,,,,,V019
+6,Delhi Daredevils,Kolkata Knight Riders,male,2018,2018/04/27,Indian Premier League,26.0,Kolkata Knight Riders,field,SS Iyer,Delhi Daredevils,55.0,1136586,runs,,,,,,V031
+6,Kings XI Punjab,Royal Challengers Bangalore,male,2018,2018/04/13,Indian Premier League,8.0,Royal Challengers Bangalore,field,UT Yadav,Royal Challengers Bangalore,4.0,1136568,wickets,,,,,,V029
+6,Chennai Super Kings,Rajasthan Royals,male,2018,2018/04/20,Indian Premier League,17.0,Rajasthan Royals,field,SR Watson,Chennai Super Kings,64.0,1136577,runs,,,,,,V020
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2018,2018/04/08,Indian Premier League,3.0,Kolkata Knight Riders,field,SP Narine,Kolkata Knight Riders,4.0,1136563,wickets,,,,,,V023
+6,Rajasthan Royals,Chennai Super Kings,male,2019,2019/04/11,Indian Premier League,25.0,Chennai Super Kings,field,MS Dhoni,Chennai Super Kings,4.0,1178400,wickets,,,,,,V006
+6,Rajasthan Royals,Sunrisers Hyderabad,male,2019,2019/03/29,Indian Premier League,8.0,Rajasthan Royals,bat,Rashid Khan,Sunrisers Hyderabad,5.0,1175363,wickets,,,,,,V027
+6,Kings XI Punjab,Royal Challengers Bangalore,male,2019,2019/04/13,Indian Premier League,28.0,Royal Challengers Bangalore,field,AB de Villiers,Royal Challengers Bangalore,8.0,1178403,wickets,,,,,,V030
+6,Mumbai Indians,Royal Challengers Bangalore,male,2019,2019/03/28,Indian Premier League,7.0,Royal Challengers Bangalore,field,JJ Bumrah,Mumbai Indians,6.0,1175362,runs,,,,,,V029
+6,Kolkata Knight Riders,Kings XI Punjab,male,2018,2018/04/21,Indian Premier League,18.0,Kings XI Punjab,field,KL Rahul,Kings XI Punjab,9.0,1136578,wickets,,,D/L,,,V023
+6,Kolkata Knight Riders,Sunrisers Hyderabad,male,2018,2018/04/14,Indian Premier League,10.0,Sunrisers Hyderabad,field,B Stanlake,Sunrisers Hyderabad,5.0,1136570,wickets,,,,,,V023
+6,Kolkata Knight Riders,Kings XI Punjab,male,2019,2019/03/27,Indian Premier League,6.0,Kings XI Punjab,field,AD Russell,Kolkata Knight Riders,28.0,1175361,runs,,,,,,V023
+6,Royal Challengers Bangalore,Delhi Capitals,male,2019,2019/04/07,Indian Premier League,20.0,Delhi Capitals,field,K Rabada,Delhi Capitals,4.0,1178395,wickets,,,,,,V029
+6,Sunrisers Hyderabad,Kings XI Punjab,male,2019,2019/04/08,Indian Premier League,22.0,Kings XI Punjab,field,KL Rahul,Kings XI Punjab,6.0,1178397,wickets,,,,,,V030
+6,Mumbai Indians,Chennai Super Kings,male,2019,2019/04/03,Indian Premier League,15.0,Chennai Super Kings,field,HH Pandya,Mumbai Indians,37.0,1175370,runs,,,,,,V019
+6,Rajasthan Royals,Sunrisers Hyderabad,male,2018,2018/04/09,Indian Premier League,4.0,Sunrisers Hyderabad,field,S Dhawan,Sunrisers Hyderabad,9.0,1136564,wickets,,,,,,V027
+6,Kolkata Knight Riders,Chennai Super Kings,male,2018,2018/04/10,Indian Premier League,5.0,Chennai Super Kings,field,SW Billings,Chennai Super Kings,5.0,1136565,wickets,,,,,,V028
+6,Kings XI Punjab,Delhi Daredevils,male,2018,2018/04/23,Indian Premier League,22.0,Delhi Daredevils,field,AS Rajpoot,Kings XI Punjab,4.0,1136582,runs,,,,,,V031
+6,Rajasthan Royals,Delhi Daredevils,male,2018,2018/04/11,Indian Premier League,6.0,Delhi Daredevils,field,SV Samson,Rajasthan Royals,10.0,1136566,runs,,,D/L,,,V006
+6,Delhi Capitals,Mumbai Indians,male,2019,2019/03/24,Indian Premier League,3.0,Mumbai Indians,field,RR Pant,Delhi Capitals,37.0,1175358,runs,,,,,,V019
+6,Kolkata Knight Riders,Delhi Capitals,male,2019,2019/03/30,Indian Premier League,10.0,Delhi Capitals,field,PP Shaw,,,1175365,,tie,Delhi Capitals,,,,V031
+6,Sunrisers Hyderabad,Royal Challengers Bangalore,male,2019,2019/03/31,Indian Premier League,11.0,Royal Challengers Bangalore,field,JM Bairstow,Sunrisers Hyderabad,118.0,1175366,runs,,,,,,V027
+6,Delhi Daredevils,Gujarat Lions,male,2017,2017/05/04,Indian Premier League,42.0,Delhi Daredevils,field,RR Pant,Delhi Daredevils,7.0,1082632,wickets,,,,,,V031
+6,Rajasthan Royals,Kolkata Knight Riders,male,2019,2019/04/07,Indian Premier League,21.0,Kolkata Knight Riders,field,HF Gurney,Kolkata Knight Riders,8.0,1178396,wickets,,,,,,V006
+6,Kolkata Knight Riders,Chennai Super Kings,male,2019,2019/04/09,Indian Premier League,23.0,Chennai Super Kings,field,DL Chahar,Chennai Super Kings,7.0,1178398,wickets,,,,,,V028
+6,Delhi Capitals,Chennai Super Kings,male,2019,2019/03/26,Indian Premier League,5.0,Delhi Capitals,bat,SR Watson,Chennai Super Kings,6.0,1175360,wickets,,,,,,V031
+6,Royal Challengers Bangalore,Kings XI Punjab,male,2017,2017/05/05,Indian Premier League,43.0,Royal Challengers Bangalore,field,Sandeep Sharma,Kings XI Punjab,19.0,1082633,runs,,,,,,V029
+6,Royal Challengers Bangalore,Mumbai Indians,male,2019,2019/04/15,Indian Premier League,31.0,Mumbai Indians,field,SL Malinga,Mumbai Indians,5.0,1178406,wickets,,,,,,V019
+6,Sunrisers Hyderabad,Kolkata Knight Riders,male,2017,2017/04/30,Indian Premier League,37.0,Kolkata Knight Riders,field,DA Warner,Sunrisers Hyderabad,48.0,1082627,runs,,,,,,V027
+6,Rising Pune Supergiant,Kings XI Punjab,male,2017,2017/05/14,Indian Premier League,55.0,Rising Pune Supergiant,field,JD Unadkat,Rising Pune Supergiant,9.0,1082645,wickets,,,,,,V020
+6,Mumbai Indians,Sunrisers Hyderabad,male,2019,2019/04/06,Indian Premier League,19.0,Sunrisers Hyderabad,field,AS Joseph,Mumbai Indians,40.0,1178394,runs,,,,,,V027
+6,Chennai Super Kings,Rajasthan Royals,male,2019,2019/03/31,Indian Premier League,12.0,Rajasthan Royals,field,MS Dhoni,Chennai Super Kings,8.0,1175367,runs,,,,,,V028
+6,Kolkata Knight Riders,Rising Pune Supergiant,male,2017,2017/05/03,Indian Premier League,41.0,Rising Pune Supergiant,field,RA Tripathi,Rising Pune Supergiant,4.0,1082631,wickets,,,,,,V023
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2019,2019/04/05,Indian Premier League,17.0,Kolkata Knight Riders,field,AD Russell,Kolkata Knight Riders,5.0,1175372,wickets,,,,,,V029
+6,Kolkata Knight Riders,Mumbai Indians,male,2017,2017/05/13,Indian Premier League,54.0,Kolkata Knight Riders,field,AT Rayudu,Mumbai Indians,9.0,1082644,runs,,,,,,V023
+6,Kings XI Punjab,Mumbai Indians,male,2019,2019/04/10,Indian Premier League,24.0,Mumbai Indians,field,KA Pollard,Mumbai Indians,3.0,1178399,wickets,,,,,,V019
+6,Mumbai Indians,Rajasthan Royals,male,2019,2019/04/13,Indian Premier League,27.0,Rajasthan Royals,field,JC Buttler,Rajasthan Royals,4.0,1178402,wickets,,,,,,V019
+6,Kings XI Punjab,Delhi Capitals,male,2019,2019/04/01,Indian Premier League,13.0,Delhi Capitals,field,SM Curran,Kings XI Punjab,14.0,1175368,runs,,,,,,V030
+6,Delhi Capitals,Sunrisers Hyderabad,male,2019,2019/04/04,Indian Premier League,16.0,Sunrisers Hyderabad,field,JM Bairstow,Sunrisers Hyderabad,5.0,1175371,wickets,,,,,,V031
+6,Kolkata Knight Riders,Chennai Super Kings,male,2019,2019/04/14,Indian Premier League,29.0,Chennai Super Kings,field,Imran Tahir,Chennai Super Kings,5.0,1178404,wickets,,,,,,V023
+6,Delhi Capitals,Sunrisers Hyderabad,male,2019,2019/04/14,Indian Premier League,30.0,Sunrisers Hyderabad,field,KMA Paul,Delhi Capitals,39.0,1178405,runs,,,,,,V027
+6,Royal Challengers Bangalore,Rajasthan Royals,male,2019,2019/04/02,Indian Premier League,14.0,Rajasthan Royals,field,S Gopal,Rajasthan Royals,7.0,1175369,wickets,,,,,,V006
+6,Kings XI Punjab,Rajasthan Royals,male,2019,2019/04/16,Indian Premier League,32.0,Rajasthan Royals,field,R Ashwin,Kings XI Punjab,12.0,1178407,runs,,,,,,V030
+6,Chennai Super Kings,Kings XI Punjab,male,2019,2019/04/06,Indian Premier League,18.0,Chennai Super Kings,bat,Harbhajan Singh,Chennai Super Kings,22.0,1178393,runs,,,,,,V028
+6,Kings XI Punjab,Gujarat Lions,male,2017,2017/05/07,Indian Premier League,47.0,Gujarat Lions,field,DR Smith,Gujarat Lions,6.0,1082637,wickets,,,,,,V030
+6,Kolkata Knight Riders,Delhi Capitals,male,2019,2019/04/12,Indian Premier League,26.0,Delhi Capitals,field,S Dhawan,Delhi Capitals,7.0,1178401,wickets,,,,,,V023
+6,Kings XI Punjab,Royal Challengers Bangalore,male,2017,2017/04/10,Indian Premier League,8.0,Royal Challengers Bangalore,bat,AR Patel,Kings XI Punjab,8.0,1082598,wickets,,,,,,V007
+6,Sunrisers Hyderabad,Rising Pune Supergiant,male,2017,2017/05/06,Indian Premier League,44.0,Sunrisers Hyderabad,field,JD Unadkat,Rising Pune Supergiant,12.0,1082634,runs,,,,,,V027
+6,Gujarat Lions,Sunrisers Hyderabad,male,2017,2017/05/13,Indian Premier League,53.0,Sunrisers Hyderabad,field,Mohammed Siraj,Sunrisers Hyderabad,8.0,1082643,wickets,,,,,,V032
+6,Delhi Daredevils,Mumbai Indians,male,2017,2017/05/06,Indian Premier League,45.0,Delhi Daredevils,field,LMP Simmons,Mumbai Indians,146.0,1082635,runs,,,,,,V031
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2017,2017/05/07,Indian Premier League,46.0,Kolkata Knight Riders,field,SP Narine,Kolkata Knight Riders,6.0,1082636,wickets,,,,,,V029
+6,Kings XI Punjab,Delhi Daredevils,male,2017,2017/04/30,Indian Premier League,36.0,Kings XI Punjab,field,Sandeep Sharma,Kings XI Punjab,10.0,1082626,wickets,,,,,,V030
+6,Mumbai Indians,Royal Challengers Bangalore,male,2017,2017/05/01,Indian Premier League,38.0,Royal Challengers Bangalore,bat,RG Sharma,Mumbai Indians,5.0,1082628,wickets,,,,,,V019
+6,Sunrisers Hyderabad,Kings XI Punjab,male,2017,2017/04/17,Indian Premier League,19.0,Kings XI Punjab,field,B Kumar,Sunrisers Hyderabad,5.0,1082609,runs,,,,,,V027
+6,Kolkata Knight Riders,Kings XI Punjab,male,2017,2017/04/13,Indian Premier League,11.0,Kolkata Knight Riders,field,SP Narine,Kolkata Knight Riders,8.0,1082601,wickets,,,,,,V023
+6,Gujarat Lions,Delhi Daredevils,male,2017,2017/05/10,Indian Premier League,50.0,Delhi Daredevils,field,SS Iyer,Delhi Daredevils,2.0,1082640,wickets,,,,,,V032
+6,Sunrisers Hyderabad,Kolkata Knight Riders,male,2019,2019/03/24,Indian Premier League,2.0,Kolkata Knight Riders,field,AD Russell,Kolkata Knight Riders,6.0,1175357,wickets,,,,,,V023
+6,Sunrisers Hyderabad,Mumbai Indians,male,2017,2017/05/08,Indian Premier League,48.0,Mumbai Indians,bat,S Dhawan,Sunrisers Hyderabad,7.0,1082638,wickets,,,,,,V027
+6,Rising Pune Supergiant,Gujarat Lions,male,2017,2017/05/01,Indian Premier League,39.0,Rising Pune Supergiant,field,BA Stokes,Rising Pune Supergiant,5.0,1082629,wickets,,,,,,V020
+6,Delhi Daredevils,Rising Pune Supergiant,male,2017,2017/05/12,Indian Premier League,52.0,Delhi Daredevils,bat,KK Nair,Delhi Daredevils,7.0,1082642,runs,,,,,,V031
+6,Mumbai Indians,Kings XI Punjab,male,2019,2019/03/30,Indian Premier League,9.0,Kings XI Punjab,field,MA Agarwal,Kings XI Punjab,8.0,1175364,wickets,,,,,,V030
+6,Kolkata Knight Riders,Sunrisers Hyderabad,male,2017,2017/04/15,Indian Premier League,14.0,Sunrisers Hyderabad,field,RV Uthappa,Kolkata Knight Riders,17.0,1082604,runs,,,,,,V023
+6,Delhi Daredevils,Sunrisers Hyderabad,male,2017,2017/05/02,Indian Premier League,40.0,Delhi Daredevils,field,Mohammed Shami,Delhi Daredevils,6.0,1082630,wickets,,,,,,V031
+6,Royal Challengers Bangalore,Rising Pune Supergiant,male,2017,2017/04/16,Indian Premier League,17.0,Royal Challengers Bangalore,field,BA Stokes,Rising Pune Supergiant,27.0,1082607,runs,,,,,,V029
+6,Delhi Daredevils,Kolkata Knight Riders,male,2017,2017/04/17,Indian Premier League,18.0,Delhi Daredevils,bat,NM Coulter-Nile,Kolkata Knight Riders,4.0,1082608,wickets,,,,,,V031
+6,Kings XI Punjab,Kolkata Knight Riders,male,2017,2017/05/09,Indian Premier League,49.0,Kolkata Knight Riders,field,MM Sharma,Kings XI Punjab,14.0,1082639,runs,,,,,,V030
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2019,2019/03/23,Indian Premier League,1.0,Chennai Super Kings,field,Harbhajan Singh,Chennai Super Kings,7.0,1175356,wickets,,,,,,V028
+6,Mumbai Indians,Rising Pune Supergiant,male,2017,2017/05/21,Indian Premier League,,Mumbai Indians,bat,KH Pandya,Mumbai Indians,1.0,1082650,runs,,,,,,V027
+6,Kings XI Punjab,Rajasthan Royals,male,2019,2019/03/25,Indian Premier League,4.0,Rajasthan Royals,field,CH Gayle,Kings XI Punjab,14.0,1175359,runs,,,,,,V006
+6,Delhi Daredevils,Royal Challengers Bangalore,male,2017,2017/05/14,Indian Premier League,56.0,Royal Challengers Bangalore,bat,HV Patel,Royal Challengers Bangalore,10.0,1082646,runs,,,,,,V031
+6,Mumbai Indians,Rising Pune Supergiant,male,2017,2017/05/16,Indian Premier League,,Mumbai Indians,field,Washington Sundar,Rising Pune Supergiant,20.0,1082647,runs,,,,,,V019
+6,Mumbai Indians,Kings XI Punjab,male,2017,2017/05/11,Indian Premier League,51.0,Mumbai Indians,field,WP Saha,Kings XI Punjab,7.0,1082641,runs,,,,,,V019
+6,Sunrisers Hyderabad,Kolkata Knight Riders,male,2017,,Indian Premier League,,Kolkata Knight Riders,field,NM Coulter-Nile,Kolkata Knight Riders,7.0,1082648,wickets,,,D/L,2017/05/17,2017/05/18,V029
+6,Mumbai Indians,Kolkata Knight Riders,male,2017,2017/05/19,Indian Premier League,,Mumbai Indians,field,KV Sharma,Mumbai Indians,6.0,1082649,wickets,,,,,,V029
+6,Rising Pune Supergiant,Delhi Daredevils,male,2017,2017/04/11,Indian Premier League,9.0,Rising Pune Supergiant,field,SV Samson,Delhi Daredevils,97.0,1082599,runs,,,,,,V020
+6,Rising Pune Supergiant,Mumbai Indians,male,2017,2017/04/06,Indian Premier League,2.0,Rising Pune Supergiant,field,SPD Smith,Rising Pune Supergiant,7.0,1082592,wickets,,,,,,V020
+6,Mumbai Indians,Delhi Daredevils,male,2017,2017/04/22,Indian Premier League,25.0,Delhi Daredevils,field,MJ McClenaghan,Mumbai Indians,14.0,1082614,runs,,,,,,V019
+6,Mumbai Indians,Gujarat Lions,male,2017,2017/04/16,Indian Premier League,16.0,Mumbai Indians,field,N Rana,Mumbai Indians,6.0,1082606,wickets,,,,,,V019
+6,Royal Challengers Bangalore,Gujarat Lions,male,2017,2017/04/27,Indian Premier League,31.0,Gujarat Lions,field,AJ Tye,Gujarat Lions,7.0,1082621,wickets,,,,,,V029
+6,Delhi Daredevils,Kings XI Punjab,male,2017,2017/04/15,Indian Premier League,15.0,Delhi Daredevils,bat,CJ Anderson,Delhi Daredevils,51.0,1082605,runs,,,,,,V031
+6,Kolkata Knight Riders,Delhi Daredevils,male,2017,2017/04/28,Indian Premier League,32.0,Kolkata Knight Riders,field,G Gambhir,Kolkata Knight Riders,7.0,1082622,wickets,,,,,,V023
+6,Rising Pune Supergiant,Kolkata Knight Riders,male,2017,2017/04/26,Indian Premier League,30.0,Kolkata Knight Riders,field,RV Uthappa,Kolkata Knight Riders,7.0,1082620,wickets,,,,,,V020
+6,Gujarat Lions,Rising Pune Supergiant,male,2017,2017/04/14,Indian Premier League,13.0,Gujarat Lions,field,AJ Tye,Gujarat Lions,7.0,1082603,wickets,,,,,,V033
+6,Kings XI Punjab,Mumbai Indians,male,2017,2017/04/20,Indian Premier League,22.0,Mumbai Indians,field,JC Buttler,Mumbai Indians,8.0,1082612,wickets,,,,,,V007
+6,Royal Challengers Bangalore,Mumbai Indians,male,2017,2017/04/14,Indian Premier League,12.0,Mumbai Indians,field,KA Pollard,Mumbai Indians,4.0,1082602,wickets,,,,,,V029
+6,Gujarat Lions,Kings XI Punjab,male,2017,2017/04/23,Indian Premier League,26.0,Gujarat Lions,field,HM Amla,Kings XI Punjab,26.0,1082616,runs,,,,,,V033
+6,Mumbai Indians,Sunrisers Hyderabad,male,2017,2017/04/12,Indian Premier League,10.0,Mumbai Indians,field,JJ Bumrah,Mumbai Indians,4.0,1082600,wickets,,,,,,V019
+6,Sunrisers Hyderabad,Delhi Daredevils,male,2017,2017/04/19,Indian Premier League,21.0,Sunrisers Hyderabad,bat,KS Williamson,Sunrisers Hyderabad,15.0,1082611,runs,,,,,,V027
+6,Kolkata Knight Riders,Gujarat Lions,male,2017,2017/04/21,Indian Premier League,23.0,Gujarat Lions,field,SK Raina,Gujarat Lions,4.0,1082613,wickets,,,,,,V023
+6,Rising Pune Supergiant,Sunrisers Hyderabad,male,2017,2017/04/22,Indian Premier League,24.0,Rising Pune Supergiant,field,MS Dhoni,Rising Pune Supergiant,6.0,1082615,wickets,,,,,,V020
+6,Kolkata Knight Riders,Royal Challengers Bangalore,male,2017,2017/04/23,Indian Premier League,27.0,Royal Challengers Bangalore,field,NM Coulter-Nile,Kolkata Knight Riders,82.0,1082617,runs,,,,,,V023
+6,Gujarat Lions,Royal Challengers Bangalore,male,2017,2017/04/18,Indian Premier League,20.0,Gujarat Lions,field,CH Gayle,Royal Challengers Bangalore,21.0,1082610,runs,,,,,,V033
+6,Kings XI Punjab,Sunrisers Hyderabad,male,2017,2017/04/28,Indian Premier League,33.0,Kings XI Punjab,field,Rashid Khan,Sunrisers Hyderabad,26.0,1082623,runs,,,,,,V030
+6,Rising Pune Supergiant,Royal Challengers Bangalore,male,2017,2017/04/29,Indian Premier League,34.0,Royal Challengers Bangalore,field,LH Ferguson,Rising Pune Supergiant,61.0,1082624,runs,,,,,,V020
+6,Mumbai Indians,Kolkata Knight Riders,male,2017,2017/04/09,Indian Premier League,7.0,Mumbai Indians,field,N Rana,Mumbai Indians,4.0,1082597,wickets,,,,,,V019
+6,Kings XI Punjab,Royal Challengers Bangalore,male,2016,2016/05/09,Indian Premier League,39.0,Kings XI Punjab,field,SR Watson,Royal Challengers Bangalore,1.0,980977,runs,,,,,,V030
+6,Mumbai Indians,Kings XI Punjab,male,2016,2016/05/13,Indian Premier League,43.0,Mumbai Indians,bat,MP Stoinis,Kings XI Punjab,7.0,980985,wickets,,,,,,V003
+6,Delhi Daredevils,Royal Challengers Bangalore,male,2016,2016/05/22,Indian Premier League,56.0,Royal Challengers Bangalore,field,V Kohli,Royal Challengers Bangalore,6.0,981011,wickets,,,,,,V002
+6,Rising Pune Supergiants,Kings XI Punjab,male,2016,2016/05/21,Indian Premier League,53.0,Kings XI Punjab,bat,MS Dhoni,Rising Pune Supergiants,4.0,981005,wickets,,,,,,V003
+6,Sunrisers Hyderabad,Gujarat Lions,male,2017,2017/04/09,Indian Premier League,6.0,Sunrisers Hyderabad,field,Rashid Khan,Sunrisers Hyderabad,9.0,1082596,wickets,,,,,,V027
+6,Gujarat Lions,Kolkata Knight Riders,male,2017,2017/04/07,Indian Premier League,3.0,Kolkata Knight Riders,field,CA Lynn,Kolkata Knight Riders,10.0,1082593,wickets,,,,,,V033
+6,Sunrisers Hyderabad,Royal Challengers Bangalore,male,2017,2017/04/05,Indian Premier League,1.0,Royal Challengers Bangalore,field,Yuvraj Singh,Sunrisers Hyderabad,35.0,1082591,runs,,,,,,V027
+6,Mumbai Indians,Rising Pune Supergiant,male,2017,2017/04/24,Indian Premier League,28.0,Mumbai Indians,field,BA Stokes,Rising Pune Supergiant,3.0,1082618,runs,,,,,,V019
+6,Gujarat Lions,Kolkata Knight Riders,male,2016,2016/05/19,Indian Premier League,51.0,Gujarat Lions,field,DR Smith,Gujarat Lions,6.0,981001,wickets,,,,,,V032
+6,Sunrisers Hyderabad,Kolkata Knight Riders,male,2016,2016/05/25,Indian Premier League,,Kolkata Knight Riders,field,MC Henriques,Sunrisers Hyderabad,22.0,981015,runs,,,,,,V031
+6,Royal Challengers Bangalore,Chennai Super Kings,male,2018,2018/04/25,Indian Premier League,24.0,Chennai Super Kings,field,MS Dhoni,Chennai Super Kings,5.0,1136584,wickets,,,,,,V029
+6,Sunrisers Hyderabad,Delhi Daredevils,male,2016,2016/05/12,Indian Premier League,42.0,Delhi Daredevils,field,CH Morris,Delhi Daredevils,7.0,980983,wickets,,,,,,V027
+6,Kolkata Knight Riders,Royal Challengers Bangalore,male,2016,2016/05/16,Indian Premier League,48.0,Royal Challengers Bangalore,field,V Kohli,Royal Challengers Bangalore,9.0,980995,wickets,,,,,,V023
+6,Rising Pune Supergiants,Sunrisers Hyderabad,male,2016,2016/05/10,Indian Premier League,40.0,Sunrisers Hyderabad,bat,A Zampa,Sunrisers Hyderabad,4.0,980979,runs,,,,,,V003
+6,Royal Challengers Bangalore,Delhi Daredevils,male,2017,2017/04/08,Indian Premier League,5.0,Royal Challengers Bangalore,bat,KM Jadhav,Royal Challengers Bangalore,15.0,1082595,runs,,,,,,V029
+6,Gujarat Lions,Mumbai Indians,male,2017,2017/04/29,Indian Premier League,35.0,Gujarat Lions,bat,KH Pandya,,,1082625,,tie,Mumbai Indians,,,,V033
+6,Mumbai Indians,Delhi Daredevils,male,2016,2016/05/15,Indian Premier League,47.0,Delhi Daredevils,field,KH Pandya,Mumbai Indians,80.0,980993,runs,,,,,,V003
+6,Kolkata Knight Riders,Rising Pune Supergiants,male,2016,2016/05/14,Indian Premier League,45.0,Rising Pune Supergiants,bat,YK Pathan,Kolkata Knight Riders,8.0,980989,wickets,,,D/L,,,V023
+6,Kolkata Knight Riders,Sunrisers Hyderabad,male,2016,2016/05/22,Indian Premier League,55.0,Sunrisers Hyderabad,field,YK Pathan,Kolkata Knight Riders,22.0,981009,runs,,,,,,V023
+6,Royal Challengers Bangalore,Kings XI Punjab,male,2016,2016/05/18,Indian Premier League,50.0,Kings XI Punjab,field,V Kohli,Royal Challengers Bangalore,82.0,980999,runs,,,D/L,,,V029
+6,Kolkata Knight Riders,Gujarat Lions,male,2016,2016/05/08,Indian Premier League,38.0,Gujarat Lions,field,P Kumar,Gujarat Lions,5.0,980975,wickets,,,,,,V023
+6,Royal Challengers Bangalore,Mumbai Indians,male,2016,2016/05/11,Indian Premier League,41.0,Mumbai Indians,field,KH Pandya,Mumbai Indians,6.0,980981,wickets,,,,,,V029
+6,Royal Challengers Bangalore,Gujarat Lions,male,2016,2016/05/14,Indian Premier League,44.0,Gujarat Lions,field,AB de Villiers,Royal Challengers Bangalore,144.0,980987,runs,,,,,,V029
+6,Sunrisers Hyderabad,Rising Pune Supergiants,male,2016,2016/04/26,Indian Premier League,22.0,Rising Pune Supergiants,field,AB Dinda,Rising Pune Supergiants,34.0,980943,runs,,,D/L,,,V027
+6,Gujarat Lions,Sunrisers Hyderabad,male,2016,2016/05/27,Indian Premier League,,Sunrisers Hyderabad,field,DA Warner,Sunrisers Hyderabad,4.0,981017,wickets,,,,,,V031
+6,Kolkata Knight Riders,Kings XI Punjab,male,2016,2016/05/04,Indian Premier League,32.0,Kings XI Punjab,field,AD Russell,Kolkata Knight Riders,7.0,980963,runs,,,,,,V023
+6,Gujarat Lions,Mumbai Indians,male,2016,2016/05/21,Indian Premier League,54.0,Gujarat Lions,field,SK Raina,Gujarat Lions,6.0,981007,wickets,,,,,,V032
+6,Delhi Daredevils,Sunrisers Hyderabad,male,2016,2016/05/20,Indian Premier League,52.0,Delhi Daredevils,field,KK Nair,Delhi Daredevils,6.0,981003,wickets,,,,,,V002
+6,Delhi Daredevils,Kolkata Knight Riders,male,2016,2016/04/30,Indian Premier League,26.0,Kolkata Knight Riders,field,CR Brathwaite,Delhi Daredevils,27.0,980951,runs,,,,,,V031
+6,Gujarat Lions,Royal Challengers Bangalore,male,2016,2016/05/24,Indian Premier League,,Royal Challengers Bangalore,field,AB de Villiers,Royal Challengers Bangalore,4.0,981013,wickets,,,,,,V029
+6,Kings XI Punjab,Kolkata Knight Riders,male,2016,2016/04/19,Indian Premier League,13.0,Kolkata Knight Riders,field,RV Uthappa,Kolkata Knight Riders,6.0,980925,wickets,,,,,,V030
+6,Mumbai Indians,Royal Challengers Bangalore,male,2016,2016/04/20,Indian Premier League,14.0,Mumbai Indians,field,RG Sharma,Mumbai Indians,6.0,980927,wickets,,,,,,V019
+6,Kings XI Punjab,Rising Pune Supergiant,male,2017,2017/04/08,Indian Premier League,4.0,Kings XI Punjab,field,GJ Maxwell,Kings XI Punjab,6.0,1082594,wickets,,,,,,V007
+6,Gujarat Lions,Kings XI Punjab,male,2016,2016/05/01,Indian Premier League,28.0,Gujarat Lions,field,AR Patel,Kings XI Punjab,23.0,980955,runs,,,,,,V033
+6,Rising Pune Supergiants,Kolkata Knight Riders,male,2016,2016/04/24,Indian Premier League,20.0,Kolkata Knight Riders,field,SA Yadav,Kolkata Knight Riders,2.0,980939,wickets,,,,,,V020
+6,Sunrisers Hyderabad,Kolkata Knight Riders,male,2016,2016/04/16,Indian Premier League,8.0,Sunrisers Hyderabad,bat,G Gambhir,Kolkata Knight Riders,8.0,980915,wickets,,,,,,V027
+6,Rising Pune Supergiants,Mumbai Indians,male,2016,2016/05/01,Indian Premier League,29.0,Mumbai Indians,field,RG Sharma,Mumbai Indians,8.0,980957,wickets,,,,,,V020
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2016,2016/05/02,Indian Premier League,30.0,Kolkata Knight Riders,field,AD Russell,Kolkata Knight Riders,5.0,980959,wickets,,,,,,V029
+6,Mumbai Indians,Chennai Super Kings,male,2015,2015/05/24,Indian Premier League,,Chennai Super Kings,field,RG Sharma,Mumbai Indians,41.0,829823,runs,,,,,,V023
+6,Mumbai Indians,Kolkata Knight Riders,male,2016,2016/04/28,Indian Premier League,24.0,Mumbai Indians,field,RG Sharma,Mumbai Indians,6.0,980947,wickets,,,,,,V019
+6,Sunrisers Hyderabad,Gujarat Lions,male,2016,2016/05/06,Indian Premier League,34.0,Sunrisers Hyderabad,field,B Kumar,Sunrisers Hyderabad,5.0,980967,wickets,,,,,,V027
+6,Gujarat Lions,Delhi Daredevils,male,2016,2016/05/03,Indian Premier League,31.0,Delhi Daredevils,field,RR Pant,Delhi Daredevils,8.0,980961,wickets,,,,,,V033
+6,Mumbai Indians,Sunrisers Hyderabad,male,2016,2016/05/08,Indian Premier League,37.0,Mumbai Indians,field,A Nehra,Sunrisers Hyderabad,85.0,980973,runs,,,,,,V003
+6,Delhi Daredevils,Gujarat Lions,male,2016,2016/04/27,Indian Premier League,23.0,Delhi Daredevils,field,CH Morris,Gujarat Lions,1.0,980945,runs,,,,,,V031
+6,Delhi Daredevils,Rising Pune Supergiants,male,2016,2016/05/05,Indian Premier League,33.0,Rising Pune Supergiants,field,AM Rahane,Rising Pune Supergiants,7.0,980965,wickets,,,,,,V031
+6,Sunrisers Hyderabad,Kings XI Punjab,male,2016,2016/04/23,Indian Premier League,18.0,Sunrisers Hyderabad,field,Mustafizur Rahman,Sunrisers Hyderabad,5.0,980935,wickets,,,,,,V027
+6,Royal Challengers Bangalore,Sunrisers Hyderabad,male,2016,2016/05/29,Indian Premier League,,Sunrisers Hyderabad,bat,BCJ Cutting,Sunrisers Hyderabad,8.0,981019,runs,,,,,,V029
+6,Sunrisers Hyderabad,Kings XI Punjab,male,2015,2015/05/11,Indian Premier League,48.0,Sunrisers Hyderabad,bat,DA Warner,Sunrisers Hyderabad,5.0,829799,runs,,,,,,V027
+6,Royal Challengers Bangalore,Delhi Daredevils,male,2015,2015/05/17,Indian Premier League,55.0,Royal Challengers Bangalore,field,,,,829813,,no result,,,,,V029
+6,Royal Challengers Bangalore,Delhi Daredevils,male,2016,2016/04/17,Indian Premier League,11.0,Delhi Daredevils,field,Q de Kock,Delhi Daredevils,7.0,980921,wickets,,,,,,V029
+6,Rising Pune Supergiants,Royal Challengers Bangalore,male,2016,2016/04/22,Indian Premier League,16.0,Rising Pune Supergiants,field,AB de Villiers,Royal Challengers Bangalore,13.0,980931,runs,,,,,,V020
+6,Rising Pune Supergiants,Gujarat Lions,male,2016,2016/04/29,Indian Premier League,25.0,Gujarat Lions,field,DR Smith,Gujarat Lions,3.0,980949,wickets,,,,,,V020
+6,Gujarat Lions,Royal Challengers Bangalore,male,2016,2016/04/24,Indian Premier League,19.0,Royal Challengers Bangalore,bat,V Kohli,Gujarat Lions,6.0,980937,wickets,,,,,,V033
+6,Kings XI Punjab,Mumbai Indians,male,2016,2016/04/25,Indian Premier League,21.0,Kings XI Punjab,field,PA Patel,Mumbai Indians,25.0,980941,runs,,,,,,V030
+6,Gujarat Lions,Sunrisers Hyderabad,male,2016,2016/04/21,Indian Premier League,15.0,Sunrisers Hyderabad,field,B Kumar,Sunrisers Hyderabad,10.0,980929,wickets,,,,,,V033
+6,Sunrisers Hyderabad,Royal Challengers Bangalore,male,2016,2016/04/30,Indian Premier League,27.0,Royal Challengers Bangalore,field,DA Warner,Sunrisers Hyderabad,15.0,980953,runs,,,,,,V027
+6,Kings XI Punjab,Chennai Super Kings,male,2015,2015/05/16,Indian Premier League,53.0,Kings XI Punjab,bat,P Negi,Chennai Super Kings,7.0,829809,wickets,,,,,,V030
+6,Mumbai Indians,Kolkata Knight Riders,male,2015,2015/05/14,Indian Premier League,51.0,Kolkata Knight Riders,field,HH Pandya,Mumbai Indians,5.0,829805,runs,,,,,,V019
+6,Kings XI Punjab,Rising Pune Supergiants,male,2016,2016/04/17,Indian Premier League,10.0,Rising Pune Supergiants,bat,M Vohra,Kings XI Punjab,6.0,980919,wickets,,,,,,V030
+6,Rajasthan Royals,Kolkata Knight Riders,male,2015,2015/05/16,Indian Premier League,54.0,Rajasthan Royals,bat,SR Watson,Rajasthan Royals,9.0,829811,runs,,,,,,V016
+6,Delhi Daredevils,Chennai Super Kings,male,2015,2015/05/12,Indian Premier League,49.0,Chennai Super Kings,bat,Z Khan,Delhi Daredevils,6.0,829801,wickets,,,,,,V002
+6,Mumbai Indians,Royal Challengers Bangalore,male,2015,2015/05/10,Indian Premier League,46.0,Royal Challengers Bangalore,bat,AB de Villiers,Royal Challengers Bangalore,39.0,829795,runs,,,,,,V019
+6,Kings XI Punjab,Gujarat Lions,male,2016,2016/04/11,Indian Premier League,3.0,Gujarat Lions,field,AJ Finch,Gujarat Lions,5.0,980905,wickets,,,,,,V030
+6,Sunrisers Hyderabad,Mumbai Indians,male,2016,2016/04/18,Indian Premier League,12.0,Sunrisers Hyderabad,field,DA Warner,Sunrisers Hyderabad,7.0,980923,wickets,,,,,,V027
+6,Kolkata Knight Riders,Mumbai Indians,male,2016,2016/04/13,Indian Premier League,5.0,Mumbai Indians,field,RG Sharma,Mumbai Indians,6.0,980909,wickets,,,,,,V023
+6,Gujarat Lions,Rising Pune Supergiants,male,2016,2016/04/14,Indian Premier League,6.0,Rising Pune Supergiants,bat,AJ Finch,Gujarat Lions,7.0,980911,wickets,,,,,,V033
+6,Royal Challengers Bangalore,Sunrisers Hyderabad,male,2016,2016/04/12,Indian Premier League,4.0,Sunrisers Hyderabad,field,AB de Villiers,Royal Challengers Bangalore,45.0,980907,runs,,,,,,V029
+6,Kings XI Punjab,Delhi Daredevils,male,2016,2016/05/07,Indian Premier League,36.0,Delhi Daredevils,field,MP Stoinis,Kings XI Punjab,9.0,980971,runs,,,,,,V030
+6,Mumbai Indians,Gujarat Lions,male,2016,2016/04/16,Indian Premier League,9.0,Gujarat Lions,field,AJ Finch,Gujarat Lions,3.0,980917,wickets,,,,,,V019
+6,Sunrisers Hyderabad,Mumbai Indians,male,2015,2015/05/17,Indian Premier League,56.0,Sunrisers Hyderabad,bat,MJ McClenaghan,Mumbai Indians,9.0,829815,wickets,,,,,,V027
+6,Chennai Super Kings,Mumbai Indians,male,2015,2015/05/19,Indian Premier League,,Mumbai Indians,bat,KA Pollard,Mumbai Indians,25.0,829817,runs,,,,,,V019
+6,Delhi Daredevils,Mumbai Indians,male,2016,2016/04/23,Indian Premier League,17.0,Mumbai Indians,field,SV Samson,Delhi Daredevils,10.0,980933,runs,,,,,,V031
+6,Kolkata Knight Riders,Delhi Daredevils,male,2016,2016/04/10,Indian Premier League,2.0,Kolkata Knight Riders,field,AD Russell,Kolkata Knight Riders,9.0,980903,wickets,,,,,,V023
+6,Royal Challengers Bangalore,Rising Pune Supergiants,male,2016,2016/05/07,Indian Premier League,35.0,Royal Challengers Bangalore,field,V Kohli,Royal Challengers Bangalore,7.0,980969,wickets,,,,,,V029
+6,Royal Challengers Bangalore,Rajasthan Royals,male,2015,2015/05/20,Indian Premier League,,Royal Challengers Bangalore,bat,AB de Villiers,Royal Challengers Bangalore,71.0,829819,runs,,,,,,V020
+6,Mumbai Indians,Kings XI Punjab,male,2015,2015/04/12,Indian Premier League,7.0,Mumbai Indians,field,GJ Bailey,Kings XI Punjab,18.0,829717,runs,,,,,,V019
+6,Royal Challengers Bangalore,Rajasthan Royals,male,2015,2015/04/29,Indian Premier League,29.0,Rajasthan Royals,field,,,,829763,,no result,,,,,V029
+6,Royal Challengers Bangalore,Kolkata Knight Riders,male,2015,2015/05/02,Indian Premier League,33.0,Royal Challengers Bangalore,field,Mandeep Singh,Royal Challengers Bangalore,7.0,829771,wickets,,,,,,V029
+6,Mumbai Indians,Rising Pune Supergiants,male,2016,2016/04/09,Indian Premier League,1.0,Mumbai Indians,bat,AM Rahane,Rising Pune Supergiants,9.0,980901,wickets,,,,,,V019
+6,Kolkata Knight Riders,Delhi Daredevils,male,2015,2015/05/07,Indian Premier League,42.0,Kolkata Knight Riders,bat,PP Chawla,Kolkata Knight Riders,13.0,829761,runs,,,,,,V023
+6,Delhi Daredevils,Kings XI Punjab,male,2015,2015/05/01,Indian Premier League,31.0,Delhi Daredevils,field,NM Coulter-Nile,Delhi Daredevils,9.0,829767,wickets,,,,,,V031
+6,Chennai Super Kings,Royal Challengers Bangalore,male,2015,2015/05/22,Indian Premier League,,Chennai Super Kings,field,A Nehra,Chennai Super Kings,3.0,829821,wickets,,,,,,V001
+6,Sunrisers Hyderabad,Royal Challengers Bangalore,male,2015,2015/05/15,Indian Premier League,52.0,Sunrisers Hyderabad,bat,V Kohli,Royal Challengers Bangalore,6.0,829807,wickets,,,D/L,,,V027
+6,Kings XI Punjab,Royal Challengers Bangalore,male,2015,2015/05/13,Indian Premier League,50.0,Royal Challengers Bangalore,field,AR Patel,Kings XI Punjab,22.0,829803,runs,,,,,,V030
+6,Sunrisers Hyderabad,Chennai Super Kings,male,2015,2015/05/02,Indian Premier League,34.0,Chennai Super Kings,field,DA Warner,Sunrisers Hyderabad,22.0,829773,runs,,,,,,V027
+6,Kings XI Punjab,Delhi Daredevils,male,2015,2015/04/15,Indian Premier League,10.0,Kings XI Punjab,bat,MA Agarwal,Delhi Daredevils,5.0,829725,wickets,,,,,,V020
+6,Chennai Super Kings,Rajasthan Royals,male,2015,2015/05/10,Indian Premier League,47.0,Chennai Super Kings,bat,RA Jadeja,Chennai Super Kings,12.0,829797,runs,,,,,,V028
+6,Sunrisers Hyderabad,Delhi Daredevils,male,2015,2015/04/18,Indian Premier League,13.0,Delhi Daredevils,bat,JP Duminy,Delhi Daredevils,4.0,829731,runs,,,,,,V003
