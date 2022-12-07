@@ -1,8 +1,10 @@
 # IPL-Dashboard ( master Branch, app.py file)
 IPL data Analysis is a descriptive analysis app for all ipl stats containning more than 400+ analysis and graphs to get insight of all IPL stats and treands.
 - For using this Analysis app download all dependencies mentioned in requerements file and use command "streamlit run app.py" command to run it on yr local host.
-- 
+- You can visit app link to try it for yourself.
+- Below is some screenshots of this app.
 
+## App Link : https://aryanchaturvedi-ipl-dashboard-app-65fiip.streamlit.app/
 ![image](https://user-images.githubusercontent.com/77160352/206111856-1a3e82dc-3cae-4c85-be6c-b21fb2445fa3.png)
 
 - Contains:
